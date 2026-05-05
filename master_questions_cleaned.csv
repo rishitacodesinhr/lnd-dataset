@@ -1461,4 +1461,44 @@ General,Business Reasoning,Intermediate,situational,Market demand declines. What
 General,Business Reasoning,Advanced,situational,Company faces intense competition. What should you do?,Strengthen competitive advantage,Ignore competitors,Lower price blindly,Delay action,Strengthen competitive advantage,Strategy ensures survival.
 
 General,Logical Reasoning,Advanced,situational,Decision involves uncertainty. What should you do?,Use probabilistic reasoning,Ignore uncertainty,Guess outcome,Delay action,Use probabilistic reasoning,Helps informed decisions.
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
 
+Mixed,Decision Making,Advanced,technical,What is data driven decision?,Decision based on analysis,Random choice,Guess decision,UI logic,Decision based on analysis,Data improves accuracy.
+
+Mixed,Decision Making,Advanced,technical,What is trade off analysis?,Evaluating alternatives,Sorting data,Deleting data,Grouping values,Evaluating alternatives,Trade offs balance outcomes.
+
+Mixed,Decision Making,Advanced,technical,What is strategic alignment?,Matching decisions with goals,Writing code,Testing UI,Managing logs,Matching decisions with goals,Alignment ensures success.
+
+Mixed,Decision Making,Advanced,technical,What is risk assessment?,Evaluating potential risks,Sorting data,Deleting data,Grouping values,Evaluating potential risks,Risk affects decisions.
+
+Mixed,Decision Making,Advanced,technical,What is decision framework?,Structured decision approach,Random thinking,Code structure,UI layout,Structured decision approach,Framework improves decisions.
+
+Mixed,Data Analysis,Advanced,technical,What is data triangulation?,Using multiple data sources,Sorting data,Deleting data,Grouping values,Using multiple data sources,Improves accuracy.
+
+Mixed,Data Analysis,Advanced,technical,What is advanced analytics?,Deep data analysis methods,Simple analysis,Data cleaning,Sorting data,Deep data analysis methods,Advanced analytics drives insights.
+
+Mixed,Data Analysis,Advanced,technical,What is insight validation?,Confirming insight accuracy,Ignoring data,Deleting data,Sorting values,Confirming insight accuracy,Validation ensures trust.
+
+Mixed,Data Analysis,Advanced,technical,What is model interpretability?,Understanding model output,Code readability,UI design,Server speed,Understanding model output,Interpretability builds trust.
+
+Mixed,Data Analysis,Advanced,technical,What is data reliability?,Consistency and accuracy,Random data,Duplicate data,Missing data,Consistency and accuracy,Reliable data ensures quality.
+
+Mixed,Business Strategy,Advanced,technical,What is competitive strategy?,Plan to outperform competitors,Code strategy,UI design,Server config,Plan to outperform competitors,Strategy drives success.
+
+Mixed,Business Strategy,Advanced,technical,What is growth strategy?,Plan to expand business,Reducing cost,Improving UI,Server upgrade,Plan to expand business,Growth drives scale.
+
+Mixed,Business Strategy,Advanced,technical,What is strategic decision?,High impact choice,Random decision,Code decision,UI decision,High impact choice,Strategy shapes direction.
+
+Mixed,Business Strategy,Advanced,technical,What is market analysis?,Evaluating market conditions,Sorting data,Deleting data,Grouping values,Evaluating market conditions,Market drives decisions.
+
+Mixed,Business Strategy,Advanced,technical,What is value optimization?,Maximizing value outcomes,Reducing cost only,Increasing revenue only,Ignoring cost,Maximizing value outcomes,Optimization balances factors.
+
+Mixed,Decision Making,Advanced,situational,Data suggests one decision but intuition suggests another. What should you do?,Validate data and assumptions,Ignore data,Follow intuition blindly,Delay decision,Validate data and assumptions,Balanced thinking is key.
+
+Mixed,Data Analysis,Advanced,situational,Multiple datasets give conflicting insights. What should you do?,Perform triangulation,Ignore conflict,Choose randomly,Delay action,Perform triangulation,Multiple sources improve accuracy.
+
+Mixed,Business Strategy,Advanced,situational,New strategy shows potential but high risk. What should you do?,Evaluate risk vs reward,Ignore risk,Implement immediately,Delay action,Evaluate risk vs reward,Trade off matters.
+
+Mixed,Decision Making,Advanced,situational,Stakeholders disagree on decision. What should you do?,Align based on data and goals,Ignore stakeholders,Choose randomly,Delay decision,Align based on data and goals,Alignment ensures success.
+
+Mixed,Data Analysis,Advanced,situational,Insights are correct but not impactful. What should you do?,Refine and align with business goals,Ignore issue,Add more data,Delay report,Refine and align with business goals,Impact matters.
