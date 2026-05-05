@@ -1,0 +1,79 @@
+role,section,sub_section,title,description,link,level
+
+Business Analyst,overview,core,Role Overview,Acts as bridge between business and tech translating requirements into solutions,,Beginner
+Business Analyst,responsibilities,core,Requirement Gathering,Collect and document business needs from stakeholders,,Beginner
+Business Analyst,skills,core,Communication,Ability to interact with stakeholders effectively,,Beginner
+Business Analyst,tools,tool,Excel,Used for data analysis and reporting,,Beginner
+Business Analyst,tools,tool,SQL,Used to query databases,,Intermediate
+Business Analyst,terms,term,Stakeholder,Person involved in project decisions,,Beginner
+Business Analyst,terms,term,BRD,Business requirement document,,Beginner
+Business Analyst,concepts,concept,Requirement Gathering,Understanding business needs,https://learn.microsoft.com/en-us/training/modules/get-started-business-analysis/,Beginner
+Business Analyst,concepts,concept,Process Mapping,Visualizing workflows,https://www.lucidchart.com/pages/process-mapping,Intermediate
+Business Analyst,resources,article,Business Analysis Guide,Learn fundamentals of BA,https://learn.microsoft.com/en-us/training/modules/get-started-business-analysis/,Beginner
+Business Analyst,resources,video,BA Full Course,Complete BA overview,https://www.youtube.com/watch?v=2c8l6d5v5YI,Beginner
+Business Analyst,flow,process,BA Workflow,Business problem to solution lifecycle,,Beginner
+
+Product Manager,overview,core,Role Overview,Defines product vision and ensures value delivery,,Beginner
+Product Manager,responsibilities,core,Roadmap Planning,Define product roadmap and priorities,,Beginner
+Product Manager,skills,core,Strategic Thinking,Ability to align product with goals,,Intermediate
+Product Manager,tools,tool,Jira,Used for backlog management,,Beginner
+Product Manager,tools,tool,Google Analytics,Used for user data analysis,,Intermediate
+Product Manager,terms,term,Backlog,List of product tasks,,Beginner
+Product Manager,terms,term,User Story,Feature description from user perspective,,Beginner
+Product Manager,concepts,concept,Product Roadmap,Strategic product plan,https://www.atlassian.com/agile/product-management/roadmaps,Beginner
+Product Manager,concepts,concept,Prioritization,Ranking features by value,https://www.productplan.com/glossary/prioritization/,Intermediate
+Product Manager,resources,article,PM Guide,Learn product management basics,https://www.coursera.org/articles/product-manager,Beginner
+Product Manager,resources,video,PM Crash Course,Overview of PM role,https://www.youtube.com/watch?v=Y4Yb3J4z3b0,Beginner
+Product Manager,flow,process,PM Workflow,Idea to product lifecycle,,Beginner
+
+BI Developer,overview,core,Role Overview,Transforms data into dashboards and insights,,Beginner
+BI Developer,responsibilities,core,Dashboard Creation,Build visual dashboards for business,,Beginner
+BI Developer,skills,core,Data Visualization,Present insights visually,,Intermediate
+BI Developer,tools,tool,Power BI,Dashboard creation tool,,Beginner
+BI Developer,tools,tool,Tableau,Visualization tool,,Beginner
+BI Developer,terms,term,Dashboard,Visual data display,,Beginner
+BI Developer,terms,term,ETL,Extract transform load process,,Intermediate
+BI Developer,concepts,concept,Data Modeling,Structuring data for analysis,https://learn.microsoft.com/en-us/power-bi/guidance/star-schema,Intermediate
+BI Developer,concepts,concept,Visualization Best Practices,Effective chart usage,https://www.tableau.com/learn/articles/data-visualization,Beginner
+BI Developer,resources,article,BI Basics,Introduction to BI,https://www.ibm.com/topics/business-intelligence,Beginner
+BI Developer,resources,video,Power BI Tutorial,Learn Power BI basics,https://www.youtube.com/watch?v=AGrl-H87pRU,Beginner
+BI Developer,flow,process,BI Workflow,Raw data to dashboard,,Beginner
+
+Data Analyst,overview,core,Role Overview,Analyzes data to generate insights for decisions,,Beginner
+Data Analyst,responsibilities,core,Data Cleaning,Prepare raw data for analysis,,Beginner
+Data Analyst,skills,core,Analytical Thinking,Interpret data patterns,,Intermediate
+Data Analyst,tools,tool,Excel,Data analysis tool,,Beginner
+Data Analyst,tools,tool,Python,Advanced analysis tool,,Intermediate
+Data Analyst,terms,term,Outlier,Extreme data point,,Beginner
+Data Analyst,terms,term,Correlation,Relationship between variables,,Intermediate
+Data Analyst,concepts,concept,EDA,Exploratory data analysis,https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15,Beginner
+Data Analyst,concepts,concept,Regression,Modeling relationships,https://www.ibm.com/topics/regression-analysis,Intermediate
+Data Analyst,resources,article,Data Analysis Guide,Learn data analysis basics,https://www.coursera.org/articles/data-analyst,Beginner
+Data Analyst,resources,video,Data Analyst Course,Complete overview,https://www.youtube.com/watch?v=r-uOLxNrNk8,Beginner
+Data Analyst,flow,process,DA Workflow,Raw data to insights,,Beginner
+
+Product Owner,overview,core,Role Overview,Manages backlog and ensures Agile delivery,,Beginner
+Product Owner,responsibilities,core,Backlog Management,Prioritize and maintain backlog,,Beginner
+Product Owner,skills,core,Prioritization,Managing tasks by importance,,Intermediate
+Product Owner,tools,tool,Jira,Backlog tracking tool,,Beginner
+Product Owner,tools,tool,Confluence,Documentation tool,,Beginner
+Product Owner,terms,term,Sprint,Agile iteration,,Beginner
+Product Owner,terms,term,User Story,Feature description,,Beginner
+Product Owner,concepts,concept,Agile Scrum,Framework for development,https://www.scrum.org/resources/what-is-scrum,Beginner
+Product Owner,concepts,concept,Backlog Refinement,Improving backlog,https://www.atlassian.com/agile/scrum/backlog-refinement,Intermediate
+Product Owner,resources,article,PO Guide,Learn product owner role,https://www.scrum.org/resources/what-is-a-product-owner,Beginner
+Product Owner,resources,video,Scrum Explained,Agile basics,https://www.youtube.com/watch?v=9TycLR0TqFA,Beginner
+Product Owner,flow,process,PO Workflow,Backlog to delivery,,Beginner
+
+HR Analyst,overview,core,Role Overview,Uses data to improve HR decisions and workforce outcomes,,Beginner
+HR Analyst,responsibilities,core,HR Data Analysis,Analyze workforce data,,Beginner
+HR Analyst,skills,core,HR Analytics,Using data in HR,,Intermediate
+HR Analyst,tools,tool,Excel,HR data analysis,,Beginner
+HR Analyst,tools,tool,Power BI,HR dashboards,,Intermediate
+HR Analyst,terms,term,Attrition,Employee exits,,Beginner
+HR Analyst,terms,term,Engagement,Employee involvement,,Beginner
+HR Analyst,concepts,concept,People Analytics,Using data in HR,https://www.ibm.com/topics/people-analytics,Beginner
+HR Analyst,concepts,concept,Attrition Analysis,Studying employee exits,https://www.coursera.org/articles/attrition-analysis,Intermediate
+HR Analyst,resources,article,HR Analytics Guide,Learn HR analytics,https://www.coursera.org/articles/hr-analytics,Beginner
+HR Analyst,resources,video,HR Analytics Course,Complete overview,https://www.youtube.com/watch?v=7W6z6Zk0vXw,Beginner
+HR Analyst,flow,process,HR Workflow,Data to HR decisions,,Beginner
