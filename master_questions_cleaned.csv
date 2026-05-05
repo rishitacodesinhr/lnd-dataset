@@ -897,3 +897,568 @@ Product Owner,Agile Fundamentals,Intermediate,situational,Team velocity drops. W
 Product Owner,Agile Fundamentals,Advanced,situational,Scope changes disrupt sprint. What should you do?,Control scope and manage changes,Accept all changes,Ignore issue,Delay sprint,Control scope and manage changes,Stability ensures delivery.
 
 Product Owner,Agile Fundamentals,Advanced,situational,Team struggles with Agile adoption. What should you do?,Provide guidance and support,Ignore issue,Force process,Delay project,Provide guidance and support,Support improves adoption.
+
+Product Owner,Backlog Management,Beginner,technical,What is backlog refinement?,Improving backlog items,Deleting backlog,Sorting code,Testing system,Improving backlog items,Refinement ensures clarity.
+
+Product Owner,Backlog Management,Beginner,technical,What is backlog prioritization?,Ranking items by importance,Writing code,Designing UI,Testing system,Ranking items by importance,Prioritization ensures value.
+
+Product Owner,Backlog Management,Beginner,technical,What is user story?,Short feature description,Code module,Database table,Server config,Short feature description,Stories describe requirements.
+
+Product Owner,Backlog Management,Beginner,technical,What is acceptance criteria?,Conditions for completion,Code logic,UI design,Server setup,Conditions for completion,Defines success.
+
+Product Owner,Backlog Management,Beginner,technical,What is backlog item?,Unit of work,Code block,UI element,Server log,Unit of work,Backlog stores items.
+
+Product Owner,Backlog Management,Intermediate,technical,What is story prioritization?,Ordering stories by value,Writing code,Testing UI,Managing logs,Ordering stories by value,Ensures focus.
+
+Product Owner,Backlog Management,Intermediate,technical,What is backlog grooming?,Updating backlog regularly,Deleting backlog,Sorting code,Testing system,Updating backlog regularly,Maintains backlog quality.
+
+Product Owner,Backlog Management,Intermediate,technical,What is epic?,Large feature broken into stories,Small task,Code module,UI component,Large feature broken into stories,Epics organize work.
+
+Product Owner,Backlog Management,Intermediate,technical,What is story estimation?,Estimating effort required,Writing code,Testing UI,Managing logs,Estimating effort required,Helps planning.
+
+Product Owner,Backlog Management,Intermediate,technical,What is story mapping?,Organizing stories visually,Writing code,Designing UI,Testing system,Organizing stories visually,Improves workflow understanding.
+
+Product Owner,Backlog Management,Advanced,technical,What is INVEST principle?,Guidelines for good stories,Code rule,UI design standard,Server config,Guidelines for good stories,Ensures story quality.
+
+Product Owner,Backlog Management,Advanced,technical,What is story splitting?,Breaking large stories,Deleting tasks,Grouping code,Sorting data,Breaking large stories,Makes work manageable.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog health?,Quality of backlog,Code quality,UI layout,Server uptime,Quality of backlog,Healthy backlog improves delivery.
+
+Product Owner,Backlog Management,Advanced,technical,What is story alignment?,Matching stories with goals,Writing code,Testing UI,Managing servers,Matching stories with goals,Ensures relevance.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog ownership?,Responsibility for backlog,Writing code,Testing UI,Managing servers,Responsibility for backlog,PO owns backlog.
+
+Product Owner,Backlog Management,Beginner,situational,Backlog items are unclear. What should you do?,Refine and clarify items,Ignore issue,Delay sprint,Guess requirements,Refine and clarify items,Clarity ensures execution.
+
+Product Owner,Backlog Management,Intermediate,situational,Too many backlog items exist. What should you do?,Prioritize effectively,Add more items,Ignore issue,Delay work,Prioritize effectively,Focus improves delivery.
+
+Product Owner,Backlog Management,Intermediate,situational,Stories lack acceptance criteria. What should you do?,Define criteria clearly,Ignore issue,Delay sprint,Add later,Define criteria clearly,Criteria ensures clarity.
+
+Product Owner,Backlog Management,Advanced,situational,Backlog is misaligned with goals. What should you do?,Realign with strategy,Ignore mismatch,Delay sprint,Add more stories,Realign with strategy,Alignment ensures value.
+
+Product Owner,Backlog Management,Advanced,situational,Stakeholders keep adding low priority items. What should you do?,Manage prioritization strictly,Accept all items,Ignore stakeholders,Delay backlog,Manage prioritization strictly,Prioritization maintains focus.
+
+Product Owner,Stakeholder Management,Beginner,technical,What is stakeholder?,Person affected by product,Developer only,Tester only,Manager only,Person affected by product,Stakeholders influence product decisions.
+
+Product Owner,Stakeholder Management,Beginner,technical,What is stakeholder feedback?,Input from stakeholders,Code output,UI design,Server log,Input from stakeholders,Feedback improves product.
+
+Product Owner,Stakeholder Management,Beginner,technical,What is stakeholder communication?,Sharing updates clearly,Writing code,Testing UI,Managing logs,Sharing updates clearly,Communication ensures alignment.
+
+Product Owner,Stakeholder Management,Beginner,technical,What is stakeholder expectation?,What stakeholders want,Code logic,UI design,Server config,What stakeholders want,Expectations guide priorities.
+
+Product Owner,Stakeholder Management,Beginner,technical,What is stakeholder alignment?,Agreement on goals,Code alignment,UI design,Server setup,Agreement on goals,Alignment ensures clarity.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder prioritization?,Ranking stakeholders by influence,Writing code,Testing UI,Managing logs,Ranking stakeholders by influence,Helps focus efforts.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder conflict?,Disagreement among stakeholders,Code error,UI issue,Server failure,Disagreement among stakeholders,Conflicts require resolution.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder engagement?,Involving stakeholders actively,Writing code,Testing UI,Managing logs,Involving stakeholders actively,Engagement builds trust.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder mapping?,Identifying stakeholder roles,Code mapping,UI design,Server config,Identifying stakeholder roles,Helps manage relationships.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder communication plan?,Structured communication strategy,Code plan,UI design,Server config,Structured communication strategy,Ensures clarity.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder influence?,Impact on decisions,Code impact,UI design,Server config,Impact on decisions,Influence affects priorities.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder risk?,Potential negative impact,Code bug,UI issue,Server failure,Potential negative impact,Risks must be managed.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder negotiation?,Resolving conflicting needs,Writing code,Testing UI,Managing logs,Resolving conflicting needs,Negotiation ensures balance.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder transparency?,Open communication,Code clarity,UI design,Server config,Open communication,Transparency builds trust.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder value?,Benefit to stakeholders,Code value,UI design,Server speed,Benefit to stakeholders,Value drives satisfaction.
+
+Product Owner,Sprint Execution,Beginner,situational,Stakeholder requests change mid sprint. What should you do?,Evaluate and manage change,Accept immediately,Ignore request,Delay sprint,Evaluate and manage change,Changes should be controlled.
+
+Product Owner,Sprint Execution,Intermediate,situational,Team is unclear about priorities. What should you do?,Clarify backlog priorities,Ignore issue,Add more tasks,Delay sprint,Clarify backlog priorities,Clarity improves execution.
+
+Product Owner,Sprint Execution,Intermediate,situational,Stakeholders disagree on feature priority. What should you do?,Align based on value,Choose randomly,Ignore conflict,Delay decision,Align based on value,Value based decisions work best.
+
+Product Owner,Sprint Execution,Advanced,situational,Frequent scope changes disrupt sprint. What should you do?,Control scope and communicate,Accept all changes,Ignore issue,Delay sprint,Control scope and communicate,Stability ensures delivery.
+
+Product Owner,Sprint Execution,Advanced,situational,Team misses sprint goals repeatedly. What should you do?,Analyze and adjust planning,Ignore issue,Blame team,Add more work,Analyze and adjust planning,Better planning improves outcomes.
+
+Product Owner,Backlog Management,Intermediate,technical,What is backlog refinement meeting?,Session to improve backlog,Code review meeting,UI testing session,Server check meeting,Session to improve backlog,Refinement ensures clarity.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog prioritization strategy?,Framework for ordering items,Writing code,Testing UI,Managing logs,Framework for ordering items,Strategy improves decisions.
+
+Product Owner,Backlog Management,Advanced,technical,What is value based prioritization?,Ranking by business value,Sorting data,Deleting data,Grouping rows,Ranking by business value,Value drives priority.
+
+Product Owner,Backlog Management,Intermediate,technical,What is backlog dependency?,Item relying on another,Code block,UI component,Server log,Item relying on another,Dependencies affect delivery.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog risk?,Potential issues in backlog,Code bug,UI issue,Server failure,Potential issues in backlog,Risk impacts planning.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder escalation?,Raising issues to higher level,Writing code,Testing UI,Managing logs,Raising issues to higher level,Escalation resolves issues.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder expectation management?,Aligning expectations realistically,Writing code,Testing UI,Managing logs,Aligning expectations realistically,Prevents conflicts.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder decision making?,Influencing key decisions,Code logic,UI design,Server config,Influencing key decisions,Stakeholders impact direction.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder collaboration?,Working together effectively,Writing code,Testing UI,Managing logs,Working together effectively,Collaboration ensures success.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder trust?,Confidence in decisions,Code accuracy,UI design,Server speed,Confidence in decisions,Trust improves relationships.
+
+Product Owner,Sprint Execution,Intermediate,technical,What is sprint capacity planning?,Estimating team workload,Code capacity,UI capacity,Server capacity,Estimating team workload,Helps realistic planning.
+
+Product Owner,Sprint Execution,Advanced,technical,What is sprint risk?,Risk affecting sprint delivery,Code bug,UI issue,Server failure,Risk affecting sprint delivery,Risks impact execution.
+
+Product Owner,Sprint Execution,Advanced,technical,What is sprint dependency management?,Handling dependencies in sprint,Writing code,Testing UI,Managing logs,Handling dependencies in sprint,Ensures smooth execution.
+
+Product Owner,Sprint Execution,Intermediate,technical,What is sprint commitment?,Planned sprint work,Code target,UI design,Server setup,Planned sprint work,Defines scope.
+
+Product Owner,Sprint Execution,Advanced,technical,What is sprint outcome?,Result of sprint,Code output,UI design,Server log,Result of sprint,Outcome shows value delivered.
+
+Product Owner,Backlog Management,Beginner,situational,Backlog items keep increasing. What should you do?,Prioritize and clean backlog,Ignore issue,Add more items,Delay sprint,Prioritize and clean backlog,Focus ensures efficiency.
+
+Product Owner,Stakeholder Management,Intermediate,situational,Stakeholders demand unrealistic deadlines. What should you do?,Set realistic expectations,Agree immediately,Ignore request,Delay response,Set realistic expectations,Realism ensures success.
+
+Product Owner,Sprint Execution,Intermediate,situational,Team overcommits every sprint. What should you do?,Adjust capacity planning,Ignore issue,Increase workload,Delay sprint,Adjust capacity planning,Realistic planning helps.
+
+Product Owner,Sprint Execution,Advanced,situational,Critical dependency blocks sprint. What should you do?,Resolve dependency quickly,Ignore issue,Delay sprint,Remove feature,Resolve dependency quickly,Dependencies must be handled.
+
+Product Owner,Stakeholder Management,Advanced,situational,Stakeholders lose trust in delivery. What should you do?,Improve transparency and communication,Ignore issue,Blame team,Delay updates,Improve transparency and communication,Trust requires clarity.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog prioritization framework?,Structured approach to rank items,Writing code,Testing UI,Managing logs,Structured approach to rank items,Framework improves prioritization.
+
+Product Owner,Backlog Management,Intermediate,technical,What is backlog visibility?,Transparency of backlog items,Code visibility,UI design,Server logs,Transparency of backlog items,Visibility improves alignment.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog refinement quality?,Clarity and readiness of items,Code quality,UI layout,Server uptime,Clarity and readiness of items,Quality ensures execution.
+
+Product Owner,Backlog Management,Intermediate,technical,What is story readiness?,Prepared for development,Code ready,UI ready,Server ready,Prepared for development,Readiness ensures smooth sprint.
+
+Product Owner,Backlog Management,Advanced,technical,What is backlog optimization?,Improving backlog efficiency,Deleting backlog,Sorting code,Testing system,Improving backlog efficiency,Optimization improves flow.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder feedback loop?,Continuous feedback cycle,Code loop,UI design loop,Server loop,Continuous feedback cycle,Feedback improves product.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder influence mapping?,Mapping influence levels,Code mapping,UI design,Server config,Mapping influence levels,Helps prioritization.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder expectation alignment?,Matching expectations with reality,Writing code,Testing UI,Managing logs,Matching expectations with reality,Alignment prevents conflict.
+
+Product Owner,Stakeholder Management,Intermediate,technical,What is stakeholder communication clarity?,Clear communication of updates,Code clarity,UI design,Server config,Clear communication of updates,Clarity ensures understanding.
+
+Product Owner,Stakeholder Management,Advanced,technical,What is stakeholder value delivery?,Delivering expected value,Code value,UI design,Server speed,Delivering expected value,Value drives satisfaction.
+
+Product Owner,Sprint Execution,Intermediate,technical,What is sprint predictability?,Consistency of delivery,Code predictability,UI predictability,Server predictability,Consistency of delivery,Predictability builds trust.
+
+Product Owner,Sprint Execution,Advanced,technical,What is sprint flow efficiency?,Smooth workflow through sprint,Code flow,UI flow,Server flow,Smooth workflow through sprint,Efficiency improves delivery.
+
+Product Owner,Sprint Execution,Advanced,technical,What is sprint outcome measurement?,Evaluating delivered value,Code output,UI design,Server log,Evaluating delivered value,Measures success.
+
+Product Owner,Sprint Execution,Intermediate,technical,What is sprint planning accuracy?,Correct estimation of work,Code accuracy,UI accuracy,Server accuracy,Correct estimation of work,Accuracy improves planning.
+
+Product Owner,Sprint Execution,Advanced,technical,What is sprint adaptability?,Ability to adjust plans,Fixed planning,Code changes,UI design,Ability to adjust plans,Adaptability supports agility.
+
+Product Owner,Backlog Management,Intermediate,situational,Backlog items are not ready for sprint. What should you do?,Refine before sprint,Ignore issue,Delay sprint,Add anyway,Refine before sprint,Preparation ensures success.
+
+Product Owner,Stakeholder Management,Advanced,situational,Stakeholders keep changing priorities frequently. What should you do?,Stabilize priorities with clear criteria,Accept all changes,Ignore issue,Delay sprint,Stabilize priorities with clear criteria,Consistency improves delivery.
+
+Product Owner,Sprint Execution,Intermediate,situational,Sprint outcomes are inconsistent. What should you do?,Improve planning and tracking,Ignore issue,Blame team,Delay sprint,Improve planning and tracking,Consistency improves results.
+
+Product Owner,Sprint Execution,Advanced,situational,Team struggles with sprint focus. What should you do?,Reinforce sprint goals clearly,Ignore issue,Add more work,Delay sprint,Reinforce sprint goals clearly,Focus ensures delivery.
+
+Product Owner,Stakeholder Management,Advanced,situational,Stakeholders doubt backlog priorities. What should you do?,Justify with data and value,Ignore doubts,Change priorities randomly,Delay response,Justify with data and value,Data builds confidence.
+
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+HR Analyst,HR Fundamentals,Beginner,technical,What is HR?,Managing people in organization,Writing code,Designing UI,Managing servers,Managing people in organization,HR focuses on workforce management.
+
+HR Analyst,HR Fundamentals,Beginner,technical,What is recruitment?,Hiring employees,Training employees,Managing payroll,Designing UI,Hiring employees,Recruitment fills positions.
+
+HR Analyst,HR Fundamentals,Beginner,technical,What is onboarding?,Integrating new hires,Hiring process,Salary calculation,Performance review,Integrating new hires,Onboarding helps employees adapt.
+
+HR Analyst,HR Fundamentals,Beginner,technical,What is performance management?,Evaluating employee performance,Hiring process,Payroll calculation,Training only,Evaluating employee performance,Ensures productivity.
+
+HR Analyst,HR Fundamentals,Beginner,technical,What is employee engagement?,Level of employee involvement,Salary calculation,Code efficiency,UI design,Level of employee involvement,Engagement drives performance.
+
+HR Analyst,HR Fundamentals,Intermediate,technical,What is attrition?,Employees leaving organization,Employees joining,Code error,UI issue,Employees leaving organization,Attrition affects workforce.
+
+HR Analyst,HR Fundamentals,Intermediate,technical,What is retention?,Keeping employees,Hiring employees,Training employees,Payroll process,Keeping employees,Retention reduces attrition.
+
+HR Analyst,HR Fundamentals,Intermediate,technical,What is talent management?,Managing employee lifecycle,Writing code,Testing UI,Managing servers,Managing employee lifecycle,Includes hiring to retention.
+
+HR Analyst,HR Fundamentals,Intermediate,technical,What is learning and development?,Employee skill improvement,Hiring process,Payroll system,UI design,Employee skill improvement,L&D builds capability.
+
+HR Analyst,HR Fundamentals,Intermediate,technical,What is workforce planning?,Planning employee needs,Writing code,Designing UI,Server setup,Planning employee needs,Ensures staffing needs.
+
+HR Analyst,HR Fundamentals,Advanced,technical,What is HR analytics?,Using data for HR decisions,Writing code,Designing UI,Managing servers,Using data for HR decisions,Analytics improves HR outcomes.
+
+HR Analyst,HR Fundamentals,Advanced,technical,What is people analytics?,Analyzing employee data,Sorting data,Deleting data,Grouping rows,Analyzing employee data,Helps strategic decisions.
+
+HR Analyst,HR Fundamentals,Advanced,technical,What is predictive HR analytics?,Forecasting HR trends,Summarizing past data,Cleaning data,Sorting data,Forecasting HR trends,Uses models to predict outcomes.
+
+HR Analyst,HR Fundamentals,Advanced,technical,What is employee lifecycle?,Stages of employee journey,Code lifecycle,UI lifecycle,Server lifecycle,Stages of employee journey,From hire to exit.
+
+HR Analyst,HR Fundamentals,Advanced,technical,What is HR KPI?,Metric to measure HR performance,Code metric,UI metric,Server metric,Metric to measure HR performance,KPIs track HR success.
+
+HR Analyst,HR Fundamentals,Beginner,situational,Employee engagement is low. What should you do?,Analyze feedback and improve initiatives,Ignore issue,Increase workload,Delay action,Analyze feedback and improve initiatives,Engagement needs active effort.
+
+HR Analyst,HR Fundamentals,Intermediate,situational,Attrition rate is rising. What should you do?,Investigate root causes,Ignore trend,Hire more employees,Delay action,Investigate root causes,Root cause analysis is key.
+
+HR Analyst,HR Fundamentals,Intermediate,situational,Employees lack required skills. What should you do?,Implement training programs,Ignore issue,Increase workload,Delay hiring,Implement training programs,Training improves capability.
+
+HR Analyst,HR Fundamentals,Advanced,situational,HR decisions lack data support. What should you do?,Use HR analytics,Ignore data,Guess decisions,Delay action,Use HR analytics,Data improves decisions.
+
+HR Analyst,HR Fundamentals,Advanced,situational,Workforce planning is inaccurate. What should you do?,Reassess data and assumptions,Ignore issue,Hire randomly,Delay planning,Reassess data and assumptions,Accurate planning needs data.
+
+HR Analyst,HR Metrics,Beginner,technical,What is HR metric?,Measure of HR performance,Code parameter,UI element,Server metric,Measure of HR performance,Metrics track HR effectiveness.
+
+HR Analyst,HR Metrics,Beginner,technical,What is attrition rate?,Percentage of employees leaving,Employees joining rate,Total employees,Salary increase rate,Percentage of employees leaving,Attrition measures exits.
+
+HR Analyst,HR Metrics,Beginner,technical,What is retention rate?,Percentage of employees staying,Employees leaving rate,Total hires,Salary growth rate,Percentage of employees staying,Retention measures loyalty.
+
+HR Analyst,HR Metrics,Beginner,technical,What is hiring rate?,Number of hires over time,Employees leaving rate,Total employees,Training rate,Number of hires over time,Hiring rate tracks recruitment.
+
+HR Analyst,HR Metrics,Beginner,technical,What is absenteeism?,Employee absence rate,Employee performance,Salary growth,Code error,Employee absence rate,Absenteeism impacts productivity.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is time to hire?,Time taken to fill role,Employee tenure,Salary cycle,Training duration,Time taken to fill role,Measures recruitment efficiency.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is cost per hire?,Cost of recruitment,Employee salary,Training cost,Server cost,Cost of recruitment,Tracks hiring expense.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is employee productivity?,Output per employee,Total employees,Salary growth,Code efficiency,Output per employee,Measures performance.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is engagement score?,Level of employee involvement,Salary score,Code score,UI score,Level of employee involvement,Measures engagement.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is turnover?,Employee exits,Employee hires,Training sessions,Salary changes,Employee exits,Turnover reflects attrition.
+
+HR Analyst,HR Metrics,Advanced,technical,What is predictive attrition?,Forecasting employee exits,Past attrition data,Data cleaning,Sorting data,Forecasting employee exits,Helps proactive retention.
+
+HR Analyst,HR Metrics,Advanced,technical,What is workforce analytics?,Analyzing workforce data,Writing code,Designing UI,Managing servers,Analyzing workforce data,Supports HR decisions.
+
+HR Analyst,HR Metrics,Advanced,technical,What is HR dashboard?,Visual HR metrics display,Code panel,Database schema,Server log,Visual HR metrics display,Dashboards show insights.
+
+HR Analyst,HR Metrics,Advanced,technical,What is KPI alignment?,Matching metrics with goals,Writing code,Testing UI,Managing logs,Matching metrics with goals,Alignment ensures relevance.
+
+HR Analyst,HR Metrics,Advanced,technical,What is data driven HR?,Decision making using data,Guessing decisions,Ignoring data,Manual process,Decision making using data,Improves HR outcomes.
+
+HR Analyst,HR Metrics,Beginner,situational,Attrition rate increases suddenly. What should you do?,Analyze root causes,Ignore issue,Hire more employees,Delay action,Analyze root causes,Understanding reasons is key.
+
+HR Analyst,HR Metrics,Intermediate,situational,Time to hire is too high. What should you do?,Improve recruitment process,Ignore issue,Increase workload,Delay hiring,Improve recruitment process,Efficiency improves hiring.
+
+HR Analyst,HR Metrics,Intermediate,situational,Employee productivity drops. What should you do?,Analyze performance drivers,Ignore issue,Increase pressure,Delay action,Analyze performance drivers,Identify root cause.
+
+HR Analyst,HR Metrics,Advanced,situational,HR metrics conflict with business goals. What should you do?,Realign metrics with goals,Ignore mismatch,Delay action,Add more metrics,Realign metrics with goals,Alignment ensures value.
+
+HR Analyst,HR Metrics,Advanced,situational,Stakeholders question HR data accuracy. What should you do?,Validate and explain data,Ignore question,Change data,Delay response,Validate and explain data,Trust requires accuracy.
+
+HR Analyst,People Analytics,Beginner,technical,What is HR data?,Employee related data,Code data,UI data,Server data,Employee related data,HR data includes workforce information.
+
+HR Analyst,People Analytics,Beginner,technical,What is employee dataset?,Collection of employee data,Single record,Code block,UI element,Collection of employee data,Dataset stores structured HR data.
+
+HR Analyst,People Analytics,Beginner,technical,What is HR reporting?,Presenting HR data,Writing code,Designing UI,Managing servers,Presenting HR data,Reports communicate insights.
+
+HR Analyst,People Analytics,Beginner,technical,What is HR insight?,Meaningful HR interpretation,Raw data,Code output,UI element,Meaningful HR interpretation,Insights guide decisions.
+
+HR Analyst,People Analytics,Beginner,technical,What is HR dashboard?,Visual HR data display,Code panel,Database schema,Server log,Visual HR data display,Dashboards simplify analysis.
+
+HR Analyst,People Analytics,Intermediate,technical,What is employee segmentation?,Grouping employees by attributes,Sorting code,Deleting data,Grouping rows,Grouping employees by attributes,Segmentation improves analysis.
+
+HR Analyst,People Analytics,Intermediate,technical,What is attrition analysis?,Studying employee exits,Hiring analysis,Training analysis,Payroll analysis,Studying employee exits,Helps reduce attrition.
+
+HR Analyst,People Analytics,Intermediate,technical,What is performance analysis?,Evaluating employee performance,Writing code,Designing UI,Managing servers,Evaluating employee performance,Supports appraisal decisions.
+
+HR Analyst,People Analytics,Intermediate,technical,What is engagement analysis?,Analyzing employee involvement,Sorting data,Deleting data,Grouping rows,Analyzing employee involvement,Improves engagement.
+
+HR Analyst,People Analytics,Intermediate,technical,What is workforce segmentation?,Dividing workforce into groups,Sorting data,Deleting data,Grouping code,Dividing workforce into groups,Helps targeted actions.
+
+HR Analyst,People Analytics,Advanced,technical,What is predictive modeling in HR?,Forecasting employee outcomes,Summarizing past data,Cleaning data,Sorting data,Forecasting employee outcomes,Used for predictions.
+
+HR Analyst,People Analytics,Advanced,technical,What is attrition prediction?,Predicting employee exits,Past attrition data,Data cleaning,Sorting data,Predicting employee exits,Helps proactive retention.
+
+HR Analyst,People Analytics,Advanced,technical,What is performance prediction?,Forecasting employee performance,Summarizing past data,Cleaning data,Sorting data,Forecasting employee performance,Supports talent decisions.
+
+HR Analyst,People Analytics,Advanced,technical,What is HR data visualization?,Visualizing HR insights,Writing code,Designing UI,Managing servers,Visualizing HR insights,Helps interpretation.
+
+HR Analyst,People Analytics,Advanced,technical,What is HR data storytelling?,Communicating HR insights,Writing code,Testing UI,Managing logs,Communicating HR insights,Storytelling drives decisions.
+
+HR Analyst,People Analytics,Beginner,situational,HR data is incomplete. What should you do?,Clean and complete data,Ignore issue,Delete dataset,Proceed anyway,Clean and complete data,Data quality is critical.
+
+HR Analyst,People Analytics,Intermediate,situational,Attrition analysis shows unclear trends. What should you do?,Perform deeper analysis,Ignore results,Delete data,Change dataset,Perform deeper analysis,Further analysis reveals insights.
+
+HR Analyst,People Analytics,Intermediate,situational,Stakeholder wants quick HR insights. What should you do?,Provide concise analysis,Add more data,Ignore request,Delay report,Provide concise analysis,Clarity improves communication.
+
+HR Analyst,People Analytics,Advanced,situational,Predictive model accuracy is low. What should you do?,Refine model and data,Ignore results,Delete model,Change output,Refine model and data,Improvement ensures accuracy.
+
+HR Analyst,People Analytics,Advanced,situational,HR insights are not actionable. What should you do?,Add recommendations,Ignore issue,Present anyway,Delay report,Add recommendations,Actionable insights drive decisions.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is employee tenure?,Length of employee service,Salary duration,Training time,Code duration,Length of employee service,Tenure shows experience.
+
+HR Analyst,HR Metrics,Advanced,technical,What is attrition cost?,Cost of employee exit,Employee salary,Training cost,Server cost,Cost of employee exit,Attrition impacts finances.
+
+HR Analyst,HR Metrics,Advanced,technical,What is engagement driver?,Factor influencing engagement,Code driver,UI driver,Server driver,Factor influencing engagement,Drivers impact engagement.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is internal mobility?,Movement within organization,Hiring process,Training program,Payroll process,Movement within organization,Improves retention.
+
+HR Analyst,HR Metrics,Advanced,technical,What is diversity metric?,Measures workforce diversity,Code metric,UI metric,Server metric,Measures workforce diversity,Diversity impacts culture.
+
+HR Analyst,People Analytics,Intermediate,technical,What is data segmentation?,Dividing data into groups,Sorting data,Deleting data,Grouping code,Dividing data into groups,Segmentation improves insights.
+
+HR Analyst,People Analytics,Advanced,technical,What is regression in HR?,Modeling relationships in HR data,Sorting data,Deleting data,Grouping rows,Modeling relationships in HR data,Regression predicts outcomes.
+
+HR Analyst,People Analytics,Advanced,technical,What is correlation in HR?,Relationship between HR variables,Sorting data,Deleting data,Grouping rows,Relationship between HR variables,Shows association.
+
+HR Analyst,People Analytics,Intermediate,technical,What is data normalization?,Organizing data efficiently,Adding redundancy,Sorting data,Deleting tables,Organizing data efficiently,Improves data structure.
+
+HR Analyst,People Analytics,Advanced,technical,What is HR data bias?,Systematic error in HR data,Random value,Duplicate entry,Missing value,Systematic error in HR data,Bias affects decisions.
+
+HR Analyst,HR Strategy,Intermediate,technical,What is workforce strategy?,Plan for workforce needs,Code strategy,UI design,Server config,Plan for workforce needs,Strategy aligns HR goals.
+
+HR Analyst,HR Strategy,Advanced,technical,What is talent strategy?,Plan for talent development,Code strategy,UI design,Server config,Plan for talent development,Supports growth.
+
+HR Analyst,HR Strategy,Advanced,technical,What is HR alignment?,Matching HR with business goals,Writing code,Testing UI,Managing logs,Matching HR with business goals,Alignment ensures impact.
+
+HR Analyst,HR Strategy,Intermediate,technical,What is succession planning?,Preparing future leaders,Hiring process,Training session,Payroll process,Preparing future leaders,Ensures continuity.
+
+HR Analyst,HR Strategy,Advanced,technical,What is organizational capability?,Ability to achieve goals,Code capability,UI capability,Server capability,Ability to achieve goals,Capability drives success.
+
+HR Analyst,HR Metrics,Beginner,situational,Employee tenure is decreasing. What should you do?,Analyze retention factors,Ignore issue,Hire more employees,Delay action,Analyze retention factors,Understanding causes helps retention.
+
+HR Analyst,People Analytics,Intermediate,situational,Engagement scores vary across teams. What should you do?,Segment and analyze teams,Ignore issue,Delete data,Proceed anyway,Segment and analyze teams,Segmentation reveals patterns.
+
+HR Analyst,HR Strategy,Intermediate,situational,Workforce plan does not match business needs. What should you do?,Realign with business goals,Ignore mismatch,Delay planning,Hire randomly,Realign with business goals,Alignment ensures success.
+
+HR Analyst,People Analytics,Advanced,situational,Data shows bias in HR decisions. What should you do?,Identify and correct bias,Ignore issue,Delete data,Delay action,Identify and correct bias,Bias must be addressed.
+
+HR Analyst,HR Strategy,Advanced,situational,Leadership questions HR impact. What should you do?,Show data driven insights,Ignore question,Change data,Delay response,Show data driven insights,Data proves impact.
+
+HR Analyst,HR Metrics,Advanced,technical,What is workforce productivity?,Output per employee,Total employees,Salary growth,Code efficiency,Output per employee,Productivity measures efficiency.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is absenteeism rate?,Percentage of employee absence,Employee performance,Salary growth,Code error,Percentage of employee absence,Absenteeism affects productivity.
+
+HR Analyst,HR Metrics,Advanced,technical,What is cost of turnover?,Total cost of employee exit,Employee salary,Training cost,Server cost,Total cost of employee exit,Turnover impacts finances.
+
+HR Analyst,HR Metrics,Intermediate,technical,What is training effectiveness?,Impact of training programs,Training duration,Employee salary,Code efficiency,Impact of training programs,Measures learning success.
+
+HR Analyst,HR Metrics,Advanced,technical,What is engagement ROI?,Return on engagement initiatives,Employee salary,Training cost,Server cost,Return on engagement initiatives,ROI measures value.
+
+HR Analyst,People Analytics,Intermediate,technical,What is employee clustering?,Grouping similar employees,Sorting data,Deleting data,Grouping code,Grouping similar employees,Clustering finds patterns.
+
+HR Analyst,People Analytics,Advanced,technical,What is causal inference?,Determining cause and effect,Sorting data,Grouping data,Deleting rows,Determining cause and effect,Explains relationships.
+
+HR Analyst,People Analytics,Advanced,technical,What is feature importance?,Impact of variables on outcome,Sorting data,Deleting data,Grouping rows,Impact of variables on outcome,Helps model interpretation.
+
+HR Analyst,People Analytics,Intermediate,technical,What is data transformation?,Changing data format,Deleting data,Sorting rows,Grouping values,Changing data format,Prepares data.
+
+HR Analyst,People Analytics,Advanced,technical,What is model evaluation?,Assessing model performance,Writing code,Testing UI,Managing servers,Assessing model performance,Ensures accuracy.
+
+HR Analyst,HR Strategy,Intermediate,technical,What is talent pipeline?,Pool of potential candidates,Hiring process,Training program,Payroll process,Pool of potential candidates,Supports hiring.
+
+HR Analyst,HR Strategy,Advanced,technical,What is workforce optimization?,Improving workforce efficiency,Writing code,Designing UI,Managing servers,Improving workforce efficiency,Optimization improves outcomes.
+
+HR Analyst,HR Strategy,Advanced,technical,What is HR transformation?,Modernizing HR processes,Writing code,Testing UI,Managing logs,Modernizing HR processes,Transformation improves HR.
+
+HR Analyst,HR Strategy,Intermediate,technical,What is performance benchmarking?,Comparing performance standards,Sorting data,Deleting data,Grouping rows,Comparing performance standards,Benchmarking shows gaps.
+
+HR Analyst,HR Strategy,Advanced,technical,What is strategic workforce planning?,Long term workforce strategy,Short term hiring,Training plan,Payroll process,Long term workforce strategy,Ensures future readiness.
+
+HR Analyst,HR Metrics,Intermediate,situational,Training programs show low impact. What should you do?,Evaluate effectiveness and redesign,Ignore issue,Increase training,Delay action,Evaluate effectiveness and redesign,Improvement ensures value.
+
+HR Analyst,People Analytics,Advanced,situational,Model predictions show bias. What should you do?,Identify and correct bias,Ignore issue,Delete model,Delay action,Identify and correct bias,Bias must be addressed.
+
+HR Analyst,HR Strategy,Intermediate,situational,Talent pipeline is weak. What should you do?,Strengthen sourcing strategy,Ignore issue,Delay hiring,Reduce hiring,Strengthen sourcing strategy,Strong pipeline supports hiring.
+
+HR Analyst,People Analytics,Advanced,situational,Insights are complex for leadership. What should you do?,Simplify and communicate clearly,Ignore issue,Add more data,Delay report,Simplify and communicate clearly,Clarity drives decisions.
+
+HR Analyst,HR Strategy,Advanced,situational,HR strategy is not delivering results. What should you do?,Reassess strategy with data,Ignore issue,Blame team,Delay action,Reassess strategy with data,Strategy needs evaluation.
+
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+General,Aptitude,Beginner,technical,What is percentage?,Ratio out of 100,Fraction only,Whole number,Decimal only,Ratio out of 100,Percentage represents proportion.
+
+General,Aptitude,Beginner,technical,What is average?,Sum divided by count,Maximum value,Minimum value,Total sum,Sum divided by count,Average represents central value.
+
+General,Aptitude,Beginner,technical,What is ratio?,Comparison between quantities,Total value,Average value,Difference only,Comparison between quantities,Ratio compares values.
+
+General,Aptitude,Beginner,technical,What is profit?,Gain from transaction,Loss only,Revenue only,Cost only,Gain from transaction,Profit is earning.
+
+General,Aptitude,Beginner,technical,What is loss?,Decrease in value,Increase in value,Revenue only,Profit only,Decrease in value,Loss is negative gain.
+
+General,Aptitude,Intermediate,technical,What is compound interest?,Interest on principal and interest,Interest on principal only,Flat interest,Random interest,Interest on principal and interest,Compound interest grows faster.
+
+General,Aptitude,Intermediate,technical,What is simple interest?,Interest on principal only,Interest on interest,Random interest,Flat value,Interest on principal only,Simple interest is linear.
+
+General,Aptitude,Intermediate,technical,What is probability?,Chance of event,Total value,Average value,Difference,Chance of event,Probability measures likelihood.
+
+General,Aptitude,Intermediate,technical,What is permutation?,Arrangement of items,Selection of items,Grouping items,Sorting values,Arrangement of items,Order matters.
+
+General,Aptitude,Intermediate,technical,What is combination?,Selection of items,Arrangement of items,Grouping values,Sorting data,Selection of items,Order does not matter.
+
+General,Aptitude,Advanced,technical,What is break even point?,No profit no loss point,Maximum profit,Minimum loss,Revenue point,No profit no loss point,BEP defines equilibrium.
+
+General,Aptitude,Advanced,technical,What is marginal cost?,Cost of producing one more unit,Total cost,Fixed cost,Variable cost,Cost of producing one more unit,MC affects pricing.
+
+General,Aptitude,Advanced,technical,What is elasticity?,Sensitivity to change,Slope only,Ratio only,Average only,Sensitivity to change,Elasticity measures responsiveness.
+
+General,Aptitude,Advanced,technical,What is opportunity cost?,Value of next best option,Total cost,Fixed cost,Variable cost,Value of next best option,Opportunity cost reflects trade-offs.
+
+General,Aptitude,Advanced,technical,What is ROI?,Return on investment,Revenue only,Cost only,Profit only,Return on investment,ROI measures returns.
+
+General,Aptitude,Beginner,situational,Sales drop suddenly. What should you do?,Analyze causes,Ignore issue,Increase prices,Delay action,Analyze causes,Understanding issue is key.
+
+General,Aptitude,Intermediate,situational,Costs increase but revenue stays same. What should you do?,Reduce costs or increase value,Ignore issue,Delay action,Blame team,Reduce costs or increase value,Profitability matters.
+
+General,Aptitude,Intermediate,situational,Probability of event is low. What should you do?,Assess risk carefully,Ignore event,Force outcome,Delay decision,Assess risk carefully,Low probability means high risk.
+
+General,Aptitude,Advanced,situational,Investment shows declining ROI. What should you do?,Reevaluate investment,Ignore trend,Increase spending,Delay decision,Reevaluate investment,ROI guides decisions.
+
+General,Aptitude,Advanced,situational,Market demand shifts rapidly. What should you do?,Adapt strategy quickly,Ignore change,Delay action,Maintain same plan,Adapt strategy quickly,Adaptability ensures survival.
+
+General,Logical Reasoning,Beginner,technical,What is logical reasoning?,Analyzing information logically,Writing code,Designing UI,Managing servers,Analyzing information logically,Reasoning helps decision making.
+
+General,Logical Reasoning,Beginner,technical,What is pattern recognition?,Identifying trends or sequences,Sorting data,Deleting data,Grouping values,Identifying trends or sequences,Patterns reveal logic.
+
+General,Logical Reasoning,Beginner,technical,What is deduction?,Conclusion from facts,Random guess,Code logic,UI design,Conclusion from facts,Deduction uses given info.
+
+General,Logical Reasoning,Beginner,technical,What is assumption?,Unproven belief,Proven fact,Code output,UI element,Unproven belief,Assumptions need validation.
+
+General,Logical Reasoning,Beginner,technical,What is inference?,Logical conclusion,Random guess,Code output,UI design,Logical conclusion,Inference is based on reasoning.
+
+General,Logical Reasoning,Intermediate,technical,What is cause and effect?,Relationship between events,Sorting data,Deleting data,Grouping values,Relationship between events,Identifies impact.
+
+General,Logical Reasoning,Intermediate,technical,What is critical thinking?,Evaluating information objectively,Writing code,Designing UI,Managing servers,Evaluating information objectively,Improves decisions.
+
+General,Logical Reasoning,Intermediate,technical,What is syllogism?,Logical argument form,Code structure,UI layout,Server config,Logical argument form,Used in reasoning tests.
+
+General,Logical Reasoning,Intermediate,technical,What is analogy?,Comparison of relationships,Sorting data,Deleting data,Grouping values,Comparison of relationships,Analogy finds similarity.
+
+General,Logical Reasoning,Intermediate,technical,What is sequence?,Ordered pattern,Random data,Code block,UI element,Ordered pattern,Sequence shows order.
+
+General,Logical Reasoning,Advanced,technical,What is logical fallacy?,Error in reasoning,Correct logic,Code error,UI bug,Error in reasoning,Fallacies mislead conclusions.
+
+General,Logical Reasoning,Advanced,technical,What is decision tree?,Visual decision model,Code structure,UI layout,Server config,Visual decision model,Helps structured decisions.
+
+General,Logical Reasoning,Advanced,technical,What is root cause analysis?,Finding underlying cause,Sorting data,Deleting data,Grouping values,Finding underlying cause,Identifies true issue.
+
+General,Logical Reasoning,Advanced,technical,What is hypothesis?,Testable assumption,Code block,UI design,Server config,Testable assumption,Used for validation.
+
+General,Logical Reasoning,Advanced,technical,What is reasoning bias?,Error in judgment,Accurate thinking,Data cleaning,Sorting method,Error in judgment,Bias affects decisions.
+
+General,Logical Reasoning,Beginner,situational,Sequence pattern breaks. What should you do?,Analyze pattern logic,Ignore issue,Guess randomly,Delay decision,Analyze pattern logic,Logic reveals answer.
+
+General,Logical Reasoning,Intermediate,situational,Two arguments conflict. What should you do?,Evaluate evidence,Ignore conflict,Choose randomly,Delay decision,Evaluate evidence,Better reasoning wins.
+
+General,Logical Reasoning,Intermediate,situational,Decision has multiple outcomes. What should you do?,Analyze possible outcomes,Ignore options,Choose randomly,Delay action,Analyze possible outcomes,Evaluation improves decisions.
+
+General,Logical Reasoning,Advanced,situational,Root cause is unclear. What should you do?,Perform deeper analysis,Ignore issue,Guess cause,Delay decision,Perform deeper analysis,Analysis finds cause.
+
+General,Logical Reasoning,Advanced,situational,Bias affects decision making. What should you do?,Recognize and correct bias,Ignore bias,Continue decision,Delay action,Recognize and correct bias,Bias must be addressed.
+
+General,Business Reasoning,Beginner,technical,What is business decision?,Choice to achieve goals,Code decision,UI design,Server setup,Choice to achieve goals,Decisions drive outcomes.
+
+General,Business Reasoning,Beginner,technical,What is revenue?,Income generated,Total cost,Profit only,Loss only,Income generated,Revenue is earnings.
+
+General,Business Reasoning,Beginner,technical,What is cost?,Expense incurred,Income generated,Profit only,Revenue only,Expense incurred,Cost affects profit.
+
+General,Business Reasoning,Beginner,technical,What is profit margin?,Profit relative to revenue,Total profit,Revenue only,Cost only,Profit relative to revenue,Margin measures efficiency.
+
+General,Business Reasoning,Beginner,technical,What is demand?,Need for product,Supply only,Profit only,Revenue only,Need for product,Demand drives sales.
+
+General,Business Reasoning,Intermediate,technical,What is supply?,Availability of product,Customer need,Profit only,Revenue only,Availability of product,Supply meets demand.
+
+General,Business Reasoning,Intermediate,technical,What is market share?,Company share in market,Total revenue,Total cost,Profit margin,Company share in market,Market share shows position.
+
+General,Business Reasoning,Intermediate,technical,What is pricing strategy?,How product is priced,Code logic,UI design,Server config,How product is priced,Pricing impacts revenue.
+
+General,Business Reasoning,Intermediate,technical,What is competitive advantage?,Unique strength over competitors,More features,Better UI,Lower cost only,Unique strength over competitors,Advantage drives success.
+
+General,Business Reasoning,Intermediate,technical,What is business model?,How company creates value,Code structure,UI design,Server setup,How company creates value,Model defines operations.
+
+General,Business Reasoning,Advanced,technical,What is market positioning?,Perception in market,Code position,UI layout,Server config,Perception in market,Positioning affects brand.
+
+General,Business Reasoning,Advanced,technical,What is value chain?,Activities creating value,Code chain,UI flow,Server setup,Activities creating value,Value chain shows process.
+
+General,Business Reasoning,Advanced,technical,What is cost leadership?,Lowest cost strategy,High cost strategy,UI strategy,Server strategy,Lowest cost strategy,Cost leadership improves competitiveness.
+
+General,Business Reasoning,Advanced,technical,What is differentiation strategy?,Unique offering strategy,Low cost strategy,UI strategy,Server strategy,Unique offering strategy,Differentiation creates value.
+
+General,Business Reasoning,Advanced,technical,What is business scalability?,Ability to grow efficiently,Code complexity,UI design,Server logs,Ability to grow efficiently,Scalability supports growth.
+
+General,Business Reasoning,Beginner,situational,Sales decline in one region. What should you do?,Analyze regional factors,Ignore issue,Increase prices,Delay action,Analyze regional factors,Local insights matter.
+
+General,Business Reasoning,Intermediate,situational,Competitor lowers prices. What should you do?,Evaluate pricing strategy,Ignore competitor,Match blindly,Delay action,Evaluate pricing strategy,Strategic response needed.
+
+General,Business Reasoning,Intermediate,situational,Costs rise while demand falls. What should you do?,Optimize cost and value,Ignore issue,Increase production,Delay decision,Optimize cost and value,Balance ensures survival.
+
+General,Business Reasoning,Advanced,situational,New market opportunity appears. What should you do?,Assess strategic fit,Enter immediately,Ignore opportunity,Delay action,Assess strategic fit,Fit determines success.
+
+General,Business Reasoning,Advanced,situational,Company growth stagnates. What should you do?,Reevaluate business strategy,Ignore trend,Blame team,Delay action,Reevaluate business strategy,Strategy drives growth.
+
+General,Aptitude,Intermediate,technical,What is weighted average?,Average with weights,Simple average,Total sum,Maximum value,Average with weights,Weights affect contribution.
+
+General,Aptitude,Advanced,technical,What is break even analysis?,Finding no profit no loss point,Calculating profit,Sorting data,Deleting data,Finding no profit no loss point,BEP shows viability.
+
+General,Aptitude,Advanced,technical,What is contribution margin?,Revenue minus variable cost,Total cost,Profit only,Fixed cost,Revenue minus variable cost,Used in profitability analysis.
+
+General,Aptitude,Intermediate,technical,What is growth rate?,Rate of increase,Total value,Average value,Minimum value,Rate of increase,Shows trend.
+
+General,Aptitude,Advanced,technical,What is cost benefit analysis?,Comparing costs and benefits,Sorting data,Deleting data,Grouping values,Comparing costs and benefits,Helps decision making.
+
+General,Logical Reasoning,Intermediate,technical,What is pattern consistency?,Maintaining sequence logic,Random pattern,Code structure,UI design,Maintaining sequence logic,Consistency reveals pattern.
+
+General,Logical Reasoning,Advanced,technical,What is decision optimization?,Choosing best outcome,Random choice,Code logic,UI design,Choosing best outcome,Optimization improves results.
+
+General,Logical Reasoning,Advanced,technical,What is scenario analysis?,Evaluating possible scenarios,Sorting data,Deleting data,Grouping values,Evaluating possible scenarios,Helps planning.
+
+General,Logical Reasoning,Intermediate,technical,What is constraint?,Limitation in problem,Opportunity,Code block,UI element,Limitation in problem,Constraints affect solutions.
+
+General,Logical Reasoning,Advanced,technical,What is trade off?,Balancing alternatives,Sorting data,Deleting data,Grouping values,Balancing alternatives,Trade offs require compromise.
+
+General,Business Reasoning,Intermediate,technical,What is pricing elasticity?,Sensitivity of demand to price,Total revenue,Profit margin,Cost only,Sensitivity of demand to price,Elasticity affects pricing.
+
+General,Business Reasoning,Advanced,technical,What is unit economics?,Profitability per unit,Total revenue,Total cost,Market share,Profitability per unit,Unit economics shows sustainability.
+
+General,Business Reasoning,Advanced,technical,What is customer lifetime value?,Total value from customer,Single purchase value,Cost only,Revenue only,Total value from customer,CLV shows long term value.
+
+General,Business Reasoning,Intermediate,technical,What is churn rate?,Customers leaving,Customers joining,Total customers,Revenue growth,Customers leaving,Churn impacts retention.
+
+General,Business Reasoning,Advanced,technical,What is scalability constraint?,Limit to growth,Opportunity for growth,Code issue,UI issue,Limit to growth,Constraints limit scaling.
+
+General,Aptitude,Beginner,situational,Revenue increases but profit decreases. What should you do?,Analyze cost structure,Ignore issue,Increase production,Delay action,Analyze cost structure,Costs affect profit.
+
+General,Logical Reasoning,Intermediate,situational,Multiple solutions exist. What should you do?,Evaluate best option,Choose randomly,Ignore options,Delay decision,Evaluate best option,Best choice matters.
+
+General,Business Reasoning,Intermediate,situational,Customer churn increases. What should you do?,Analyze retention drivers,Ignore issue,Increase price,Delay action,Analyze retention drivers,Retention analysis helps.
+
+General,Business Reasoning,Advanced,situational,High growth but low profitability. What should you do?,Improve unit economics,Ignore issue,Expand more,Delay decision,Improve unit economics,Sustainability matters.
+
+General,Logical Reasoning,Advanced,situational,Decision has conflicting data. What should you do?,Validate data sources,Ignore conflict,Choose randomly,Delay action,Validate data sources,Accurate data ensures decision.
+
+General,Aptitude,Advanced,technical,What is variance analysis?,Comparing actual vs expected,Sorting data,Deleting data,Grouping values,Comparing actual vs expected,Variance shows deviation.
+
+General,Aptitude,Intermediate,technical,What is ratio analysis?,Comparing financial ratios,Sorting data,Deleting data,Grouping values,Comparing financial ratios,Used in financial evaluation.
+
+General,Aptitude,Advanced,technical,What is sensitivity analysis?,Impact of variable changes,Sorting data,Deleting data,Grouping values,Impact of variable changes,Used in decision making.
+
+General,Aptitude,Intermediate,technical,What is time value of money?,Value of money over time,Fixed value,Random value,Static value,Value of money over time,Money changes with time.
+
+General,Aptitude,Advanced,technical,What is net present value?,Value of future cash flows,Total revenue,Total cost,Profit margin,Value of future cash flows,NPV evaluates investments.
+
+General,Logical Reasoning,Intermediate,technical,What is logical consistency?,Maintaining correct reasoning,Random thinking,Code logic,UI design,Maintaining correct reasoning,Consistency ensures accuracy.
+
+General,Logical Reasoning,Advanced,technical,What is probabilistic thinking?,Decision based on probability,Random guessing,Code logic,UI design,Decision based on probability,Helps uncertainty decisions.
+
+General,Logical Reasoning,Advanced,technical,What is decision bias?,Error in judgment,Correct reasoning,Data cleaning,Sorting method,Error in judgment,Bias affects outcomes.
+
+General,Logical Reasoning,Intermediate,technical,What is reasoning structure?,Organized thinking process,Random thinking,Code structure,UI layout,Organized thinking process,Structure improves clarity.
+
+General,Logical Reasoning,Advanced,technical,What is hypothesis validation?,Testing assumptions,Sorting data,Deleting data,Grouping values,Testing assumptions,Validates decisions.
+
+General,Business Reasoning,Intermediate,technical,What is market expansion?,Entering new markets,Reducing cost,Increasing price,Improving UI,Entering new markets,Expansion drives growth.
+
+General,Business Reasoning,Advanced,technical,What is diversification?,Entering new business areas,Reducing cost,Improving UI,Server upgrade,Entering new business areas,Diversification reduces risk.
+
+General,Business Reasoning,Advanced,technical,What is strategic pivot?,Changing business direction,Improving UI,Updating code,Sorting data,Changing business direction,Pivot adapts to change.
+
+General,Business Reasoning,Intermediate,technical,What is operational efficiency?,Optimizing processes,Increasing cost,Reducing revenue,Ignoring data,Optimizing processes,Efficiency improves output.
+
+General,Business Reasoning,Advanced,technical,What is value proposition?,Unique value offered,Code feature,UI design,Server config,Unique value offered,Defines product appeal.
+
+General,Aptitude,Intermediate,situational,Investment shows high risk high return. What should you do?,Assess risk tolerance,Ignore risk,Invest fully,Delay decision,Assess risk tolerance,Risk must match strategy.
+
+General,Logical Reasoning,Intermediate,situational,Data is incomplete for decision. What should you do?,Gather more data,Ignore issue,Guess decision,Delay action,Gather more data,Better data improves decisions.
+
+General,Business Reasoning,Intermediate,situational,Market demand declines. What should you do?,Reevaluate product strategy,Ignore trend,Increase production,Delay action,Reevaluate product strategy,Adaptation is key.
+
+General,Business Reasoning,Advanced,situational,Company faces intense competition. What should you do?,Strengthen competitive advantage,Ignore competitors,Lower price blindly,Delay action,Strengthen competitive advantage,Strategy ensures survival.
+
+General,Logical Reasoning,Advanced,situational,Decision involves uncertainty. What should you do?,Use probabilistic reasoning,Ignore uncertainty,Guess outcome,Delay action,Use probabilistic reasoning,Helps informed decisions.
+
