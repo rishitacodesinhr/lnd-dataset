@@ -242,3 +242,358 @@ Product Manager,Agile Methodology,Advanced,Enterprise agile,Atlassian,20 min,htt
 Product Manager,Agile Methodology,Advanced,Agile strategy cases,Medium,15 min,https://medium.com/tag/agile
 Product Manager,Agile Methodology,Advanced,Advanced agile video,YouTube,1 hr,https://www.youtube.com/watch?v=502ILHjX9EE
 Product Manager,Agile Methodology,Advanced,Scaling agile,McKinsey,20 min,https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights
+
+BI Developer,SQL,Beginner,Query relational data,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/query-relational-data/
+BI Developer,SQL,Beginner,SQL Tutorial,W3Schools,30 min,https://www.w3schools.com/sql/
+BI Developer,SQL,Beginner,SQL Basics,Mode,1 hr,https://mode.com/sql-tutorial/
+BI Developer,SQL,Beginner,SQL basics blog,Medium,10 min,https://medium.com/tag/sql
+BI Developer,SQL,Beginner,SQL intro video,YouTube,1 hr,https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+BI Developer,SQL,Intermediate,Query relational data path,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/paths/query-relational-data/
+BI Developer,SQL,Intermediate,SQL Joins guide,Mode,1 hr,https://mode.com/sql-tutorial/sql-joins/
+BI Developer,SQL,Intermediate,SQL practice problems,LeetCode,1 hr,https://leetcode.com/problemset/database/
+BI Developer,SQL,Intermediate,SQL case studies,Medium,15 min,https://medium.com/tag/sql
+BI Developer,SQL,Intermediate,SQL intermediate video,YouTube,1 hr,https://www.youtube.com/watch?v=7S_tz1z_5bA
+
+BI Developer,SQL,Advanced,Optimize query performance,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/optimize-query-performance/
+BI Developer,SQL,Advanced,SQL indexing guide,Use The Index Luke,20 min,https://use-the-index-luke.com/
+BI Developer,SQL,Advanced,Advanced SQL problems,LeetCode,1 hr,https://leetcode.com/problemset/database/?difficulty=Hard
+BI Developer,SQL,Advanced,Advanced SQL blogs,Medium,15 min,https://medium.com/tag/sql
+BI Developer,SQL,Advanced,Advanced SQL video,YouTube,1 hr,https://www.youtube.com/watch?v=9Pzj7Aj25lw
+
+
+BI Developer,Data Modelling,Beginner,Intro to data modeling,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/data-modeling/
+BI Developer,Data Modelling,Beginner,Data modeling basics,Lucidchart,20 min,https://www.lucidchart.com/pages/data-modeling
+BI Developer,Data Modelling,Beginner,What is data modeling,IBM,15 min,https://www.ibm.com/topics/data-modeling
+BI Developer,Data Modelling,Beginner,Data modeling blogs,Medium,10 min,https://medium.com/tag/data-modeling
+BI Developer,Data Modelling,Beginner,Data modeling intro video,YouTube,1 hr,https://www.youtube.com/watch?v=ztHopE5Wnpc
+
+BI Developer,Data Modelling,Intermediate,Model data in Power BI,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/
+BI Developer,Data Modelling,Intermediate,Star schema guide,Microsoft Docs,20 min,https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
+BI Developer,Data Modelling,Intermediate,Dimensional modeling,Kimball,20 min,https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/
+BI Developer,Data Modelling,Intermediate,Data modeling case studies,Medium,15 min,https://medium.com/tag/data-modeling
+BI Developer,Data Modelling,Intermediate,Data modeling deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=8p6F3C6dYdA
+
+BI Developer,Data Modelling,Advanced,Optimize data models,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/
+BI Developer,Data Modelling,Advanced,Data warehouse design,Kimball,20 min,https://www.kimballgroup.com
+BI Developer,Data Modelling,Advanced,Enterprise data modeling,IBM,20 min,https://www.ibm.com/topics/data-modeling
+BI Developer,Data Modelling,Advanced,Advanced modeling cases,Medium,15 min,https://medium.com/tag/data-modeling
+BI Developer,Data Modelling,Advanced,Advanced modeling video,YouTube,1 hr,https://www.youtube.com/watch?v=2sX6Yv9G7nE
+
+
+BI Developer,Data Visualization,Beginner,Visualize data Power BI,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/visualize-data-power-bi/
+BI Developer,Data Visualization,Beginner,Data visualization basics,Tableau,30 min,https://www.tableau.com/learn/articles/data-visualization
+BI Developer,Data Visualization,Beginner,Chart selection guide,Datawrapper,20 min,https://academy.datawrapper.de/article/136-which-chart-type-to-use
+BI Developer,Data Visualization,Beginner,Visualization blogs,Medium,10 min,https://medium.com/tag/data-visualization
+BI Developer,Data Visualization,Beginner,Visualization intro video,YouTube,1 hr,https://www.youtube.com/watch?v=8jz5Y8v8g0I
+
+BI Developer,Data Visualization,Intermediate,Build dashboards Power BI,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/build-power-bi-dashboards/
+BI Developer,Data Visualization,Intermediate,Dashboard design,Tableau,30 min,https://www.tableau.com/learn/articles/dashboard-design
+BI Developer,Data Visualization,Intermediate,Storytelling charts,Datawrapper,20 min,https://academy.datawrapper.de/
+BI Developer,Data Visualization,Intermediate,Visualization case studies,Medium,15 min,https://medium.com/tag/data-visualization
+BI Developer,Data Visualization,Intermediate,Dashboard deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=Z6F5g1f6X7E
+
+BI Developer,Data Visualization,Advanced,Advanced Power BI,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-power-bi/
+BI Developer,Data Visualization,Advanced,Data viz best practices,Storytelling with Data,20 min,https://www.storytellingwithdata.com/blog
+BI Developer,Data Visualization,Advanced,Visualization strategy,McKinsey,20 min,https://www.mckinsey.com
+BI Developer,Data Visualization,Advanced,Advanced visualization blogs,Medium,15 min,https://medium.com/tag/data-visualization
+BI Developer,Data Visualization,Advanced,Advanced visualization video,YouTube,1 hr,https://www.youtube.com/watch?v=h5wLuVDr0oc
+
+Data Analyst,Data Analysis,Beginner,Intro to data analysis,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-data-analysis/
+Data Analyst,Data Analysis,Beginner,Statistics basics,Khan Academy,1 hr,https://www.khanacademy.org/math/statistics-probability
+Data Analyst,Data Analysis,Beginner,What is data analysis,IBM,15 min,https://www.ibm.com/topics/data-analysis
+Data Analyst,Data Analysis,Beginner,Data analysis blogs,Medium,10 min,https://medium.com/tag/data-analysis
+Data Analyst,Data Analysis,Beginner,Data analysis intro video,YouTube,1 hr,https://www.youtube.com/watch?v=r-uOLxNrNk8
+
+Data Analyst,Data Analysis,Intermediate,Analyze data with Power BI,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/
+Data Analyst,Data Analysis,Intermediate,Data cleaning,Kaggle,1 hr,https://www.kaggle.com/learn/data-cleaning
+Data Analyst,Data Analysis,Intermediate,Exploratory data analysis,Kaggle,1 hr,https://www.kaggle.com/learn/intro-to-data-analysis
+Data Analyst,Data Analysis,Intermediate,Data analysis case studies,Medium,15 min,https://medium.com/tag/data-analysis
+Data Analyst,Data Analysis,Intermediate,Data analysis intermediate video,YouTube,1 hr,https://www.youtube.com/watch?v=GZX9Yw9Cz3I
+
+Data Analyst,Data Analysis,Advanced,Advanced analytics techniques,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-analytics/
+Data Analyst,Data Analysis,Advanced,Analytics strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+Data Analyst,Data Analysis,Advanced,Advanced analysis case studies,Medium,15 min,https://medium.com/tag/data-analysis
+Data Analyst,Data Analysis,Advanced,Advanced analysis video,YouTube,1 hr,https://www.youtube.com/watch?v=XX0a6Zr2tZk
+Data Analyst,Data Analysis,Advanced,Advanced SQL for analytics,Kaggle,1 hr,https://www.kaggle.com/learn/advanced-sql
+
+
+Data Analyst,Excel (Advanced),Beginner,Excel basics,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/get-started-excel/
+Data Analyst,Excel (Advanced),Beginner,Excel tutorial,W3Schools,30 min,https://www.w3schools.com/excel/
+Data Analyst,Excel (Advanced),Beginner,Excel basics course,GCF Global,1 hr,https://edu.gcfglobal.org/en/excel/
+Data Analyst,Excel (Advanced),Beginner,Excel blogs,Medium,10 min,https://medium.com/tag/excel
+Data Analyst,Excel (Advanced),Beginner,Excel intro video,YouTube,1 hr,https://www.youtube.com/watch?v=Vl0H-qTclOg
+
+Data Analyst,Excel (Advanced),Intermediate,Analyze data in Excel,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/analyze-data-excel/
+Data Analyst,Excel (Advanced),Intermediate,Excel functions guide,Microsoft Support,20 min,https://support.microsoft.com/en-us/excel
+Data Analyst,Excel (Advanced),Intermediate,Excel case studies,Medium,15 min,https://medium.com/tag/excel
+Data Analyst,Excel (Advanced),Intermediate,Excel deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=3F7H5Zq0c5I
+Data Analyst,Excel (Advanced),Intermediate,Excel intermediate course,GCF Global,1 hr,https://edu.gcfglobal.org/en/excel/intermediate/
+
+Data Analyst,Excel (Advanced),Advanced,Advanced Excel analytics,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-excel/
+Data Analyst,Excel (Advanced),Advanced,Excel dashboards,Chandoo,20 min,https://chandoo.org/wp/excel-dashboards/
+Data Analyst,Excel (Advanced),Advanced,Advanced Excel case studies,Medium,15 min,https://medium.com/tag/excel
+Data Analyst,Excel (Advanced),Advanced,Advanced Excel video,YouTube,1 hr,https://www.youtube.com/watch?v=2eFqYgV0Lq8
+Data Analyst,Excel (Advanced),Advanced,Excel strategy insights,McKinsey,20 min,https://www.mckinsey.com
+
+
+Data Analyst,Storytelling with Data,Beginner,Intro to data storytelling,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/data-storytelling/
+Data Analyst,Storytelling with Data,Beginner,Storytelling basics,Storytelling with Data,20 min,https://www.storytellingwithdata.com/blog
+Data Analyst,Storytelling with Data,Beginner,Data storytelling guide,Tableau,20 min,https://www.tableau.com/learn/articles/data-storytelling
+Data Analyst,Storytelling with Data,Beginner,Storytelling blogs,Medium,10 min,https://medium.com/tag/data-storytelling
+Data Analyst,Storytelling with Data,Beginner,Storytelling intro video,YouTube,1 hr,https://www.youtube.com/watch?v=6Af6b_wyiwI
+
+Data Analyst,Storytelling with Data,Intermediate,Build reports with insights,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/build-reports-power-bi/
+Data Analyst,Storytelling with Data,Intermediate,Storytelling techniques,Storytelling with Data,20 min,https://www.storytellingwithdata.com
+Data Analyst,Storytelling with Data,Intermediate,Visualization storytelling,Tableau,20 min,https://www.tableau.com/learn/articles
+Data Analyst,Storytelling with Data,Intermediate,Storytelling case studies,Medium,15 min,https://medium.com/tag/data-storytelling
+Data Analyst,Storytelling with Data,Intermediate,Storytelling deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=R2V2yW9G8hM
+
+Data Analyst,Storytelling with Data,Advanced,Advanced storytelling,Microsoft Learn,6 hrs,https://learn.microsoft.com
+Data Analyst,Storytelling with Data,Advanced,Executive storytelling,Storytelling with Data,20 min,https://www.storytellingwithdata.com
+Data Analyst,Storytelling with Data,Advanced,Storytelling strategy,McKinsey,20 min,https://www.mckinsey.com
+Data Analyst,Storytelling with Data,Advanced,Advanced storytelling cases,Medium,15 min,https://medium.com/tag/data-storytelling
+Data Analyst,Storytelling with Data,Advanced,Advanced storytelling video,YouTube,1 hr,https://www.youtube.com/watch?v=F1kR6K0v6wI
+
+Scrum Master / Product Owner,Scrum Framework,Beginner,What is Scrum,Scrum.org,20 min,https://www.scrum.org/resources/what-is-scrum
+Scrum Master / Product Owner,Scrum Framework,Beginner,Scrum guide,Scrum.org,30 min,https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
+Scrum Master / Product Owner,Scrum Framework,Beginner,Scrum basics,Atlassian,15 min,https://www.atlassian.com/agile/scrum
+Scrum Master / Product Owner,Scrum Framework,Beginner,Scrum blogs,Medium,10 min,https://medium.com/tag/scrum
+Scrum Master / Product Owner,Scrum Framework,Beginner,Scrum intro video,YouTube,1 hr,https://www.youtube.com/watch?v=9TycLR0TqFA
+
+Scrum Master / Product Owner,Scrum Framework,Intermediate,Scrum roles explained,Scrum.org,20 min,https://www.scrum.org/resources/scrum-team
+Scrum Master / Product Owner,Scrum Framework,Intermediate,Scrum ceremonies,Atlassian,20 min,https://www.atlassian.com/agile/scrum/ceremonies
+Scrum Master / Product Owner,Scrum Framework,Intermediate,Scrum case studies,Medium,15 min,https://medium.com/tag/scrum
+Scrum Master / Product Owner,Scrum Framework,Intermediate,Sprint workflow video,YouTube,1 hr,https://www.youtube.com/watch?v=bJkR3Q3XH6w
+Scrum Master / Product Owner,Scrum Framework,Intermediate,Scrum in practice,Scrum.org,20 min,https://www.scrum.org/resources
+
+Scrum Master / Product Owner,Scrum Framework,Advanced,Scaling Scrum,Scrum.org,20 min,https://www.scrum.org/resources/scaling-scrum
+Scrum Master / Product Owner,Scrum Framework,Advanced,Enterprise Agile,Atlassian,20 min,https://www.atlassian.com/agile/enterprise
+Scrum Master / Product Owner,Scrum Framework,Advanced,Scrum strategy cases,Medium,15 min,https://medium.com/tag/scrum
+Scrum Master / Product Owner,Scrum Framework,Advanced,Advanced Scrum video,YouTube,1 hr,https://www.youtube.com/watch?v=2V3M2Q1fX3U
+Scrum Master / Product Owner,Scrum Framework,Advanced,Agile at scale,McKinsey,20 min,https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights
+
+
+Scrum Master / Product Owner,Sprint Planning,Beginner,Sprint planning basics,Atlassian,15 min,https://www.atlassian.com/agile/scrum/sprint-planning
+Scrum Master / Product Owner,Sprint Planning,Beginner,Sprint planning explained,Scrum.org,20 min,https://www.scrum.org/resources/sprint-planning
+Scrum Master / Product Owner,Sprint Planning,Beginner,Sprint planning blogs,Medium,10 min,https://medium.com/tag/sprint-planning
+Scrum Master / Product Owner,Sprint Planning,Beginner,Sprint planning intro video,YouTube,1 hr,https://www.youtube.com/watch?v=4pH8kXkP6pA
+Scrum Master / Product Owner,Sprint Planning,Beginner,Agile basics,Atlassian,15 min,https://www.atlassian.com/agile
+
+Scrum Master / Product Owner,Sprint Planning,Intermediate,Planning techniques,Scrum.org,20 min,https://www.scrum.org/resources/blog
+Scrum Master / Product Owner,Sprint Planning,Intermediate,Planning poker,Atlassian,20 min,https://www.atlassian.com/agile/project-management/estimation
+Scrum Master / Product Owner,Sprint Planning,Intermediate,Sprint planning cases,Medium,15 min,https://medium.com/tag/sprint-planning
+Scrum Master / Product Owner,Sprint Planning,Intermediate,Sprint deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=ZzQ3c7sX0xA
+Scrum Master / Product Owner,Sprint Planning,Intermediate,Agile planning,Atlassian,20 min,https://www.atlassian.com/agile/project-management
+
+Scrum Master / Product Owner,Sprint Planning,Advanced,Advanced sprint planning,Scrum.org,20 min,https://www.scrum.org/resources
+Scrum Master / Product Owner,Sprint Planning,Advanced,Scaling sprint planning,Atlassian,20 min,https://www.atlassian.com/agile/enterprise
+Scrum Master / Product Owner,Sprint Planning,Advanced,Sprint strategy cases,Medium,15 min,https://medium.com/tag/sprint-planning
+Scrum Master / Product Owner,Sprint Planning,Advanced,Advanced sprint video,YouTube,1 hr,https://www.youtube.com/watch?v=F8l2l0R2k9M
+Scrum Master / Product Owner,Sprint Planning,Advanced,Enterprise planning,McKinsey,20 min,https://www.mckinsey.com
+
+
+Scrum Master / Product Owner,Backlog Grooming,Beginner,Product backlog basics,Atlassian,15 min,https://www.atlassian.com/agile/product-management/backlog
+Scrum Master / Product Owner,Backlog Grooming,Beginner,Product backlog explained,Scrum.org,20 min,https://www.scrum.org/resources/product-backlog
+Scrum Master / Product Owner,Backlog Grooming,Beginner,Backlog blogs,Medium,10 min,https://medium.com/tag/backlog
+Scrum Master / Product Owner,Backlog Grooming,Beginner,Backlog intro video,YouTube,1 hr,https://www.youtube.com/watch?v=502ILHjX9EE
+Scrum Master / Product Owner,Backlog Grooming,Beginner,Backlog overview,Atlassian,15 min,https://www.atlassian.com/agile
+
+Scrum Master / Product Owner,Backlog Grooming,Intermediate,Backlog refinement,Scrum.org,20 min,https://www.scrum.org/resources/blog
+Scrum Master / Product Owner,Backlog Grooming,Intermediate,Prioritization techniques,ProductPlan,20 min,https://www.productplan.com/glossary/prioritization/
+Scrum Master / Product Owner,Backlog Grooming,Intermediate,Backlog case studies,Medium,15 min,https://medium.com/tag/backlog
+Scrum Master / Product Owner,Backlog Grooming,Intermediate,Backlog deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=ysWz6J2cM4A
+Scrum Master / Product Owner,Backlog Grooming,Intermediate,Backlog best practices,Atlassian,20 min,https://www.atlassian.com/agile/product-management
+
+Scrum Master / Product Owner,Backlog Grooming,Advanced,Backlog strategy,Scrum.org,20 min,https://www.scrum.org/resources
+Scrum Master / Product Owner,Backlog Grooming,Advanced,Backlog at scale,Atlassian,20 min,https://www.atlassian.com/agile/enterprise
+Scrum Master / Product Owner,Backlog Grooming,Advanced,Backlog strategy cases,Medium,15 min,https://medium.com/tag/backlog
+Scrum Master / Product Owner,Backlog Grooming,Advanced,Advanced backlog video,YouTube,1 hr,https://www.youtube.com/watch?v=Qf9c5k2Z3vM
+Scrum Master / Product Owner,Backlog Grooming,Advanced,Product backlog strategy,McKinsey,20 min,https://www.mckinsey.com
+
+
+Scrum Master / Product Owner,Stakeholder Alignment,Beginner,Stakeholder basics,Atlassian,15 min,https://www.atlassian.com/agile/project-management/stakeholder-management
+Scrum Master / Product Owner,Stakeholder Alignment,Beginner,Stakeholder intro,Scrum.org,20 min,https://www.scrum.org/resources
+Scrum Master / Product Owner,Stakeholder Alignment,Beginner,Stakeholder blogs,Medium,10 min,https://medium.com/tag/stakeholder-management
+Scrum Master / Product Owner,Stakeholder Alignment,Beginner,Stakeholder intro video,YouTube,1 hr,https://www.youtube.com/watch?v=Q1Y9z6nR2ZQ
+Scrum Master / Product Owner,Stakeholder Alignment,Beginner,Stakeholder overview,PMI,15 min,https://www.pmi.org
+
+Scrum Master / Product Owner,Stakeholder Alignment,Intermediate,Managing stakeholders,HBR,20 min,https://hbr.org/2015/01/managing-your-stakeholders
+Scrum Master / Product Owner,Stakeholder Alignment,Intermediate,Stakeholder mapping,MindTools,20 min,https://www.mindtools.com/pages/article/newPPM_07.htm
+Scrum Master / Product Owner,Stakeholder Alignment,Intermediate,Stakeholder case studies,Medium,15 min,https://medium.com/tag/stakeholder-management
+Scrum Master / Product Owner,Stakeholder Alignment,Intermediate,Stakeholder deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=Zt7q7s4y2pA
+Scrum Master / Product Owner,Stakeholder Alignment,Intermediate,Stakeholder strategy,Atlassian,20 min,https://www.atlassian.com/agile
+
+Scrum Master / Product Owner,Stakeholder Alignment,Advanced,Executive alignment,McKinsey,20 min,https://www.mckinsey.com
+Scrum Master / Product Owner,Stakeholder Alignment,Advanced,Stakeholder strategy,HBR,20 min,https://hbr.org
+Scrum Master / Product Owner,Stakeholder Alignment,Advanced,Advanced stakeholder cases,Medium,15 min,https://medium.com/tag/stakeholder-management
+Scrum Master / Product Owner,Stakeholder Alignment,Advanced,Advanced stakeholder video,YouTube,1 hr,https://www.youtube.com/watch?v=X9j2m3s2vYk
+Scrum Master / Product Owner,Stakeholder Alignment,Advanced,Stakeholder leadership,PMI,20 min,https://www.pmi.org
+
+Program Manager,Process Improvement,Beginner,What is process improvement,ASQ,15 min,https://asq.org/quality-resources/process-improvement
+Program Manager,Process Improvement,Beginner,Process improvement basics,Lucidchart,20 min,https://www.lucidchart.com/pages/process-improvement
+Program Manager,Process Improvement,Beginner,Lean fundamentals,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/lean-fundamentals/
+Program Manager,Process Improvement,Beginner,Process improvement blogs,Medium,10 min,https://medium.com/tag/process-improvement
+Program Manager,Process Improvement,Beginner,Process improvement intro video,YouTube,1 hr,https://www.youtube.com/watch?v=3k3s9Zr9p8M
+
+Program Manager,Process Improvement,Intermediate,Continuous improvement,ASQ,20 min,https://asq.org/quality-resources/continuous-improvement
+Program Manager,Process Improvement,Intermediate,Lean vs Six Sigma,GoLeanSixSigma,20 min,https://goleansixsigma.com/lean-six-sigma/
+Program Manager,Process Improvement,Intermediate,Process mapping guide,Lucidchart,20 min,https://www.lucidchart.com/pages/process-mapping
+Program Manager,Process Improvement,Intermediate,Process case studies,Medium,15 min,https://medium.com/tag/process-improvement
+Program Manager,Process Improvement,Intermediate,Process deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=7p3b8Zc2t6Q
+
+Program Manager,Process Improvement,Advanced,Six Sigma overview,ASQ,20 min,https://asq.org/quality-resources/six-sigma
+Program Manager,Process Improvement,Advanced,Process transformation,McKinsey,20 min,https://www.mckinsey.com/capabilities/operations/our-insights
+Program Manager,Process Improvement,Advanced,Advanced process cases,Medium,15 min,https://medium.com/tag/process-improvement
+Program Manager,Process Improvement,Advanced,Process strategy video,YouTube,1 hr,https://www.youtube.com/watch?v=2k4k9f8s7mE
+Program Manager,Process Improvement,Advanced,Business process management,IBM,20 min,https://www.ibm.com/topics/business-process-management
+
+
+Program Manager,Stakeholder Management,Beginner,Stakeholder management basics,PMI,15 min,https://www.pmi.org/learning/library/stakeholder-management-101-8356
+Program Manager,Stakeholder Management,Beginner,Stakeholder overview,Atlassian,15 min,https://www.atlassian.com/agile/project-management/stakeholder-management
+Program Manager,Stakeholder Management,Beginner,Stakeholder blogs,Medium,10 min,https://medium.com/tag/stakeholder-management
+Program Manager,Stakeholder Management,Beginner,Stakeholder intro video,YouTube,1 hr,https://www.youtube.com/watch?v=Q1Y9z6nR2ZQ
+Program Manager,Stakeholder Management,Beginner,Stakeholder mapping basics,MindTools,20 min,https://www.mindtools.com/pages/article/newPPM_07.htm
+
+Program Manager,Stakeholder Management,Intermediate,Managing stakeholders,HBR,20 min,https://hbr.org/2015/01/managing-your-stakeholders
+Program Manager,Stakeholder Management,Intermediate,Stakeholder mapping,MindTools,20 min,https://www.mindtools.com/pages/article/newPPM_07.htm
+Program Manager,Stakeholder Management,Intermediate,Stakeholder case studies,Medium,15 min,https://medium.com/tag/stakeholder-management
+Program Manager,Stakeholder Management,Intermediate,Stakeholder deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=Zt7q7s4y2pA
+Program Manager,Stakeholder Management,Intermediate,Stakeholder engagement guide,PMI,20 min,https://www.pmi.org
+
+Program Manager,Stakeholder Management,Advanced,Executive stakeholder alignment,McKinsey,20 min,https://www.mckinsey.com
+Program Manager,Stakeholder Management,Advanced,Stakeholder strategy,HBR,20 min,https://hbr.org
+Program Manager,Stakeholder Management,Advanced,Advanced stakeholder cases,Medium,15 min,https://medium.com/tag/stakeholder-management
+Program Manager,Stakeholder Management,Advanced,Advanced stakeholder video,YouTube,1 hr,https://www.youtube.com/watch?v=X9j2m3s2vYk
+Program Manager,Stakeholder Management,Advanced,Stakeholder leadership,PMI,20 min,https://www.pmi.org
+
+
+Program Manager,Communication,Beginner,Business communication basics,MindTools,20 min,https://www.mindtools.com/pages/article/newCS_99.htm
+Program Manager,Communication,Beginner,Communication skills course,Coursera (audit),2 hrs,https://www.coursera.org/learn/wharton-communication-skills
+Program Manager,Communication,Beginner,Communication blogs,Medium,10 min,https://medium.com/tag/communication
+Program Manager,Communication,Beginner,Communication intro video,YouTube,1 hr,https://www.youtube.com/watch?v=HAnw168huqA
+Program Manager,Communication,Beginner,Workplace communication guide,Indeed,15 min,https://www.indeed.com/career-advice/career-development/workplace-communication
+
+Program Manager,Communication,Intermediate,Effective communication,HBR,20 min,https://hbr.org/2013/04/how-to-communicate-effectively
+Program Manager,Communication,Intermediate,Storytelling for leaders,McKinsey,20 min,https://www.mckinsey.com
+Program Manager,Communication,Intermediate,Communication case studies,Medium,15 min,https://medium.com/tag/communication
+Program Manager,Communication,Intermediate,Communication deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=Unzc731iCUY
+Program Manager,Communication,Intermediate,Presentation skills,MindTools,20 min,https://www.mindtools.com/pages/article/newCS_96.htm
+
+Program Manager,Communication,Advanced,Executive communication,McKinsey,20 min,https://www.mckinsey.com
+Program Manager,Communication,Advanced,Leadership communication,HBR,20 min,https://hbr.org
+Program Manager,Communication,Advanced,Advanced communication cases,Medium,15 min,https://medium.com/tag/communication
+Program Manager,Communication,Advanced,Advanced communication video,YouTube,1 hr,https://www.youtube.com/watch?v=5MgBikgcWnY
+Program Manager,Communication,Advanced,Influencing skills,MindTools,20 min,https://www.mindtools.com/pages/article/newLDR_66.htm
+
+Cross-Role (Emerging Skills),AI in Business,Beginner,AI fundamentals,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/
+Cross-Role (Emerging Skills),AI in Business,Beginner,What is AI,IBM,15 min,https://www.ibm.com/topics/artificial-intelligence
+Cross-Role (Emerging Skills),AI in Business,Beginner,AI basics blog,Medium,10 min,https://medium.com/tag/artificial-intelligence
+Cross-Role (Emerging Skills),AI in Business,Beginner,AI intro video,YouTube,1 hr,https://www.youtube.com/watch?v=2ePf9rue1Ao
+Cross-Role (Emerging Skills),AI in Business,Beginner,AI for everyone,Coursera (audit),2 hrs,https://www.coursera.org/learn/ai-for-everyone
+
+Cross-Role (Emerging Skills),AI in Business,Intermediate,AI concepts,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/ai-concepts/
+Cross-Role (Emerging Skills),AI in Business,Intermediate,AI use cases,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+Cross-Role (Emerging Skills),AI in Business,Intermediate,AI applications blog,Medium,15 min,https://medium.com/tag/artificial-intelligence
+Cross-Role (Emerging Skills),AI in Business,Intermediate,AI case study video,YouTube,1 hr,https://www.youtube.com/watch?v=JMUxmLyrhSk
+Cross-Role (Emerging Skills),AI in Business,Intermediate,AI strategy overview,IBM,20 min,https://www.ibm.com/watson
+
+Cross-Role (Emerging Skills),AI in Business,Advanced,Responsible AI,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/responsible-ai/
+Cross-Role (Emerging Skills),AI in Business,Advanced,AI strategy insights,McKinsey,20 min,https://www.mckinsey.com
+Cross-Role (Emerging Skills),AI in Business,Advanced,Advanced AI blogs,Medium,15 min,https://medium.com/tag/artificial-intelligence
+Cross-Role (Emerging Skills),AI in Business,Advanced,AI deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=ad79nYk2keg
+Cross-Role (Emerging Skills),AI in Business,Advanced,AI transformation,IBM,20 min,https://www.ibm.com
+
+
+Cross-Role (Emerging Skills),Generative AI,Beginner,Intro to generative AI,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-generative-ai/
+Cross-Role (Emerging Skills),Generative AI,Beginner,What is generative AI,Google,15 min,https://cloud.google.com/learn/what-is-generative-ai
+Cross-Role (Emerging Skills),Generative AI,Beginner,GenAI basics blog,Medium,10 min,https://medium.com/tag/generative-ai
+Cross-Role (Emerging Skills),Generative AI,Beginner,GenAI intro video,YouTube,1 hr,https://www.youtube.com/watch?v=G2fqAlgmoPo
+Cross-Role (Emerging Skills),Generative AI,Beginner,GenAI for everyone,Coursera (audit),2 hrs,https://www.coursera.org/learn/generative-ai-for-everyone
+
+Cross-Role (Emerging Skills),Generative AI,Intermediate,Build AI solutions,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/create-ai-solutions/
+Cross-Role (Emerging Skills),Generative AI,Intermediate,GenAI use cases,McKinsey,20 min,https://www.mckinsey.com
+Cross-Role (Emerging Skills),Generative AI,Intermediate,GenAI applications blog,Medium,15 min,https://medium.com/tag/generative-ai
+Cross-Role (Emerging Skills),Generative AI,Intermediate,GenAI case study video,YouTube,1 hr,https://www.youtube.com/watch?v=7Xg6L0sZ0sI
+Cross-Role (Emerging Skills),Generative AI,Intermediate,GenAI tools overview,Google,20 min,https://cloud.google.com/ai
+
+Cross-Role (Emerging Skills),Generative AI,Advanced,AI models overview,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/ai-models/
+Cross-Role (Emerging Skills),Generative AI,Advanced,GenAI strategy,McKinsey,20 min,https://www.mckinsey.com
+Cross-Role (Emerging Skills),Generative AI,Advanced,Advanced GenAI blogs,Medium,15 min,https://medium.com/tag/generative-ai
+Cross-Role (Emerging Skills),Generative AI,Advanced,GenAI deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=V9t5L0r8Z0M
+Cross-Role (Emerging Skills),Generative AI,Advanced,AI architecture,Google,20 min,https://cloud.google.com/architecture
+
+
+Cross-Role (Emerging Skills),Prompt Engineering,Beginner,Intro to prompt engineering,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/prompt-engineering/
+Cross-Role (Emerging Skills),Prompt Engineering,Beginner,Prompt engineering guide,OpenAI Docs,15 min,https://platform.openai.com/docs/guides/prompt-engineering
+Cross-Role (Emerging Skills),Prompt Engineering,Beginner,Prompt basics blog,Medium,10 min,https://medium.com/tag/prompt-engineering
+Cross-Role (Emerging Skills),Prompt Engineering,Beginner,Prompt intro video,YouTube,1 hr,https://www.youtube.com/watch?v=_ZvnD73m40o
+Cross-Role (Emerging Skills),Prompt Engineering,Beginner,Prompt engineering course,Coursera (audit),2 hrs,https://www.coursera.org/learn/prompt-engineering
+
+Cross-Role (Emerging Skills),Prompt Engineering,Intermediate,Advanced prompting,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-prompt-engineering/
+Cross-Role (Emerging Skills),Prompt Engineering,Intermediate,Prompt techniques,OpenAI Docs,20 min,https://platform.openai.com/docs/guides/prompt-engineering
+Cross-Role (Emerging Skills),Prompt Engineering,Intermediate,Prompt case studies,Medium,15 min,https://medium.com/tag/prompt-engineering
+Cross-Role (Emerging Skills),Prompt Engineering,Intermediate,Prompt deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=dOxUroR57xs
+Cross-Role (Emerging Skills),Prompt Engineering,Intermediate,Prompt patterns,Google,20 min,https://developers.google.com/machine-learning
+
+Cross-Role (Emerging Skills),Prompt Engineering,Advanced,AI workflows,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/ai-workflows/
+Cross-Role (Emerging Skills),Prompt Engineering,Advanced,Prompt strategy,McKinsey,20 min,https://www.mckinsey.com
+Cross-Role (Emerging Skills),Prompt Engineering,Advanced,Advanced prompt blogs,Medium,15 min,https://medium.com/tag/prompt-engineering
+Cross-Role (Emerging Skills),Prompt Engineering,Advanced,Advanced prompt video,YouTube,1 hr,https://www.youtube.com/watch?v=2t3d8Z0Z0Y8
+Cross-Role (Emerging Skills),Prompt Engineering,Advanced,LLM design patterns,Google,20 min,https://cloud.google.com/architecture
+
+Advanced / Consulting,Consulting Mindset,Beginner,What is consulting,BCG,15 min,https://www.bcg.com/about/what-we-do
+Advanced / Consulting,Consulting Mindset,Beginner,Consulting interview prep basics,McKinsey,20 min,https://www.mckinsey.com/careers/how-we-hire/preparing-for-interviews
+Advanced / Consulting,Consulting Mindset,Beginner,Problem solving basics,MindTools,20 min,https://www.mindtools.com/pages/article/newTMC_00.htm
+Advanced / Consulting,Consulting Mindset,Beginner,Consulting blogs,Medium,10 min,https://medium.com/tag/consulting
+Advanced / Consulting,Consulting Mindset,Beginner,Consulting intro video,YouTube,1 hr,https://www.youtube.com/watch?v=6x8f4Y6rX8k
+
+Advanced / Consulting,Consulting Mindset,Intermediate,Case interview fundamentals,McKinsey,20 min,https://www.mckinsey.com/careers/how-we-hire/how-to-prepare-for-case-interviews
+Advanced / Consulting,Consulting Mindset,Intermediate,Structured problem solving,BCG,20 min,https://www.bcg.com/publications
+Advanced / Consulting,Consulting Mindset,Intermediate,Consulting frameworks,MindTools,20 min,https://www.mindtools.com/pages/article/newSTR_91.htm
+Advanced / Consulting,Consulting Mindset,Intermediate,Consulting case studies,Medium,15 min,https://medium.com/tag/consulting
+Advanced / Consulting,Consulting Mindset,Intermediate,Case walkthrough video,YouTube,1 hr,https://www.youtube.com/watch?v=Jd7G5sYx1k0
+
+Advanced / Consulting,Consulting Mindset,Advanced,Advanced case prep,McKinsey,20 min,https://www.mckinsey.com/careers/how-we-hire
+Advanced / Consulting,Consulting Mindset,Advanced,Strategy problem solving,BCG,20 min,https://www.bcg.com/publications/strategy
+Advanced / Consulting,Consulting Mindset,Advanced,Advanced consulting cases,Medium,15 min,https://medium.com/tag/consulting
+Advanced / Consulting,Consulting Mindset,Advanced,Advanced case video,YouTube,1 hr,https://www.youtube.com/watch?v=Vd3QxQ1k2wM
+Advanced / Consulting,Consulting Mindset,Advanced,Executive problem solving,HBR,20 min,https://hbr.org/2016/01/how-to-solve-problems
+
+
+Advanced / Consulting,Digital Transformation,Beginner,Intro to digital transformation,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/digital-transformation-intro/
+Advanced / Consulting,Digital Transformation,Beginner,What is digital transformation,IBM,15 min,https://www.ibm.com/topics/digital-transformation
+Advanced / Consulting,Digital Transformation,Beginner,Digital transformation blogs,Medium,10 min,https://medium.com/tag/digital-transformation
+Advanced / Consulting,Digital Transformation,Beginner,Digital transformation intro video,YouTube,1 hr,https://www.youtube.com/watch?v=O4c2u3e1Q5k
+Advanced / Consulting,Digital Transformation,Beginner,Digital transformation insights,McKinsey,20 min,https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights
+
+Advanced / Consulting,Digital Transformation,Intermediate,Transform business processes,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/transform-business-processes/
+Advanced / Consulting,Digital Transformation,Intermediate,Digital strategy frameworks,McKinsey,20 min,https://www.mckinsey.com/capabilities/mckinsey-digital
+Advanced / Consulting,Digital Transformation,Intermediate,Digital transformation case studies,Medium,15 min,https://medium.com/tag/digital-transformation
+Advanced / Consulting,Digital Transformation,Intermediate,Digital deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=7nZ3y2l0qXU
+Advanced / Consulting,Digital Transformation,Intermediate,Enterprise digital strategy,IBM,20 min,https://www.ibm.com/consulting/digital-transformation
+
+Advanced / Consulting,Digital Transformation,Advanced,Advanced digital transformation,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-digital-transformation/
+Advanced / Consulting,Digital Transformation,Advanced,Scaling digital transformation,McKinsey,20 min,https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights
+Advanced / Consulting,Digital Transformation,Advanced,Advanced digital cases,Medium,15 min,https://medium.com/tag/digital-transformation
+Advanced / Consulting,Digital Transformation,Advanced,Advanced digital video,YouTube,1 hr,https://www.youtube.com/watch?v=3Yh2x8n0qZQ
+Advanced / Consulting,Digital Transformation,Advanced,Enterprise transformation strategy,IBM,20 min,https://www.ibm.com/consulting
+
+
+Advanced / Consulting,Decision Intelligence,Beginner,Intro to decision intelligence,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/decision-intelligence-intro/
+Advanced / Consulting,Decision Intelligence,Beginner,What is decision intelligence,Google,15 min,https://cloud.google.com/learn/what-is-decision-intelligence
+Advanced / Consulting,Decision Intelligence,Beginner,Decision intelligence blogs,Medium,10 min,https://medium.com/tag/decision-intelligence
+Advanced / Consulting,Decision Intelligence,Beginner,Decision making basics video,YouTube,1 hr,https://www.youtube.com/watch?v=Q4o5g2Zp3nM
+Advanced / Consulting,Decision Intelligence,Beginner,Decision making basics,MindTools,20 min,https://www.mindtools.com/pages/article/newTED_07.htm
+
+Advanced / Consulting,Decision Intelligence,Intermediate,Apply decision intelligence,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/apply-decision-intelligence/
+Advanced / Consulting,Decision Intelligence,Intermediate,Decision frameworks,Google,20 min,https://cloud.google.com/architecture
+Advanced / Consulting,Decision Intelligence,Intermediate,Decision intelligence case studies,Medium,15 min,https://medium.com/tag/decision-intelligence
+Advanced / Consulting,Decision Intelligence,Intermediate,Decision deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=K7x2d3Q9s4E
+Advanced / Consulting,Decision Intelligence,Intermediate,Data-driven decisions,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+
+Advanced / Consulting,Decision Intelligence,Advanced,Advanced decision systems,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-decision-systems/
+Advanced / Consulting,Decision Intelligence,Advanced,Decision intelligence strategy,McKinsey,20 min,https://www.mckinsey.com
+Advanced / Consulting,Decision Intelligence,Advanced,Advanced decision cases,Medium,15 min,https://medium.com/tag/decision-intelligence
+Advanced / Consulting,Decision Intelligence,Advanced,Advanced decision video,YouTube,1 hr,https://www.youtube.com/watch?v=Zp8x2k3m9nA
+Advanced / Consulting,Decision Intelligence,Advanced,AI-driven decision making,IBM,20 min,https://www.ibm.com/topics/decision-intelligence
