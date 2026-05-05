@@ -338,3 +338,163 @@ Product Manager,Metrics & KPIs,Intermediate,situational,High churn observed. Wha
 Product Manager,Metrics & KPIs,Advanced,situational,Metrics conflict with business goals. What should you do?,Realign metrics with goals,Ignore mismatch,Delay analysis,Add more metrics,Realign metrics with goals,Alignment ensures accuracy.
 
 Product Manager,Metrics & KPIs,Advanced,situational,Stakeholder focuses on vanity metrics. What should you do?,Shift focus to actionable metrics,Agree blindly,Ignore stakeholder,Delay discussion,Shift focus to actionable metrics,Actionable metrics matter.
+Product Manager,User Stories,Beginner,technical,What is a user story?,Short description of feature,Code module,Database table,Server config,Short description of feature,User stories describe features from user view.
+
+Product Manager,User Stories,Beginner,technical,What format is used for user stories?,As a user I want so that,I want feature because,User needs system,Feature should be built,As a user I want so that,Standard user story format.
+
+Product Manager,User Stories,Beginner,technical,Who writes user stories?,Product manager or team,Only developers,Only testers,Only designers,Product manager or team,PMs usually define stories.
+
+Product Manager,User Stories,Beginner,technical,What is acceptance criteria?,Conditions for success,Code logic,UI design,Server config,Conditions for success,Defines when story is complete.
+
+Product Manager,User Stories,Beginner,technical,What is backlog?,List of user stories,Code repository,UI layout,Server logs,List of user stories,Backlog stores tasks.
+
+Product Manager,User Stories,Intermediate,technical,What is story prioritization?,Ranking stories by importance,Writing code,Designing UI,Testing system,Ranking stories by importance,Prioritization ensures value delivery.
+
+Product Manager,User Stories,Intermediate,technical,What is story estimation?,Estimating effort required,Writing code,Testing UI,Managing logs,Estimating effort required,Helps in planning.
+
+Product Manager,User Stories,Intermediate,technical,What is epic?,Large user story,Small task,Code module,UI component,Large user story,Epic is broken into stories.
+
+Product Manager,User Stories,Intermediate,technical,What is story mapping?,Organizing user stories visually,Writing code,Designing UI,Testing system,Organizing user stories visually,Helps understand workflow.
+
+Product Manager,User Stories,Intermediate,technical,What is sprint backlog?,Stories selected for sprint,All project tasks,Code file,Server log,Stories selected for sprint,Sprint backlog defines work.
+
+Product Manager,User Stories,Advanced,technical,What is INVEST principle?,Guidelines for good stories,Code rule,UI design standard,Server config,Guidelines for good stories,INVEST improves story quality.
+
+Product Manager,User Stories,Advanced,technical,What is story splitting?,Breaking large stories,Deleting tasks,Grouping code,Sorting data,Breaking large stories,Smaller stories are manageable.
+
+Product Manager,User Stories,Advanced,technical,What is story refinement?,Improving story details,Writing code,Testing UI,Managing logs,Improving story details,Refinement ensures clarity.
+
+Product Manager,User Stories,Advanced,technical,What is acceptance test?,Validating story completion,Writing code,UI design,Server setup,Validating story completion,Tests confirm requirements.
+
+Product Manager,User Stories,Advanced,technical,What is backlog grooming?,Updating backlog regularly,Deleting backlog,Sorting code,Testing system,Updating backlog regularly,Ensures backlog quality.
+
+Product Manager,User Stories,Beginner,situational,A user story is unclear. What should you do?,Clarify with team,Ignore it,Delay sprint,Guess details,Clarify with team,Clarity ensures execution.
+
+Product Manager,User Stories,Intermediate,situational,Too many stories in sprint. What should you do?,Prioritize effectively,Add more stories,Ignore issue,Delay sprint,Prioritize effectively,Focus improves delivery.
+
+Product Manager,User Stories,Intermediate,situational,Story lacks acceptance criteria. What should you do?,Define criteria clearly,Ignore it,Delay work,Add later,Define criteria clearly,Criteria ensures clarity.
+
+Product Manager,User Stories,Advanced,situational,Story is too large to deliver. What should you do?,Split into smaller stories,Ignore issue,Delay sprint,Remove story,Split into smaller stories,Smaller stories are manageable.
+
+Product Manager,User Stories,Advanced,situational,Team misunderstands story requirements. What should you do?,Refine and communicate clearly,Ignore issue,Blame team,Delay sprint,Refine and communicate clearly,Clear communication prevents errors.
+
+Product Manager,Agile,Beginner,technical,What is Agile?,Iterative development approach,Fixed development method,Code structure,UI design,Iterative development approach,Agile focuses on flexibility.
+
+Product Manager,Agile,Beginner,technical,What is a sprint?,Time-boxed iteration,Code module,UI layout,Server setup,Time-boxed iteration,Sprint defines work period.
+
+Product Manager,Agile,Beginner,technical,What is daily standup?,Short team meeting,Code review session,UI testing,Server check,Short team meeting,Standup ensures alignment.
+
+Product Manager,Agile,Beginner,technical,What is Scrum?,Agile framework,Code language,UI tool,Server system,Agile framework,Scrum is popular Agile method.
+
+Product Manager,Agile,Beginner,technical,Who is Scrum Master?,Facilitates team process,Writes code,Designs UI,Tests system,Facilitates team process,Scrum Master supports team.
+
+Product Manager,Agile,Intermediate,technical,What is sprint planning?,Planning sprint tasks,Writing code,Designing UI,Testing system,Planning sprint tasks,Defines sprint scope.
+
+Product Manager,Agile,Intermediate,technical,What is sprint review?,Review of completed work,Code testing,UI design,Server check,Review of completed work,Shows delivered value.
+
+Product Manager,Agile,Intermediate,technical,What is retrospective?,Team improvement meeting,Code review,UI testing,Server setup,Team improvement meeting,Improves process.
+
+Product Manager,Agile,Intermediate,technical,What is velocity?,Work completed per sprint,Code speed,UI performance,Server load,Work completed per sprint,Velocity measures productivity.
+
+Product Manager,Agile,Intermediate,technical,What is backlog refinement?,Updating backlog items,Deleting backlog,Sorting code,Testing system,Updating backlog items,Refinement ensures clarity.
+
+Product Manager,Agile,Advanced,technical,What is Agile principle?,Focus on customer value,Code optimization,UI design,Server setup,Focus on customer value,Agile prioritizes users.
+
+Product Manager,Agile,Advanced,technical,What is incremental delivery?,Delivering in parts,Delivering once,Code deployment,UI design,Delivering in parts,Supports faster feedback.
+
+Product Manager,Agile,Advanced,technical,What is cross-functional team?,Team with diverse skills,Only developers,Only testers,Only managers,Team with diverse skills,Ensures efficiency.
+
+Product Manager,Agile,Advanced,technical,What is Agile scaling?,Applying Agile at scale,Small team Agile,Code scaling,UI scaling,Applying Agile at scale,Used in large orgs.
+
+Product Manager,Agile,Advanced,technical,What is continuous improvement?,Ongoing process enhancement,Code updates,UI design,Server config,Ongoing process enhancement,Core Agile concept.
+
+Product Manager,Agile,Beginner,situational,Team misses daily standup regularly. What should you do?,Reinforce importance,Ignore issue,Cancel meetings,Delay sprint,Reinforce importance,Standups ensure alignment.
+
+Product Manager,Agile,Intermediate,situational,Sprint goals are unclear. What should you do?,Clarify sprint objectives,Ignore confusion,Delay sprint,Add more tasks,Clarify sprint objectives,Clear goals guide team.
+
+Product Manager,Agile,Intermediate,situational,Team velocity drops suddenly. What should you do?,Analyze root cause,Ignore drop,Blame team,Increase workload,Analyze root cause,Understanding issues helps recovery.
+
+Product Manager,Agile,Advanced,situational,Frequent scope changes disrupt sprint. What should you do?,Control scope and manage changes,Accept all changes,Ignore issue,Delay sprint,Control scope and manage changes,Stability ensures delivery.
+
+Product Manager,Agile,Advanced,situational,Team struggles with Agile adoption. What should you do?,Provide guidance and support,Ignore issue,Force process,Delay project,Provide guidance and support,Support improves adoption.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is activation rate?,Users completing first key action,Total users,Server speed,UI clicks,Users completing first key action,Activation measures initial success.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is leading metric?,Predicts future performance,Measures past data,Code metric,UI metric,Predicts future performance,Leading metrics guide decisions.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is lagging metric?,Reflects past performance,Predicts future trends,Code metric,UI metric,Reflects past performance,Lagging metrics show results.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is session duration?,Time spent by user,Number of users,Server uptime,UI clicks,Time spent by user,Measures engagement depth.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is metric hierarchy?,Structured metric levels,Code structure,UI layout,Server config,Structured metric levels,Hierarchy aligns metrics.
+
+Product Manager,User Stories,Intermediate,technical,What is story acceptance?,Approval of completed story,Code testing,UI design,Server setup,Approval of completed story,Acceptance confirms completion.
+
+Product Manager,User Stories,Advanced,technical,What is story dependency?,Story relying on another,Code block,UI component,Server log,Story relying on another,Dependencies impact delivery.
+
+Product Manager,User Stories,Advanced,technical,What is story risk?,Potential issue in story,Code error,UI bug,Server failure,Potential issue in story,Risk affects delivery.
+
+Product Manager,User Stories,Intermediate,technical,What is backlog prioritization?,Ranking backlog items,Deleting backlog,Sorting code,Testing system,Ranking backlog items,Prioritization ensures focus.
+
+Product Manager,User Stories,Advanced,technical,What is story lifecycle?,Stages of story progress,Code lifecycle,UI lifecycle,Server lifecycle,Stages of story progress,Tracks progress of work.
+
+Product Manager,Agile,Intermediate,technical,What is sprint capacity?,Work team can handle,Code capacity,UI capacity,Server capacity,Work team can handle,Capacity helps planning.
+
+Product Manager,Agile,Advanced,technical,What is sprint burndown?,Work remaining over time,Code progress,UI updates,Server logs,Work remaining over time,Tracks sprint progress.
+
+Product Manager,Agile,Advanced,technical,What is impediment?,Blocker to progress,Code bug,UI issue,Server log,Blocker to progress,Impediments slow delivery.
+
+Product Manager,Agile,Intermediate,technical,What is sprint commitment?,Planned work for sprint,Code target,UI design,Server setup,Planned work for sprint,Commitment defines scope.
+
+Product Manager,Agile,Advanced,technical,What is Agile maturity?,Level of Agile adoption,Code complexity,UI design,Server config,Level of Agile adoption,Maturity reflects process strength.
+
+Product Manager,Metrics & KPIs,Beginner,situational,Users spend less time on product. What should you do?,Analyze engagement metrics,Ignore issue,Add features randomly,Delay action,Analyze engagement metrics,Data reveals user behavior.
+
+Product Manager,User Stories,Intermediate,situational,Stories are not completed in sprint. What should you do?,Adjust planning and estimation,Ignore issue,Add more stories,Delay sprint,Adjust planning and estimation,Better planning improves delivery.
+
+Product Manager,Agile,Intermediate,situational,Team overcommits in sprint. What should you do?,Set realistic capacity,Ignore issue,Increase workload,Delay sprint,Set realistic capacity,Capacity planning is key.
+
+Product Manager,Agile,Advanced,situational,Frequent blockers delay progress. What should you do?,Resolve impediments quickly,Ignore blockers,Blame team,Delay sprint,Resolve impediments quickly,Removing blockers improves flow.
+
+Product Manager,Metrics & KPIs,Advanced,situational,Metrics show growth but revenue drops. What should you do?,Investigate deeper metrics,Ignore mismatch,Add features,Delay action,Investigate deeper metrics,Insights require deeper analysis.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is product analytics?,Analyzing user behavior data,Writing code modules,Designing UI layouts,Managing servers,Analyzing user behavior data,Product analytics helps drive decisions.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is feature adoption rate?,Users using a feature,Total features built,Server performance,UI clicks only,Users using a feature,Adoption shows feature success.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is cohort retention?,Retention by user group,Total retention,Server uptime,UI activity,Cohort retention tracks user groups over time.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is session frequency?,How often users return,Time spent per session,Server load,UI clicks,How often users return,Frequency indicates engagement.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is metric attribution?,Linking actions to outcomes,Sorting data,Deleting records,Grouping code,Linking actions to outcomes,Attribution shows cause and effect.
+
+Product Manager,User Stories,Intermediate,technical,What is story clarity?,Clear understanding of story,Code readability,UI design quality,Server performance,Clear understanding of story,Clarity ensures execution.
+
+Product Manager,User Stories,Advanced,technical,What is story validation?,Checking story accuracy,Writing code,Testing UI,Managing logs,Checking story accuracy,Validation ensures correctness.
+
+Product Manager,User Stories,Advanced,technical,What is story alignment?,Matching story with goals,Writing code,Testing UI,Managing servers,Matching story with goals,Alignment ensures relevance.
+
+Product Manager,User Stories,Intermediate,technical,What is backlog health?,Quality of backlog items,Code quality,UI layout,Server uptime,Quality of backlog items,Healthy backlog improves planning.
+
+Product Manager,User Stories,Advanced,technical,What is story acceptance criteria quality?,Clarity of completion conditions,Code testing,UI design,Server config,Clarity of completion conditions,Good criteria define success.
+
+Product Manager,Agile,Intermediate,technical,What is sprint efficiency?,Output vs effort ratio,Code speed,UI performance,Server load,Output vs effort ratio,Efficiency measures productivity.
+
+Product Manager,Agile,Advanced,technical,What is Agile delivery risk?,Risk affecting delivery,Code error,UI issue,Server log,Risk affecting delivery,Risks impact timelines.
+
+Product Manager,Agile,Advanced,technical,What is team velocity trend?,Velocity over time,Code progress,UI changes,Server logs,Velocity over time,Trend shows performance pattern.
+
+Product Manager,Agile,Intermediate,technical,What is sprint scope creep?,Unplanned work addition,Code change,UI update,Server config,Unplanned work addition,Scope creep disrupts sprint.
+
+Product Manager,Agile,Advanced,technical,What is Agile governance?,Framework for Agile control,Code structure,UI layout,Server config,Framework for Agile control,Governance ensures discipline.
+
+Product Manager,Metrics & KPIs,Intermediate,situational,Feature adoption is low. What should you do?,Analyze user behavior,Ignore issue,Add features randomly,Delay action,Analyze user behavior,Understanding usage improves adoption.
+
+Product Manager,User Stories,Advanced,situational,Stories do not align with business goals. What should you do?,Realign with objectives,Ignore issue,Delay sprint,Add more stories,Realign with objectives,Alignment ensures value.
+
+Product Manager,Agile,Intermediate,situational,Sprint scope keeps increasing. What should you do?,Control scope strictly,Accept all changes,Ignore issue,Delay sprint,Control scope strictly,Scope control ensures focus.
+
+Product Manager,Agile,Advanced,situational,Team struggles with delivery predictability. What should you do?,Improve estimation and tracking,Ignore issue,Blame team,Delay releases,Improve estimation and tracking,Better planning improves predictability.
+
+Product Manager,Metrics & KPIs,Advanced,situational,Metrics improve but user satisfaction drops. What should you do?,Investigate user feedback,Ignore mismatch,Add features,Delay action,Investigate user feedback,User feedback reveals issues.
+
