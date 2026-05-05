@@ -1,0 +1,41 @@
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+Business Analyst,Business Analysis,Beginner,technical,What is the primary goal of business analysis?,Identify business needs,Write technical code,Design UI layouts,Manage payroll,Identify business needs,Business analysis focuses on identifying and solving business problems.
+
+Business Analyst,Business Analysis,Beginner,technical,Which document defines business requirements at a high level?,BRD,Test Case,API Spec,Code Script,BRD,BRD captures business-level needs and scope.
+
+Business Analyst,Business Analysis,Beginner,technical,Who is the main stakeholder in requirement validation?,Business user,Developer intern,HR manager,Sales agent,Business user,End users validate business requirements.
+
+Business Analyst,Business Analysis,Beginner,technical,What is a key responsibility of a BA?,Translate business needs,Write backend code,Deploy servers,Manage accounts,Translate business needs,BA bridges business and technical teams.
+
+Business Analyst,Business Analysis,Beginner,technical,Which technique helps understand workflows?,Process mapping,Code debugging,UI coloring,Server testing,Process mapping,Process maps visualize workflows clearly.
+
+Business Analyst,Business Analysis,Intermediate,technical,What does gap analysis identify?,Difference between current and future state,Employee performance gaps,Salary issues,UI bugs,Difference between current and future state,Gap analysis compares current vs desired state.
+
+Business Analyst,Business Analysis,Intermediate,technical,Which method gathers user requirements effectively?,Stakeholder interviews,Server logs review,Code testing,Database tuning,Stakeholder interviews,Direct interaction gives accurate needs.
+
+Business Analyst,Business Analysis,Intermediate,technical,What is a use case?,Interaction between user and system,Code module,Database schema,Network diagram,Interaction between user and system,Use cases define system-user interactions.
+
+Business Analyst,Business Analysis,Intermediate,technical,What is requirement prioritization?,Ranking based on importance,Writing documentation,Testing features,Deploying code,Ranking based on importance,Helps focus on high-value features.
+
+Business Analyst,Business Analysis,Intermediate,technical,Which framework helps structure thinking?,SWOT analysis,HTML coding,Server config,API testing,SWOT analysis,SWOT helps analyze strengths and risks.
+
+Business Analyst,Business Analysis,Advanced,technical,What is a business capability model?,Representation of business functions,Code architecture,Server layout,UI design,Representation of business functions,It maps what a business does.
+
+Business Analyst,Business Analysis,Advanced,technical,What is value stream mapping used for?,Improving processes,Writing APIs,Fixing UI bugs,Database backup,Improving processes,It identifies inefficiencies in workflows.
+
+Business Analyst,Business Analysis,Advanced,technical,Which approach ensures continuous improvement?,Agile methodology,Waterfall only,Manual testing,Static planning,Agile methodology,Agile supports iteration and improvement.
+
+Business Analyst,Business Analysis,Advanced,technical,What is root cause analysis?,Finding underlying issue,Writing reports,Testing UI,Monitoring logs,Finding underlying issue,It identifies core problem causes.
+
+Business Analyst,Business Analysis,Advanced,technical,Which metric measures process efficiency?,Cycle time,Color scheme,Code length,UI clicks,Cycle time,Cycle time reflects process speed.
+
+Business Analyst,Business Analysis,Beginner,situational,A stakeholder is unclear about requirements. What should you do?,Clarify through discussion,Ignore and proceed,Delay project indefinitely,Ask developer to decide,Clarify through discussion,Clarification ensures accurate requirements.
+
+Business Analyst,Business Analysis,Intermediate,situational,Two stakeholders give conflicting inputs. What is the best approach?,Facilitate alignment meeting,Choose one randomly,Ignore both inputs,Escalate immediately,Facilitate alignment meeting,Alignment ensures consensus.
+
+Business Analyst,Business Analysis,Intermediate,situational,Requirements keep changing frequently. What should you do?,Implement change control,Reject all changes,Ignore updates,Delay project,Implement change control,Structured process manages changes.
+
+Business Analyst,Business Analysis,Advanced,situational,A project is failing due to unclear scope. What should you do?,Re-define scope clearly,Continue execution,Blame team,Stop communication,Re-define scope clearly,Clear scope is critical for success.
+
+Business Analyst,Business Analysis,Advanced,situational,A senior stakeholder pushes unrealistic deadlines. What should you do?,Negotiate with data,Accept blindly,Ignore timeline,Delay silently,Negotiate with data,Data-backed negotiation is effective.
