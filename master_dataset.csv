@@ -3,43 +3,242 @@ Role,Skill,Level,Resource Title,Type,Duration,Link
 Business Analyst,Business Analysis,Beginner,Get started with business analysis,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/get-started-business-analysis/
 Business Analyst,Business Analysis,Beginner,Business Analysis overview,Atlassian,15 min,https://www.atlassian.com/agile/project-management/business-analysis
 Business Analyst,Business Analysis,Beginner,What is Business Analysis,BA Times,10 min,https://www.batimes.com/articles/what-is-business-analysis/
+Business Analyst,Business Analysis,Beginner,Business Analysis basics,Simplilearn,2 hrs,https://www.simplilearn.com/business-analysis-basics-article
+Business Analyst,Business Analysis,Beginner,Business Analysis intro video,YouTube,1 hr,https://www.youtube.com/watch?v=6ZCk7U0s2uA
+
 Business Analyst,Business Analysis,Intermediate,Analyze business processes,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/paths/analyze-business-processes/
-Business Analyst,Business Analysis,Intermediate,BPMN Guide,Camunda,30 min,https://camunda.com/bpmn/reference/
+Business Analyst,Business Analysis,Intermediate,BPMN reference,Camunda,30 min,https://camunda.com/bpmn/reference/
+Business Analyst,Business Analysis,Intermediate,Business analysis resources,IIBA,20 min,https://www.iiba.org/business-analysis-standards-and-resources/
+Business Analyst,Business Analysis,Intermediate,BA case studies,Medium,15 min,https://medium.com/tag/business-analysis
+Business Analyst,Business Analysis,Intermediate,Business analysis case walkthrough,YouTube,1 hr,https://www.youtube.com/watch?v=Zt5mXn0hQeE
+
 Business Analyst,Business Analysis,Advanced,Improve business processes,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/improve-business-processes/
+Business Analyst,Business Analysis,Advanced,Digital transformation insights,McKinsey,20 min,https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights
+Business Analyst,Business Analysis,Advanced,BABOK overview,IIBA,20 min,https://www.iiba.org/standards-and-resources/babok/
+Business Analyst,Business Analysis,Advanced,Advanced BA case studies,Medium,15 min,https://medium.com/tag/business-analysis
+Business Analyst,Business Analysis,Advanced,Strategy case breakdown,YouTube,1 hr,https://www.youtube.com/watch?v=KXn1z4VjZs8
+
+
+Business Analyst,Requirement Gathering,Beginner,Define requirements,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/define-requirements/
+Business Analyst,Requirement Gathering,Beginner,Requirements basics,Atlassian,15 min,https://www.atlassian.com/agile/project-management/requirements
+Business Analyst,Requirement Gathering,Beginner,Requirements analysis,Guru99,15 min,https://www.guru99.com/requirements-analysis.html
+Business Analyst,Requirement Gathering,Beginner,Requirements overview,Medium,10 min,https://medium.com/tag/requirements
+Business Analyst,Requirement Gathering,Beginner,Requirements intro video,YouTube,45 min,https://www.youtube.com/watch?v=5c9cQK7g7qk
+
+Business Analyst,Requirement Gathering,Intermediate,Conduct workshops,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/conduct-workshops/
+Business Analyst,Requirement Gathering,Intermediate,Stakeholder interviews,HBR,20 min,https://hbr.org/2016/01/how-to-get-stakeholders-to-actually-talk
+Business Analyst,Requirement Gathering,Intermediate,Functional requirements,Modern Analyst,20 min,https://www.modernanalyst.com/resources/articles/
+Business Analyst,Requirement Gathering,Intermediate,Requirements case studies,Medium,15 min,https://medium.com/tag/requirements
+Business Analyst,Requirement Gathering,Intermediate,Workshop demo,YouTube,1 hr,https://www.youtube.com/watch?v=9h7z9Zy6xZk
+
+Business Analyst,Requirement Gathering,Advanced,Requirements engineering overview,Wikipedia,20 min,https://en.wikipedia.org/wiki/Requirements_engineering
+Business Analyst,Requirement Gathering,Advanced,Prioritization frameworks,ProductPlan,20 min,https://www.productplan.com/glossary/prioritization/
+Business Analyst,Requirement Gathering,Advanced,User story mapping guide,ProductPlan,20 min,https://www.productplan.com/glossary/user-story-mapping/
+Business Analyst,Requirement Gathering,Advanced,Advanced requirement cases,Medium,15 min,https://medium.com/tag/requirements
+Business Analyst,Requirement Gathering,Advanced,Advanced requirements video,YouTube,1 hr,https://www.youtube.com/watch?v=J9l8Zg3gXgk
+
+
+Business Analyst,Stakeholder Management,Beginner,Stakeholder engagement,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/stakeholder-engagement/
+Business Analyst,Stakeholder Management,Beginner,Stakeholder management basics,Atlassian,15 min,https://www.atlassian.com/agile/project-management/stakeholder-management
+Business Analyst,Stakeholder Management,Beginner,Stakeholder management 101,PMI,15 min,https://www.pmi.org/learning/library/stakeholder-management-101-8356
+Business Analyst,Stakeholder Management,Beginner,Stakeholder basics,Medium,10 min,https://medium.com/tag/stakeholder-management
+Business Analyst,Stakeholder Management,Beginner,Stakeholder intro video,YouTube,45 min,https://www.youtube.com/watch?v=Q1Y9z6nR2ZQ
+
+Business Analyst,Stakeholder Management,Intermediate,Managing stakeholders,HBR,20 min,https://hbr.org/2015/01/managing-your-stakeholders
+Business Analyst,Stakeholder Management,Intermediate,Stakeholder mapping,MindTools,20 min,https://www.mindtools.com/pages/article/newPPM_07.htm
+Business Analyst,Stakeholder Management,Intermediate,Stakeholder engagement overview,Wikipedia,15 min,https://en.wikipedia.org/wiki/Stakeholder_engagement
+Business Analyst,Stakeholder Management,Intermediate,Stakeholder case studies,Medium,15 min,https://medium.com/tag/stakeholder-management
+Business Analyst,Stakeholder Management,Intermediate,Stakeholder strategy video,YouTube,1 hr,https://www.youtube.com/watch?v=Zt7q7s4y2pA
+
+Business Analyst,Stakeholder Management,Advanced,Stakeholder theory,Wikipedia,20 min,https://en.wikipedia.org/wiki/Stakeholder_theory
+Business Analyst,Stakeholder Management,Advanced,Managing up,HBR,20 min,https://hbr.org/2013/01/managing-your-boss
+Business Analyst,Stakeholder Management,Advanced,Executive alignment insights,McKinsey,20 min,https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights
+Business Analyst,Stakeholder Management,Advanced,Advanced stakeholder cases,Medium,15 min,https://medium.com/tag/stakeholder-management
+Business Analyst,Stakeholder Management,Advanced,Advanced stakeholder video,YouTube,1 hr,https://www.youtube.com/watch?v=X9j2m3s2vYk
+
+
+Business Analyst,Documentation (BRD/FRD),Beginner,What is BRD,Guru99,15 min,https://www.guru99.com/what-is-brd.html
+Business Analyst,Documentation (BRD/FRD),Beginner,Requirements documentation,Atlassian,15 min,https://www.atlassian.com/work-management/project-management/requirements
+Business Analyst,Documentation (BRD/FRD),Beginner,Documentation basics,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/define-requirements/
+Business Analyst,Documentation (BRD/FRD),Beginner,Writing requirements basics,Medium,10 min,https://medium.com/tag/requirements
+Business Analyst,Documentation (BRD/FRD),Beginner,BRD tutorial video,YouTube,45 min,https://www.youtube.com/watch?v=Yl6f6V6QfQw
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,Writing effective requirements,Modern Analyst,20 min,https://www.modernanalyst.com/resources/articles/
+Business Analyst,Documentation (BRD/FRD),Intermediate,Requirements best practices,Atlassian,15 min,https://www.atlassian.com/agile/project-management/requirements
+Business Analyst,Documentation (BRD/FRD),Intermediate,Functional vs non-functional requirements,Guru99,15 min,https://www.guru99.com/functional-vs-non-functional-requirements.html
+Business Analyst,Documentation (BRD/FRD),Intermediate,Documentation case studies,Medium,15 min,https://medium.com/tag/requirements
+Business Analyst,Documentation (BRD/FRD),Intermediate,Documentation workshop video,YouTube,1 hr,https://www.youtube.com/watch?v=VhZk9k2kXgU
+
+Business Analyst,Documentation (BRD/FRD),Advanced,Product requirements guide,Atlassian,20 min,https://www.atlassian.com/work-management/product-management/product-requirements
+Business Analyst,Documentation (BRD/FRD),Advanced,Amazon PRD case,Medium,15 min,https://medium.com/@pm_insights/how-amazon-writes-prds-8a9b9e
+Business Analyst,Documentation (BRD/FRD),Advanced,Requirements engineering,Wikipedia,20 min,https://en.wikipedia.org/wiki/Requirements_engineering
+Business Analyst,Documentation (BRD/FRD),Advanced,Advanced documentation cases,Medium,15 min,https://medium.com/tag/requirements
+Business Analyst,Documentation (BRD/FRD),Advanced,Advanced documentation video,YouTube,1 hr,https://www.youtube.com/watch?v=F0n7jZ2k9bM
 
 Business Analyst,SQL,Beginner,Query relational data,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/query-relational-data/
 Business Analyst,SQL,Beginner,SQL Tutorial,W3Schools,30 min,https://www.w3schools.com/sql/
-Business Analyst,SQL,Intermediate,SQL Joins Guide,Mode,1 hr,https://mode.com/sql-tutorial/sql-joins/
-Business Analyst,SQL,Advanced,SQL Indexing Guide,Use The Index Luke,20 min,https://use-the-index-luke.com/
+Business Analyst,SQL,Beginner,SQL Basics,Mode,1 hr,https://mode.com/sql-tutorial/
+Business Analyst,SQL,Beginner,SQL basics articles,Medium,10 min,https://medium.com/tag/sql
+Business Analyst,SQL,Beginner,SQL intro video,YouTube,1 hr,https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+Business Analyst,SQL,Intermediate,Query data path,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/paths/query-relational-data/
+Business Analyst,SQL,Intermediate,SQL Joins guide,Mode,1 hr,https://mode.com/sql-tutorial/sql-joins/
+Business Analyst,SQL,Intermediate,SQL practice problems,LeetCode,1 hr,https://leetcode.com/problemset/database/
+Business Analyst,SQL,Intermediate,SQL case studies,Medium,15 min,https://medium.com/tag/sql
+Business Analyst,SQL,Intermediate,SQL intermediate video,YouTube,1 hr,https://www.youtube.com/watch?v=7S_tz1z_5bA
+
+Business Analyst,SQL,Advanced,Optimize queries,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/optimize-query-performance/
+Business Analyst,SQL,Advanced,SQL indexing guide,Use The Index Luke,20 min,https://use-the-index-luke.com/
+Business Analyst,SQL,Advanced,Advanced SQL problems,LeetCode,1 hr,https://leetcode.com/problemset/database/?difficulty=Hard
+Business Analyst,SQL,Advanced,Advanced SQL blogs,Medium,15 min,https://medium.com/tag/sql
+Business Analyst,SQL,Advanced,Advanced SQL video,YouTube,1 hr,https://www.youtube.com/watch?v=9Pzj7Aj25lw
+
+
+Business Analyst,Data Analysis,Beginner,Intro to data analysis,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-data-analysis/
+Business Analyst,Data Analysis,Beginner,Statistics basics,Khan Academy,1 hr,https://www.khanacademy.org/math/statistics-probability
+Business Analyst,Data Analysis,Beginner,What is data analysis,IBM,15 min,https://www.ibm.com/topics/data-analysis
+Business Analyst,Data Analysis,Beginner,Data analysis blogs,Medium,10 min,https://medium.com/tag/data-analysis
+Business Analyst,Data Analysis,Beginner,Data analysis intro video,YouTube,1 hr,https://www.youtube.com/watch?v=r-uOLxNrNk8
+
+Business Analyst,Data Analysis,Intermediate,Analyze data Power BI,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/
+Business Analyst,Data Analysis,Intermediate,Data cleaning,Kaggle,1 hr,https://www.kaggle.com/learn/data-cleaning
+Business Analyst,Data Analysis,Intermediate,EDA basics,Kaggle,1 hr,https://www.kaggle.com/learn/intro-to-data-analysis
+Business Analyst,Data Analysis,Intermediate,Data analysis cases,Medium,15 min,https://medium.com/tag/data-analysis
+Business Analyst,Data Analysis,Intermediate,Data analysis intermediate video,YouTube,1 hr,https://www.youtube.com/watch?v=GZX9Yw9Cz3I
+
+Business Analyst,Data Analysis,Advanced,Advanced analytics,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-analytics/
+Business Analyst,Data Analysis,Advanced,Analytics strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+Business Analyst,Data Analysis,Advanced,Advanced analysis cases,Medium,15 min,https://medium.com/tag/data-analysis
+Business Analyst,Data Analysis,Advanced,Advanced analysis video,YouTube,1 hr,https://www.youtube.com/watch?v=XX0a6Zr2tZk
+Business Analyst,Data Analysis,Advanced,Advanced SQL for analysis,Kaggle,1 hr,https://www.kaggle.com/learn/advanced-sql
+
+
+Business Analyst,Data Visualization,Beginner,Visualize data Power BI,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/visualize-data-power-bi/
+Business Analyst,Data Visualization,Beginner,Data visualization basics,Tableau,30 min,https://www.tableau.com/learn/articles/data-visualization
+Business Analyst,Data Visualization,Beginner,Chart selection guide,Datawrapper,20 min,https://academy.datawrapper.de/article/136-which-chart-type-to-use
+Business Analyst,Data Visualization,Beginner,Visualization blogs,Medium,10 min,https://medium.com/tag/data-visualization
+Business Analyst,Data Visualization,Beginner,Visualization intro video,YouTube,1 hr,https://www.youtube.com/watch?v=8jz5Y8v8g0I
+
+Business Analyst,Data Visualization,Intermediate,Build dashboards Power BI,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/build-power-bi-dashboards/
+Business Analyst,Data Visualization,Intermediate,Dashboard design,Tableau,30 min,https://www.tableau.com/learn/articles/dashboard-design
+Business Analyst,Data Visualization,Intermediate,Storytelling charts,Datawrapper,20 min,https://academy.datawrapper.de/
+Business Analyst,Data Visualization,Intermediate,Visualization case studies,Medium,15 min,https://medium.com/tag/data-visualization
+Business Analyst,Data Visualization,Intermediate,Dashboard video,YouTube,1 hr,https://www.youtube.com/watch?v=Z6F5g1f6X7E
+
+Business Analyst,Data Visualization,Advanced,Advanced Power BI,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/advanced-power-bi/
+Business Analyst,Data Visualization,Advanced,Data viz best practices,Storytelling with Data,20 min,https://www.storytellingwithdata.com/blog
+Business Analyst,Data Visualization,Advanced,Visualization strategy,McKinsey,20 min,https://www.mckinsey.com
+Business Analyst,Data Visualization,Advanced,Advanced viz blogs,Medium,15 min,https://medium.com/tag/data-visualization
+Business Analyst,Data Visualization,Advanced,Advanced visualization video,YouTube,1 hr,https://www.youtube.com/watch?v=h5wLuVDr0oc
 
 Product Manager,Product Thinking,Beginner,User-centered design basics,NNGroup,20 min,https://www.nngroup.com/articles/user-centered-design/
+Product Manager,Product Thinking,Beginner,What is product thinking,Product School,15 min,https://productschool.com/blog/product-management-2/product-thinking/
+Product Manager,Product Thinking,Beginner,Product basics,Medium,10 min,https://medium.com/tag/product-management
+Product Manager,Product Thinking,Beginner,PM intro video,YouTube,1 hr,https://www.youtube.com/watch?v=Vj1U9Q4RkWk
+Product Manager,Product Thinking,Beginner,Intro to product management,Coursera (audit),2 hrs,https://www.coursera.org/learn/uva-darden-digital-product-management
+
 Product Manager,Product Thinking,Intermediate,Product discovery guide,ProductPlan,20 min,https://www.productplan.com/glossary/product-discovery/
+Product Manager,Product Thinking,Intermediate,UX research methods,NNGroup,20 min,https://www.nngroup.com/articles/which-ux-research-methods/
+Product Manager,Product Thinking,Intermediate,Product case studies,Medium,15 min,https://medium.com/tag/product-management
+Product Manager,Product Thinking,Intermediate,Product iteration video,YouTube,1 hr,https://www.youtube.com/watch?v=KcM2Zl3Zg9k
+Product Manager,Product Thinking,Intermediate,Product lifecycle basics,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/product-development/
+
+Product Manager,Product Thinking,Advanced,Design thinking workflow,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/design-thinking-workflow/
 Product Manager,Product Thinking,Advanced,Scaling product strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights
+Product Manager,Product Thinking,Advanced,Advanced PM case studies,Medium,15 min,https://medium.com/tag/product-management
+Product Manager,Product Thinking,Advanced,Product leadership video,YouTube,1 hr,https://www.youtube.com/watch?v=R9mQZP7x2xk
+Product Manager,Product Thinking,Advanced,Product thinking deep dive,NNGroup,20 min,https://www.nngroup.com/articles/product-management/
+
 
 Product Manager,Product Strategy,Beginner,Product strategy basics,ProductPlan,15 min,https://www.productplan.com/glossary/product-strategy/
-Product Manager,Product Strategy,Intermediate,Create product roadmap,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/create-product-roadmap/
-Product Manager,Product Strategy,Advanced,Product strategy insights,McKinsey,20 min,https://www.mckinsey.com
+Product Manager,Product Strategy,Beginner,What is product strategy,Amplitude,15 min,https://amplitude.com/blog/product-strategy
+Product Manager,Product Strategy,Beginner,Strategy basics blog,Medium,10 min,https://medium.com/tag/product-strategy
+Product Manager,Product Strategy,Beginner,Strategy intro video,YouTube,1 hr,https://www.youtube.com/watch?v=K1VLaXoRRdk
+Product Manager,Product Strategy,Beginner,Intro to product strategy,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/product-strategy/
 
-BI Developer,Data Modelling,Beginner,Intro to data modeling,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/data-modeling/
-BI Developer,Data Modelling,Intermediate,Star schema guide,Microsoft Docs,20 min,https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
-BI Developer,Data Modelling,Advanced,Data warehouse design,Kimball,20 min,https://www.kimballgroup.com
+Product Manager,Product Strategy,Intermediate,Build product roadmap,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/create-product-roadmap/
+Product Manager,Product Strategy,Intermediate,Product strategy frameworks,ProductPlan,20 min,https://www.productplan.com/learn/product-strategy/
+Product Manager,Product Strategy,Intermediate,Product metrics strategy,Amplitude,20 min,https://amplitude.com/blog/product-metrics
+Product Manager,Product Strategy,Intermediate,Strategy case studies,Medium,15 min,https://medium.com/tag/product-strategy
+Product Manager,Product Strategy,Intermediate,Strategy deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=Yc6m8hM2Z9k
 
-Data Analyst,Data Analysis,Beginner,Intro to data analysis,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-data-analysis/
-Data Analyst,Data Analysis,Intermediate,Data cleaning,Kaggle,1 hr,https://www.kaggle.com/learn/data-cleaning
-Data Analyst,Data Analysis,Advanced,Analytics strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+Product Manager,Product Strategy,Advanced,Advanced product planning,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/product-planning/
+Product Manager,Product Strategy,Advanced,Scaling product strategy,McKinsey,20 min,https://www.mckinsey.com
+Product Manager,Product Strategy,Advanced,Advanced strategy cases,Medium,15 min,https://medium.com/tag/product-strategy
+Product Manager,Product Strategy,Advanced,Strategy leadership video,YouTube,1 hr,https://www.youtube.com/watch?v=Zp3c0s9xX2A
+Product Manager,Product Strategy,Advanced,Product strategy deep dive,Amplitude,20 min,https://amplitude.com/blog
 
-Scrum Master / Product Owner,Scrum Framework,Beginner,What is Scrum,Scrum.org,20 min,https://www.scrum.org/resources/what-is-scrum
-Scrum Master / Product Owner,Scrum Framework,Intermediate,Scrum ceremonies,Atlassian,20 min,https://www.atlassian.com/agile/scrum/ceremonies
-Scrum Master / Product Owner,Scrum Framework,Advanced,Scaling Scrum,Scrum.org,20 min,https://www.scrum.org/resources/scaling-scrum
 
-Program Manager,Process Improvement,Beginner,Process improvement basics,ASQ,15 min,https://asq.org/quality-resources/process-improvement
-Program Manager,Process Improvement,Intermediate,Lean vs Six Sigma,GoLeanSixSigma,20 min,https://goleansixsigma.com/lean-six-sigma/
-Program Manager,Process Improvement,Advanced,Process transformation,McKinsey,20 min,https://www.mckinsey.com/capabilities/operations/our-insights
+Product Manager,Roadmapping,Beginner,Create product roadmap,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/create-product-roadmap/
+Product Manager,Roadmapping,Beginner,What is a roadmap,ProductPlan,15 min,https://www.productplan.com/glossary/product-roadmap/
+Product Manager,Roadmapping,Beginner,Roadmap basics blog,Medium,10 min,https://medium.com/tag/product-roadmap
+Product Manager,Roadmapping,Beginner,Roadmap intro video,YouTube,1 hr,https://www.youtube.com/watch?v=5YcZ7pYx8mA
+Product Manager,Roadmapping,Beginner,Roadmapping guide,Atlassian,20 min,https://www.atlassian.com/agile/product-management/product-roadmaps
 
-Cross-Role (Emerging Skills),Generative AI,Beginner,Intro to generative AI,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-generative-ai/
-Cross-Role (Emerging Skills),Generative AI,Intermediate,GenAI use cases,McKinsey,20 min,https://www.mckinsey.com
-Cross-Role (Emerging Skills),Generative AI,Advanced,AI models overview,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/ai-models/
+Product Manager,Roadmapping,Intermediate,Build effective roadmaps,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/product-roadmap/
+Product Manager,Roadmapping,Intermediate,Roadmap best practices,ProductPlan,20 min,https://www.productplan.com/learn/product-roadmap/
+Product Manager,Roadmapping,Intermediate,Roadmap case studies,Medium,15 min,https://medium.com/tag/product-roadmap
+Product Manager,Roadmapping,Intermediate,Roadmap deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=7v0QkZ5k9lE
+Product Manager,Roadmapping,Intermediate,Agile roadmapping,Atlassian,20 min,https://www.atlassian.com/agile/product-management/roadmaps
 
-Advanced / Consulting,Consulting Mindset,Beginner,Consulting basics,BCG,15 min,https://www.bcg.com/about/what-we-do
-Advanced / Consulting,Consulting Mindset,Intermediate,Case interview prep,McKinsey,20 min,https://www.mckinsey.com/careers/how-we-hire/how-to-prepare-for-case-interviews
-Advanced / Consulting,Consulting Mindset,Advanced,Problem solving strategy,HBR,20 min,https://hbr.org/2016/01/how-to-solve-problems
+Product Manager,Roadmapping,Advanced,Advanced roadmap planning,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/product-roadmap/
+Product Manager,Roadmapping,Advanced,Strategic roadmapping,McKinsey,20 min,https://www.mckinsey.com
+Product Manager,Roadmapping,Advanced,Advanced roadmap cases,Medium,15 min,https://medium.com/tag/product-roadmap
+Product Manager,Roadmapping,Advanced,Roadmap strategy video,YouTube,1 hr,https://www.youtube.com/watch?v=Q9mK6d1j3bM
+Product Manager,Roadmapping,Advanced,Product roadmap strategy,ProductPlan,20 min,https://www.productplan.com
+
+Product Manager,Metrics & KPIs,Beginner,Product metrics basics,Amplitude,15 min,https://amplitude.com/blog/product-metrics
+Product Manager,Metrics & KPIs,Beginner,North star metric explained,Amplitude,15 min,https://amplitude.com/blog/north-star-metric
+Product Manager,Metrics & KPIs,Beginner,What are KPIs,Klipfolio,20 min,https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator
+Product Manager,Metrics & KPIs,Beginner,Metrics basics blog,Medium,10 min,https://medium.com/tag/kpi
+Product Manager,Metrics & KPIs,Beginner,Metrics intro video,YouTube,1 hr,https://www.youtube.com/watch?v=5Z7y8D5wH7c
+
+Product Manager,Metrics & KPIs,Intermediate,What to measure in product,Amplitude,20 min,https://amplitude.com/blog/what-to-measure
+Product Manager,Metrics & KPIs,Intermediate,AARRR metrics framework,ProductPlan,20 min,https://www.productplan.com/glossary/aarrr-framework/
+Product Manager,Metrics & KPIs,Intermediate,Product metrics case studies,Mixpanel,20 min,https://mixpanel.com/blog/product-metrics/
+Product Manager,Metrics & KPIs,Intermediate,Metrics case blogs,Medium,15 min,https://medium.com/tag/product-metrics
+Product Manager,Metrics & KPIs,Intermediate,Metrics deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=R9k7l1k9ZsE
+
+Product Manager,Metrics & KPIs,Advanced,Advanced product metrics,Amplitude,20 min,https://amplitude.com/blog/advanced-product-metrics
+Product Manager,Metrics & KPIs,Advanced,Data-driven product strategy,Mixpanel,20 min,https://mixpanel.com/blog/data-driven-product/
+Product Manager,Metrics & KPIs,Advanced,Product analytics strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+Product Manager,Metrics & KPIs,Advanced,Advanced metrics cases,Medium,15 min,https://medium.com/tag/product-metrics
+Product Manager,Metrics & KPIs,Advanced,Advanced metrics video,YouTube,1 hr,https://www.youtube.com/watch?v=K8Zt3s1s9sM
+
+
+Product Manager,User Stories,Beginner,What is a user story,Atlassian,15 min,https://www.atlassian.com/agile/project-management/user-stories
+Product Manager,User Stories,Beginner,User story basics,ProductPlan,15 min,https://www.productplan.com/glossary/user-story/
+Product Manager,User Stories,Beginner,User story basics blog,Medium,10 min,https://medium.com/tag/user-stories
+Product Manager,User Stories,Beginner,User story intro video,YouTube,1 hr,https://www.youtube.com/watch?v=6q5-cVeNjCE
+Product Manager,User Stories,Beginner,User stories explained,Scrum.org,20 min,https://www.scrum.org/resources/what-is-a-user-story
+
+Product Manager,User Stories,Intermediate,Writing effective user stories,Atlassian,20 min,https://www.atlassian.com/agile/project-management/user-stories#writing
+Product Manager,User Stories,Intermediate,User story mapping,ProductPlan,20 min,https://www.productplan.com/glossary/user-story-mapping/
+Product Manager,User Stories,Intermediate,User story case studies,Medium,15 min,https://medium.com/tag/user-stories
+Product Manager,User Stories,Intermediate,User story workshop video,YouTube,1 hr,https://www.youtube.com/watch?v=ysWz6J2cM4A
+Product Manager,User Stories,Intermediate,Refining user stories,Scrum.org,20 min,https://www.scrum.org/resources/blog
+
+Product Manager,User Stories,Advanced,Advanced story mapping,ProductPlan,20 min,https://www.productplan.com/learn/user-story-mapping/
+Product Manager,User Stories,Advanced,Backlog strategy,Atlassian,20 min,https://www.atlassian.com/agile/product-management/product-backlog
+Product Manager,User Stories,Advanced,Advanced user story cases,Medium,15 min,https://medium.com/tag/user-stories
+Product Manager,User Stories,Advanced,Advanced user story video,YouTube,1 hr,https://www.youtube.com/watch?v=Qf9c5k2Z3vM
+Product Manager,User Stories,Advanced,Agile backlog strategy,Scrum.org,20 min,https://www.scrum.org/resources/blog
+
+
+Product Manager,Agile Methodology,Beginner,Intro to agile,Atlassian,15 min,https://www.atlassian.com/agile
+Product Manager,Agile Methodology,Beginner,What is agile,Scrum.org,20 min,https://www.scrum.org/resources/what-is-agile
+Product Manager,Agile Methodology,Beginner,Agile basics blog,Medium,10 min,https://medium.com/tag/agile
+Product Manager,Agile Methodology,Beginner,Agile intro video,YouTube,1 hr,https://www.youtube.com/watch?v=Z9QbYZh1YXY
+Product Manager,Agile Methodology,Beginner,Agile fundamentals,Khan Academy,1 hr,https://www.khanacademy.org/computing/computer-programming
+
+Product Manager,Agile Methodology,Intermediate,Agile practices,Atlassian,20 min,https://www.atlassian.com/agile/project-management
+Product Manager,Agile Methodology,Intermediate,Scrum framework,Scrum.org,20 min,https://www.scrum.org/resources/what-is-scrum
+Product Manager,Agile Methodology,Intermediate,Agile case studies,Medium,15 min,https://medium.com/tag/agile
+Product Manager,Agile Methodology,Intermediate,Scrum deep dive video,YouTube,1 hr,https://www.youtube.com/watch?v=9TycLR0TqFA
+Product Manager,Agile Methodology,Intermediate,Agile workflow,Atlassian,20 min,https://www.atlassian.com/agile/scrum/workflow
+
+Product Manager,Agile Methodology,Advanced,Advanced agile practices,Scrum.org,20 min,https://www.scrum.org/resources
+Product Manager,Agile Methodology,Advanced,Enterprise agile,Atlassian,20 min,https://www.atlassian.com/agile/enterprise
+Product Manager,Agile Methodology,Advanced,Agile strategy cases,Medium,15 min,https://medium.com/tag/agile
+Product Manager,Agile Methodology,Advanced,Advanced agile video,YouTube,1 hr,https://www.youtube.com/watch?v=502ILHjX9EE
+Product Manager,Agile Methodology,Advanced,Scaling agile,McKinsey,20 min,https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights
