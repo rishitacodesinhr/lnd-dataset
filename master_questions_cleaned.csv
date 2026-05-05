@@ -573,3 +573,286 @@ BI Developer,Data Visualization,Advanced,technical,What is KPI dashboard?,Displa
 BI Developer,Data Visualization,Advanced,technical,What is real-time dashboard?,Live data display,Static report,Code output,Server log,Live data display,Real-time dashboards update continuously.
 
 BI Developer,Data Visualization,Advanced,technical,What is visualization best practice?,Keep charts clear and simple,Add more data,Use many colors,Ignore labels,Keep charts clear and simple,Clarity ensures understanding.
+
+BI Developer,SQL,Intermediate,technical,What is DISTINCT?,Removes duplicate values,Sorts data,Deletes rows,Groups data,Removes duplicate values,DISTINCT ensures unique results.
+
+BI Developer,SQL,Intermediate,technical,What is BETWEEN?,Filters range of values,Matches patterns,Joins tables,Sorts data,Filters range of values,BETWEEN filters within limits.
+
+BI Developer,SQL,Intermediate,technical,What is LIKE?,Matches text patterns,Filters range,Joins tables,Deletes rows,Matches text patterns,LIKE supports pattern search.
+
+BI Developer,SQL,Advanced,technical,What is stored procedure?,Reusable SQL block,Table structure,Index file,Join type,Reusable SQL block,Procedures automate logic.
+
+BI Developer,SQL,Advanced,technical,What is schema?,Database structure,Query output,Join result,Filter condition,Database structure,Schema defines layout.
+
+BI Developer,Data Modeling,Intermediate,technical,What is grain of fact table?,Level of detail,Number of rows,Table size,Schema type,Level of detail,Grain defines detail level.
+
+BI Developer,Data Modeling,Advanced,technical,What is slowly changing dimension?,Tracking changes over time,Static data table,Code module,Server config,Tracking changes over time,SCD manages history.
+
+BI Developer,Data Modeling,Advanced,technical,What is data mart?,Subset of warehouse,Entire database,Code repository,UI dashboard,Subset of warehouse,Data marts serve specific needs.
+
+BI Developer,Data Modeling,Intermediate,technical,What is cardinality?,Relationship count between tables,Number of columns,Row size,Query speed,Relationship count between tables,Cardinality defines relationships.
+
+BI Developer,Data Modeling,Advanced,technical,What is conformed dimension?,Shared dimension across models,Unique dimension,Code structure,Server config,Shared dimension across models,Ensures consistency.
+
+BI Developer,Data Visualization,Intermediate,technical,What is dashboard filtering?,Selecting subset of data,Deleting data,Sorting charts,Adding visuals,Selecting subset of data,Filters refine views.
+
+BI Developer,Data Visualization,Advanced,technical,What is interactive dashboard?,User-driven data exploration,Static report,Code output,Server log,User-driven data exploration,Interaction improves usability.
+
+BI Developer,Data Visualization,Advanced,technical,What is visualization layering?,Combining multiple visuals,Deleting charts,Sorting data,Grouping rows,Combining multiple visuals,Layering enhances insights.
+
+BI Developer,Data Visualization,Intermediate,technical,What is annotation?,Adding context to charts,Removing labels,Sorting data,Deleting values,Adding context to charts,Annotations explain insights.
+
+BI Developer,Data Visualization,Advanced,technical,What is dashboard performance?,Speed of dashboard loading,UI design quality,Code length,Server logs,Speed of dashboard loading,Performance affects usability.
+
+BI Developer,SQL,Beginner,situational,Query returns duplicate rows. What should you do?,Use DISTINCT,Delete table,Ignore issue,Restart system,Use DISTINCT,Ensures unique output.
+
+BI Developer,Data Modeling,Intermediate,situational,Fact table grain is unclear. What should you do?,Define grain clearly,Ignore issue,Delete table,Proceed anyway,Define grain clearly,Grain defines accuracy.
+
+BI Developer,Data Modeling,Advanced,situational,Dimension data changes over time. What should you do?,Use SCD technique,Ignore changes,Delete data,Restart system,Use SCD technique,SCD handles history.
+
+BI Developer,Data Visualization,Intermediate,situational,Dashboard loads slowly. What should you do?,Optimize queries and design,Ignore issue,Delete charts,Add visuals,Optimize queries and design,Optimization improves speed.
+
+BI Developer,Data Visualization,Advanced,situational,Users misinterpret dashboard insights. What should you do?,Improve clarity and context,Ignore issue,Delete dashboard,Add more charts,Improve clarity and context,Clear design prevents confusion.
+
+BI Developer,SQL,Advanced,technical,What is UNION?,Combines results of queries,Filters rows,Sorts data,Deletes records,Combines results of queries,UNION merges query outputs.
+
+BI Developer,SQL,Advanced,technical,What is trigger?,Automatic database action,Manual query,Table structure,Join type,Automatic database action,Triggers run on events.
+
+BI Developer,SQL,Advanced,technical,What is ACID property?,Ensures transaction reliability,Sorting method,Join technique,Index type,Ensures transaction reliability,ACID maintains integrity.
+
+BI Developer,SQL,Intermediate,technical,What is foreign key?,Reference to another table,Primary identifier,Unique column,Data filter,Reference to another table,Foreign keys link tables.
+
+BI Developer,SQL,Advanced,technical,What is denormalization?,Adding redundancy for performance,Removing duplicates,Sorting data,Deleting tables,Adding redundancy for performance,Improves performance.
+
+BI Developer,Data Modeling,Intermediate,technical,What is hierarchy in dimension?,Levels within dimension,Table size,Row count,Query speed,Levels within dimension,Hierarchy organizes data.
+
+BI Developer,Data Modeling,Advanced,technical,What is factless fact table?,Table without measures,Table with metrics,Code module,UI design,Table without measures,Used for tracking events.
+
+BI Developer,Data Modeling,Advanced,technical,What is degenerate dimension?,Dimension without separate table,Fact table,Code block,Server config,Dimension without separate table,Stored in fact table.
+
+BI Developer,Data Modeling,Intermediate,technical,What is data lineage?,Tracking data flow,Sorting data,Deleting data,Grouping rows,Tracking data flow,Lineage shows origin.
+
+BI Developer,Data Modeling,Advanced,technical,What is partitioning?,Splitting data for performance,Deleting data,Sorting rows,Grouping tables,Splitting data for performance,Improves query speed.
+
+BI Developer,Data Visualization,Intermediate,technical,What is filter context?,Subset applied to data,Full dataset,Code block,UI layout,Subset applied to data,Filters affect visuals.
+
+BI Developer,Data Visualization,Advanced,technical,What is drill through?,Navigate to detailed report,Delete records,Sort data,Group rows,Navigate to detailed report,Provides deeper insights.
+
+BI Developer,Data Visualization,Advanced,technical,What is calculated field?,Derived value from data,Raw data,Code block,Server log,Derived value from data,Used for analysis.
+
+BI Developer,Data Visualization,Intermediate,technical,What is tooltip?,Extra info on hover,Chart title,Axis label,Legend,Extra info on hover,Enhances understanding.
+
+BI Developer,Data Visualization,Advanced,technical,What is dashboard usability?,Ease of user interaction,Code performance,Server speed,UI color,Ease of user interaction,Usability improves adoption.
+
+BI Developer,SQL,Intermediate,situational,Query returns wrong aggregation. What should you do?,Check GROUP BY logic,Ignore issue,Delete data,Restart system,Check GROUP BY logic,Grouping affects results.
+
+BI Developer,Data Modeling,Advanced,situational,Data warehouse grows too large. What should you do?,Implement partitioning,Ignore issue,Delete data,Restart system,Implement partitioning,Partitioning improves performance.
+
+BI Developer,Data Modeling,Intermediate,situational,Data lineage is unclear. What should you do?,Document data flow,Ignore issue,Delete data,Restart system,Document data flow,Clarity ensures trust.
+
+BI Developer,Data Visualization,Advanced,situational,Users cannot navigate dashboard. What should you do?,Improve usability design,Ignore issue,Delete dashboard,Add more charts,Improve usability design,Better UX improves usage.
+
+BI Developer,Data Visualization,Intermediate,situational,Filters give unexpected results. What should you do?,Validate filter logic,Ignore issue,Delete filters,Restart system,Validate filter logic,Correct logic ensures accuracy.
+
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+Data Analyst,Data Analysis,Beginner,technical,What is data analysis?,Examining data for insights,Writing code,Designing UI,Managing servers,Examining data for insights,Analysis helps decision making.
+
+Data Analyst,Data Analysis,Beginner,technical,What is dataset?,Collection of data,Single value,Code block,UI element,Collection of data,Dataset stores structured data.
+
+Data Analyst,Data Analysis,Beginner,technical,What is variable?,Data attribute,Database table,Server log,UI component,Data attribute,Variables represent features.
+
+Data Analyst,Data Analysis,Beginner,technical,What is data cleaning?,Fixing inaccurate data,Writing code,Designing UI,Testing system,Fixing inaccurate data,Clean data ensures accuracy.
+
+Data Analyst,Data Analysis,Beginner,technical,What is descriptive analysis?,Summarizing past data,Predicting future data,Optimizing systems,Testing software,Summarizing past data,Descriptive shows what happened.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is exploratory data analysis?,Understanding patterns in data,Writing code,Testing system,Deploying apps,Understanding patterns in data,EDA explores relationships.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is correlation?,Relationship between variables,Sorting data,Deleting data,Grouping data,Relationship between variables,Correlation shows association.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is mean?,Average value,Maximum value,Minimum value,Total sum,Average value,Mean represents central value.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is outlier?,Extreme value,Average value,Duplicate value,Missing value,Extreme value,Outliers deviate from normal.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is data visualization?,Graphical data representation,Code writing,Server setup,UI design,Graphical data representation,Visuals improve understanding.
+
+Data Analyst,Data Analysis,Advanced,technical,What is predictive analysis?,Forecasting future trends,Summarizing past data,Cleaning data,Sorting data,Forecasting future trends,Uses models to predict.
+
+Data Analyst,Data Analysis,Advanced,technical,What is regression?,Modeling relationships,Sorting data,Deleting data,Grouping rows,Modeling relationships,Regression predicts outcomes.
+
+Data Analyst,Data Analysis,Advanced,technical,What is hypothesis testing?,Testing assumptions statistically,Writing queries,Designing UI,Managing servers,Testing assumptions statistically,Validates assumptions.
+
+Data Analyst,Data Analysis,Advanced,technical,What is variance?,Measure of spread,Average value,Total sum,Maximum value,Measure of spread,Variance shows dispersion.
+
+Data Analyst,Data Analysis,Advanced,technical,What is bias in data?,Systematic error,Random value,Duplicate entry,Missing value,Systematic error,Bias affects accuracy.
+
+Data Analyst,Data Analysis,Beginner,situational,Dataset has missing values. What should you do?,Clean or impute data,Ignore issue,Delete dataset,Proceed anyway,Clean or impute data,Handling missing data improves accuracy.
+
+Data Analyst,Data Analysis,Intermediate,situational,Results seem inconsistent. What should you do?,Verify data and logic,Ignore results,Present anyway,Delete data,Verify data and logic,Validation ensures accuracy.
+
+Data Analyst,Data Analysis,Intermediate,situational,Stakeholder questions your findings. What should you do?,Explain methodology clearly,Ignore question,Change results,Blame data,Explain methodology clearly,Transparency builds trust.
+
+Data Analyst,Data Analysis,Advanced,situational,Unexpected trend appears. What should you do?,Investigate root cause,Ignore trend,Delete data,Change dataset,Investigate root cause,Analysis requires validation.
+
+Data Analyst,Data Analysis,Advanced,situational,Data shows strong correlation. What should you do?,Analyze deeper relationship,Ignore correlation,Delete variables,Change dataset,Analyze deeper relationship,Correlation needs further analysis.
+
+Data Analyst,Excel,Beginner,technical,What is Excel?,Spreadsheet tool,Code editor,Database server,UI tool,Spreadsheet tool,Excel is used for data analysis.
+
+Data Analyst,Excel,Beginner,technical,What is a cell?,Intersection of row and column,Entire table,Code block,Chart element,Intersection of row and column,Cells store data.
+
+Data Analyst,Excel,Beginner,technical,What is a worksheet?,Single sheet in workbook,Entire file,Database table,Chart type,Single sheet in workbook,Worksheet holds data.
+
+Data Analyst,Excel,Beginner,technical,What is formula?,Calculation expression,Data value,Chart element,Code block,Calculation expression,Formulas perform operations.
+
+Data Analyst,Excel,Beginner,technical,What is SUM function?,Adds values,Counts values,Finds average,Finds max,Adds values,SUM calculates total.
+
+Data Analyst,Excel,Intermediate,technical,What is VLOOKUP?,Searches vertical data,Sorts data,Deletes rows,Groups data,Searches vertical data,VLOOKUP retrieves values.
+
+Data Analyst,Excel,Intermediate,technical,What is HLOOKUP?,Searches horizontal data,Sorts data,Deletes rows,Groups data,Searches horizontal data,HLOOKUP retrieves horizontally.
+
+Data Analyst,Excel,Intermediate,technical,What is pivot table?,Summarizes data dynamically,Deletes data,Sorts rows,Groups charts,Summarizes data dynamically,Pivot tables analyze data.
+
+Data Analyst,Excel,Intermediate,technical,What is conditional formatting?,Highlights data based on rules,Deletes data,Sorts rows,Groups values,Highlights data based on rules,Helps visualize patterns.
+
+Data Analyst,Excel,Intermediate,technical,What is filter?,Shows subset of data,Deletes rows,Sorts data,Groups values,Shows subset of data,Filters refine dataset.
+
+Data Analyst,Excel,Advanced,technical,What is INDEX MATCH?,Advanced lookup method,Sorting technique,Chart type,Code block,Advanced lookup method,More flexible than VLOOKUP.
+
+Data Analyst,Excel,Advanced,technical,What is data validation?,Restricts input values,Deletes data,Sorts data,Groups values,Restricts input values,Ensures data accuracy.
+
+Data Analyst,Excel,Advanced,technical,What is macro?,Automates tasks,Deletes data,Sorts rows,Groups values,Automates tasks,Macros save time.
+
+Data Analyst,Excel,Advanced,technical,What is Power Query?,Data transformation tool,Chart tool,Code editor,Server config,Data transformation tool,Used for ETL in Excel.
+
+Data Analyst,Excel,Advanced,technical,What is Power Pivot?,Data modeling tool,Chart type,Code module,Server log,Data modeling tool,Handles large datasets.
+
+Data Analyst,Excel,Beginner,situational,Data has duplicates. What should you do?,Remove duplicates,Ignore issue,Delete file,Restart Excel,Remove duplicates,Ensures clean data.
+
+Data Analyst,Excel,Intermediate,situational,Data is difficult to analyze. What should you do?,Use pivot table,Ignore issue,Delete data,Sort randomly,Use pivot table,Pivot simplifies analysis.
+
+Data Analyst,Excel,Intermediate,situational,You need quick lookup across tables. What should you do?,Use VLOOKUP or INDEX MATCH,Ignore task,Delete data,Sort manually,Use VLOOKUP or INDEX MATCH,Lookup functions save time.
+
+Data Analyst,Excel,Advanced,situational,Manual tasks repeat often. What should you do?,Use macros,Ignore issue,Delete data,Work manually,Use macros,Automation improves efficiency.
+
+Data Analyst,Excel,Advanced,situational,Data from multiple sources needs cleaning. What should you do?,Use Power Query,Ignore issue,Delete data,Sort manually,Use Power Query,Power Query handles transformation.
+
+Data Analyst,Data Storytelling,Beginner,technical,What is data storytelling?,Communicating insights with data,Writing code,Designing UI,Managing servers,Communicating insights with data,Storytelling explains insights.
+
+Data Analyst,Data Storytelling,Beginner,technical,What is key message?,Main takeaway from data,Code output,UI element,Server log,Main takeaway from data,Key message highlights insight.
+
+Data Analyst,Data Storytelling,Beginner,technical,What is audience analysis?,Understanding audience needs,Writing code,Testing system,Deploying apps,Understanding audience needs,Helps tailor communication.
+
+Data Analyst,Data Storytelling,Beginner,technical,What is narrative?,Structured explanation of insights,Code structure,UI design,Server config,Structured explanation of insights,Narrative builds story.
+
+Data Analyst,Data Storytelling,Beginner,technical,What is data visualization?,Graphical representation of data,Code writing,Server setup,UI design,Graphical representation of data,Visuals aid storytelling.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is storytelling flow?,Logical sequence of insights,Random data display,Code flow,UI layout,Logical sequence of insights,Flow improves understanding.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is context in storytelling?,Background for insights,Code logic,UI design,Server config,Background for insights,Context adds meaning.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is call to action?,Recommended next step,Code output,UI element,Server log,Recommended next step,CTA drives decisions.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is insight?,Meaningful interpretation of data,Raw data,Code output,UI element,Meaningful interpretation of data,Insights guide decisions.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is data simplification?,Reducing complexity,Adding more data,Sorting data,Deleting rows,Reducing complexity,Simplification improves clarity.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is storytelling impact?,Influence on decisions,Code performance,UI design,Server speed,Influence on decisions,Impact drives action.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is bias in storytelling?,Misleading interpretation,Accurate insight,Data cleaning,Sorting method,Misleading interpretation,Bias distorts message.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is storytelling structure?,Organized presentation format,Random layout,Code structure,UI design,Organized presentation format,Structure improves clarity.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is executive summary?,Short overview of insights,Full report,Code output,UI layout,Short overview of insights,Summaries save time.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is insight prioritization?,Ranking insights by importance,Sorting data,Deleting data,Grouping rows,Ranking insights by importance,Focus improves communication.
+
+Data Analyst,Data Storytelling,Beginner,situational,Audience does not understand data. What should you do?,Simplify explanation,Ignore audience,Add more data,Delay presentation,Simplify explanation,Clarity improves understanding.
+
+Data Analyst,Data Storytelling,Intermediate,situational,Stakeholder wants too much detail. What should you do?,Focus on key insights,Provide all data,Ignore request,Delay report,Focus on key insights,Concise communication works best.
+
+Data Analyst,Data Storytelling,Intermediate,situational,Insights are not actionable. What should you do?,Add recommendations,Ignore issue,Present anyway,Delay report,Add recommendations,Actionable insights drive decisions.
+
+Data Analyst,Data Storytelling,Advanced,situational,Stakeholder challenges your story. What should you do?,Support with data evidence,Ignore challenge,Change story,Blame data,Support with data evidence,Data builds credibility.
+
+Data Analyst,Data Storytelling,Advanced,situational,Story lacks impact. What should you do?,Refine narrative and focus,Ignore issue,Add more charts,Delay presentation,Refine narrative and focus,Strong narrative drives impact.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is data aggregation?,Combining multiple values,Deleting rows,Sorting data,Filtering data,Combining multiple values,Aggregation summarizes data.
+
+Data Analyst,Data Analysis,Advanced,technical,What is multivariate analysis?,Analyzing multiple variables,Single variable analysis,Sorting data,Filtering data,Analyzing multiple variables,Used for complex patterns.
+
+Data Analyst,Data Analysis,Advanced,technical,What is time series analysis?,Analyzing data over time,Grouping data,Sorting rows,Deleting records,Analyzing data over time,Tracks trends.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is sampling?,Selecting subset of data,Deleting rows,Sorting data,Grouping values,Selecting subset of data,Sampling reduces dataset size.
+
+Data Analyst,Data Analysis,Advanced,technical,What is anomaly detection?,Finding unusual patterns,Sorting data,Grouping data,Deleting records,Finding unusual patterns,Detects irregularities.
+
+Data Analyst,Excel,Intermediate,technical,What is IF function?,Conditional logic function,Sorting tool,Chart type,Data filter,Conditional logic function,IF performs logical tests.
+
+Data Analyst,Excel,Advanced,technical,What is nested formula?,Formula within formula,Single formula,Chart type,Data filter,Formula within formula,Used for complex calculations.
+
+Data Analyst,Excel,Advanced,technical,What is lookup error?,Error when value not found,Sorting issue,Chart problem,Server error,Error when value not found,Occurs in lookup functions.
+
+Data Analyst,Excel,Intermediate,technical,What is text to columns?,Splitting data into columns,Deleting data,Sorting rows,Grouping values,Splitting data into columns,Used for data cleaning.
+
+Data Analyst,Excel,Advanced,technical,What is array formula?,Handles multiple values,Single value formula,Chart type,Server log,Handles multiple values,Used for complex calculations.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is insight clarity?,Clear understanding of insight,Code readability,UI design,Server performance,Clear understanding of insight,Clarity improves communication.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is storytelling consistency?,Maintaining logical flow,Random presentation,Code structure,UI design,Maintaining logical flow,Consistency improves understanding.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is data framing?,Presenting data in context,Sorting data,Deleting rows,Grouping values,Presenting data in context,Framing influences interpretation.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is storytelling simplicity?,Keeping message clear,Adding more data,Sorting charts,Deleting visuals,Keeping message clear,Simplicity improves clarity.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is narrative bias?,Biased interpretation of data,Accurate insight,Data cleaning,Sorting method,Biased interpretation of data,Bias affects storytelling.
+
+Data Analyst,Data Analysis,Beginner,situational,Data is inconsistent across sources. What should you do?,Standardize data,Ignore issue,Delete data,Proceed anyway,Standardize data,Consistency ensures reliability.
+
+Data Analyst,Excel,Intermediate,situational,Data formula gives wrong output. What should you do?,Check formula logic,Ignore issue,Delete data,Restart Excel,Check formula logic,Correct logic ensures accuracy.
+
+Data Analyst,Data Analysis,Advanced,situational,Analysis results conflict with expectations. What should you do?,Revalidate data and assumptions,Ignore results,Change findings,Blame data,Revalidate data and assumptions,Validation ensures accuracy.
+
+Data Analyst,Data Storytelling,Intermediate,situational,Audience loses interest in presentation. What should you do?,Make story engaging and concise,Add more data,Ignore issue,Delay presentation,Make story engaging and concise,Engagement improves impact.
+
+Data Analyst,Data Storytelling,Advanced,situational,Insights are technically correct but unclear. What should you do?,Improve clarity and structure,Ignore issue,Add more charts,Delay presentation,Improve clarity and structure,Clarity ensures understanding.
+
+Data Analyst,Data Analysis,Advanced,technical,What is data reliability?,Consistency and accuracy of data,Code quality,UI design,Server speed,Consistency and accuracy of data,Reliable data ensures valid insights.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is data integrity?,Correctness of data,Sorting data,Deleting rows,Grouping values,Correctness of data,Integrity ensures trust.
+
+Data Analyst,Data Analysis,Advanced,technical,What is causal analysis?,Identifying cause and effect,Sorting data,Grouping data,Deleting rows,Identifying cause and effect,Causal analysis explains relationships.
+
+Data Analyst,Data Analysis,Intermediate,technical,What is data transformation?,Changing data format,Deleting data,Sorting rows,Grouping values,Changing data format,Transformation prepares data.
+
+Data Analyst,Data Analysis,Advanced,technical,What is model accuracy?,Correctness of predictions,Code speed,UI design,Server uptime,Correctness of predictions,Accuracy measures model quality.
+
+Data Analyst,Excel,Intermediate,technical,What is COUNT function?,Counts numeric values,Adds values,Finds average,Finds max,Counts numeric values,COUNT counts numbers.
+
+Data Analyst,Excel,Advanced,technical,What is MATCH function?,Finds position of value,Sorts data,Deletes rows,Groups values,Finds position of value,MATCH returns index.
+
+Data Analyst,Excel,Advanced,technical,What is lookup array?,Range for lookup,Single value,Chart type,Server log,Range for lookup,Used in lookup functions.
+
+Data Analyst,Excel,Intermediate,technical,What is sort?,Arranges data order,Deletes data,Groups values,Filters data,Arranges data order,Sorting organizes data.
+
+Data Analyst,Excel,Advanced,technical,What is pivot chart?,Chart from pivot table,Static chart,Code output,Server log,Chart from pivot table,Pivot charts visualize summary.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is storytelling relevance?,Matching insight to audience,Code logic,UI design,Server config,Matching insight to audience,Relevance ensures impact.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is persuasive storytelling?,Influencing decisions with data,Writing code,Designing UI,Managing servers,Influencing decisions with data,Persuasion drives action.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is data narrative framing?,Structuring story for impact,Sorting data,Deleting rows,Grouping values,Structuring story for impact,Framing shapes perception.
+
+Data Analyst,Data Storytelling,Intermediate,technical,What is storytelling visualization choice?,Selecting appropriate chart,Adding more charts,Deleting visuals,Ignoring visuals,Selecting appropriate chart,Right visuals improve clarity.
+
+Data Analyst,Data Storytelling,Advanced,technical,What is storytelling credibility?,Trust in data story,Code accuracy,UI design,Server speed,Trust in data story,Credibility builds confidence.
+
+Data Analyst,Data Analysis,Intermediate,situational,Data results vary across reports. What should you do?,Validate data sources,Ignore issue,Delete reports,Proceed anyway,Validate data sources,Consistency ensures trust.
+
+Data Analyst,Excel,Advanced,situational,Excel file is too large and slow. What should you do?,Optimize formulas and data,Ignore issue,Delete file,Restart system,Optimize formulas and data,Optimization improves performance.
+
+Data Analyst,Data Analysis,Advanced,situational,Model predictions are inconsistent. What should you do?,Refine model and data,Ignore results,Delete model,Change output,Refine model and data,Improvement ensures reliability.
+
+Data Analyst,Data Storytelling,Intermediate,situational,Stakeholder wants quick summary. What should you do?,Provide concise insights,Add more details,Ignore request,Delay report,Provide concise insights,Concise communication works best.
+
+Data Analyst,Data Storytelling,Advanced,situational,Decision makers doubt your findings. What should you do?,Support with clear evidence,Ignore doubts,Change results,Blame data,Support with clear evidence,Evidence builds trust.
+
