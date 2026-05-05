@@ -297,3 +297,44 @@ Product Manager,Product Strategy,Advanced,situational,Product growth stagnates. 
 Product Manager,Product Strategy,Intermediate,situational,High churn observed. What should you do?,Analyze retention drivers,Ignore churn,Increase pricing,Add random features,Analyze retention drivers,Understanding churn improves retention.
 Product Manager,Roadmapping,Intermediate,situational,Multiple teams depend on one feature. What should you do?,Manage dependencies actively,Ignore dependencies,Delay work,Remove feature,Manage dependencies actively,Dependency handling is key.
 Product Manager,Roadmapping,Advanced,situational,Roadmap conflicts with business goals. What should you do?,Realign roadmap with goals,Ignore mismatch,Delay project,Add features,Realign roadmap with goals,Alignment ensures success.
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is a KPI?,Key performance indicator,Code parameter,UI element,Server metric,Key performance indicator,KPIs measure success.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What does a metric represent?,Measured value,Code output,UI layout,Server log,Measured value,Metrics track performance.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is a success metric?,Indicator of goal achievement,Code result,UI design,Server config,Indicator of goal achievement,Measures product success.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is DAU?,Daily active users,Monthly revenue,Server speed,UI clicks,Daily active users,DAU tracks daily engagement.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is MAU?,Monthly active users,Daily revenue,Code metric,UI interaction,Monthly active users,MAU tracks monthly engagement.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is retention rate?,Users returning over time,New users acquired,Total revenue,Server uptime,Users returning over time,Retention shows loyalty.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is churn rate?,Users leaving product,Users joining product,Total sessions,Server load,Users leaving product,Churn indicates loss.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is conversion rate?,Users completing action,Total visits,Code efficiency,UI clicks only,Users completing action,Conversion measures effectiveness.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is funnel analysis?,Tracking user journey stages,Writing code,Designing UI,Managing servers,Tracking user journey stages,Funnel shows drop-offs.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is engagement metric?,User interaction level,Server performance,Code output,UI design,User interaction level,Engagement reflects usage.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is cohort analysis?,Analyzing user groups over time,Sorting data,Deleting records,Grouping code,Analyzing user groups over time,Cohorts track behavior patterns.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is North Star metric?,Primary success indicator,Secondary metric,Code metric,UI metric,Primary success indicator,It aligns teams on goal.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is metric alignment?,Matching metrics with goals,Writing code,Testing UI,Managing logs,Matching metrics with goals,Alignment ensures relevance.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is vanity metric?,Misleading metric,Key metric,Growth metric,Revenue metric,Misleading metric,Vanity metrics lack real value.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is actionable metric?,Metric that drives decisions,Static metric,Code metric,UI metric,Metric that drives decisions,Actionable metrics guide actions.
+
+Product Manager,Metrics & KPIs,Beginner,situational,User engagement is dropping. What should you do?,Analyze usage data,Ignore trend,Add random features,Delay action,Analyze usage data,Data helps identify issues.
+
+Product Manager,Metrics & KPIs,Intermediate,situational,Conversion rate is low. What should you do?,Optimize user journey,Ignore metric,Increase pricing,Add features randomly,Optimize user journey,Improvement increases conversions.
+
+Product Manager,Metrics & KPIs,Intermediate,situational,High churn observed. What should you do?,Investigate causes,Ignore churn,Increase ads,Change UI colors,Investigate causes,Root cause analysis is key.
+
+Product Manager,Metrics & KPIs,Advanced,situational,Metrics conflict with business goals. What should you do?,Realign metrics with goals,Ignore mismatch,Delay analysis,Add more metrics,Realign metrics with goals,Alignment ensures accuracy.
+
+Product Manager,Metrics & KPIs,Advanced,situational,Stakeholder focuses on vanity metrics. What should you do?,Shift focus to actionable metrics,Agree blindly,Ignore stakeholder,Delay discussion,Shift focus to actionable metrics,Actionable metrics matter.
