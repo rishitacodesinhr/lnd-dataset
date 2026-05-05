@@ -404,4 +404,206 @@ Product Manager,Product Thinking,Advanced,situational,A product is losing market
 
 Product Manager,Product Thinking,Advanced,situational,Stakeholders push feature without user need. What should you do?,Validate with data,Approve immediately,Ignore request,Delay silently,Validate with data,Data ensures correct decisions.
 
+Product Manager,Product Strategy,Beginner,technical,What is product strategy?,Plan to achieve product goals,Code structure,UI design,Server setup,Plan to achieve product goals,Strategy defines direction.
+
+Product Manager,Product Strategy,Beginner,technical,What does roadmap show?,Future product plan,Code versioning,UI layout,Server logs,Future product plan,Roadmaps show direction.
+
+Product Manager,Product Strategy,Beginner,technical,What is target market?,Specific user group,Developers only,Managers only,Testers only,Specific user group,Target market defines users.
+
+Product Manager,Product Strategy,Beginner,technical,What is competitive analysis?,Studying competitors,Writing code,Designing UI,Testing system,Studying competitors,Helps understand market.
+
+Product Manager,Product Strategy,Beginner,technical,What is product goal?,Desired outcome,Code output,UI feature,Server metric,Desired outcome,Goals define success.
+
+Product Manager,Product Strategy,Intermediate,technical,What is North Star metric?,Key success metric,Code metric,UI metric,Server metric,Key success metric,It reflects product success.
+
+Product Manager,Product Strategy,Intermediate,technical,What is go-to-market strategy?,Plan to launch product,Code deployment,UI design,Server config,Plan to launch product,Defines how product reaches users.
+
+Product Manager,Product Strategy,Intermediate,technical,What is pricing strategy?,Setting product price,Writing code,Designing UI,Testing system,Setting product price,Impacts revenue.
+
+Product Manager,Product Strategy,Intermediate,technical,What is product positioning?,How product is perceived,Code structure,UI layout,Server design,How product is perceived,Defines market image.
+
+Product Manager,Product Strategy,Intermediate,technical,What is market segmentation?,Dividing users into groups,Sorting data,Deleting data,Grouping code,Dividing users into groups,Segmentation helps targeting.
+
+Product Manager,Product Strategy,Advanced,technical,What is strategic trade-off?,Choosing between priorities,Writing code,Designing UI,Testing system,Choosing between priorities,Trade-offs optimize decisions.
+
+Product Manager,Product Strategy,Advanced,technical,What is product moat?,Sustainable advantage,Temporary feature,UI design,Server speed,Sustainable advantage,Moat protects product.
+
+Product Manager,Product Strategy,Advanced,technical,What is growth strategy?,Plan to expand product,Code deployment,UI changes,Server updates,Plan to expand product,Drives scaling.
+
+Product Manager,Product Strategy,Advanced,technical,What is product alignment?,Matching goals across teams,Writing code,Testing UI,Managing logs,Matching goals across teams,Alignment ensures execution.
+
+Product Manager,Product Strategy,Advanced,technical,What is portfolio strategy?,Managing multiple products,Single product focus,UI design,Code optimization,Managing multiple products,Helps balance investments.
+
+Product Manager,Product Strategy,Beginner,situational,Product is not reaching target users. What should you do?,Refine target market,Ignore issue,Add features,Delay launch,Refine target market,Targeting improves reach.
+
+Product Manager,Product Strategy,Intermediate,situational,Competitor launches better feature. What should you do?,Evaluate and respond strategically,Copy immediately,Ignore competitor,Delay action,Evaluate and respond strategically,Strategy should be thoughtful.
+
+Product Manager,Product Strategy,Intermediate,situational,Product adoption is low. What should you do?,Analyze user behavior,Ignore issue,Add random features,Change UI colors,Analyze user behavior,Data reveals insights.
+
+Product Manager,Product Strategy,Advanced,situational,Revenue is declining. What should you do?,Reassess pricing and strategy,Ignore trend,Blame team,Reduce features,Reassess pricing and strategy,Strategy impacts revenue.
+
+Product Manager,Product Strategy,Advanced,situational,Stakeholders disagree on direction. What should you do?,Align using data and goals,Choose randomly,Ignore conflict,Delay decision,Align using data and goals,Alignment ensures progress.
+
+Product Manager,Roadmapping,Beginner,technical,What is a product roadmap?,Plan of product direction,Code structure,UI design,Server setup,Plan of product direction,Roadmaps outline future plans.
+
+Product Manager,Roadmapping,Beginner,technical,What does roadmap timeline show?,When features are planned,Code deployment time,UI changes,Server updates,When features are planned,Timeline shows scheduling.
+
+Product Manager,Roadmapping,Beginner,technical,Who uses roadmap?,Stakeholders and teams,Only developers,Only testers,Only HR,Stakeholders and teams,Roadmaps align everyone.
+
+Product Manager,Roadmapping,Beginner,technical,What is roadmap goal?,Guide product development,Write code,Design UI,Manage servers,Guide product development,Roadmaps provide direction.
+
+Product Manager,Roadmapping,Beginner,technical,What is milestone?,Key achievement point,Code error,UI layout,Server log,Key achievement point,Milestones track progress.
+
+Product Manager,Roadmapping,Intermediate,technical,What is prioritization in roadmap?,Ranking features by importance,Writing code,Designing UI,Testing system,Ranking features by importance,Prioritization ensures focus.
+
+Product Manager,Roadmapping,Intermediate,technical,What is dependency?,Task relying on another,Code block,UI component,Server log,Task relying on another,Dependencies affect timelines.
+
+Product Manager,Roadmapping,Intermediate,technical,What is backlog?,List of pending work,Code file,UI template,Server config,List of pending work,Backlog stores tasks.
+
+Product Manager,Roadmapping,Intermediate,technical,What is release plan?,Schedule of product releases,Code version,UI design,Server setup,Schedule of product releases,Defines delivery timeline.
+
+Product Manager,Roadmapping,Intermediate,technical,What is sprint roadmap?,Short-term plan,Long-term vision,Code logic,UI layout,Short-term plan,Sprint focuses on immediate work.
+
+Product Manager,Roadmapping,Advanced,technical,What is strategic roadmap?,Long-term product direction,Short-term task list,Code plan,UI design,Long-term product direction,Strategic roadmap aligns vision.
+
+Product Manager,Roadmapping,Advanced,technical,What is outcome-based roadmap?,Focus on results not features,Feature list only,Code structure,UI layout,Focus on results not features,Outcome-driven approach is effective.
+
+Product Manager,Roadmapping,Advanced,technical,What is roadmap flexibility?,Ability to adapt changes,Fixed plan,Code logic,UI design,Ability to adapt changes,Flexibility supports agility.
+
+Product Manager,Roadmapping,Advanced,technical,What is cross-team alignment?,Coordinating multiple teams,Writing code,Testing UI,Managing logs,Coordinating multiple teams,Alignment ensures execution.
+
+Product Manager,Roadmapping,Advanced,technical,What is roadmap communication?,Sharing roadmap clearly,Writing code,Designing UI,Testing system,Sharing roadmap clearly,Communication aligns stakeholders.
+
+Product Manager,Roadmapping,Beginner,situational,Stakeholders are confused about roadmap. What should you do?,Simplify and communicate clearly,Ignore confusion,Delay explanation,Change roadmap,Simplify and communicate clearly,Clarity improves alignment.
+
+Product Manager,Roadmapping,Intermediate,situational,Too many features are planned. What should you do?,Prioritize effectively,Add more features,Ignore issue,Delay release,Prioritize effectively,Focus improves delivery.
+
+Product Manager,Roadmapping,Intermediate,situational,Dependencies delay roadmap. What should you do?,Re-plan timelines,Ignore delays,Blame team,Remove dependencies,Re-plan timelines,Adjusting plan ensures success.
+
+Product Manager,Roadmapping,Advanced,situational,Roadmap is misaligned with goals. What should you do?,Realign with strategy,Ignore mismatch,Delay project,Add features,Realign with strategy,Alignment is critical.
+
+Product Manager,Roadmapping,Advanced,situational,Frequent roadmap changes confuse teams. What should you do?,Stabilize and communicate updates,Ignore confusion,Delay updates,Remove roadmap,Stabilize and communicate updates,Clear communication reduces confusion.
+
+Product Manager,Product Thinking,Intermediate,technical,What is feature prioritization?,Selecting important features,Writing code,Designing UI,Testing system,Selecting important features,Prioritization ensures focus on impact.
+
+Product Manager,Product Thinking,Advanced,technical,What is product scalability?,Ability to handle growth,Code complexity,UI design,Server logs,Ability to handle growth,Scalability ensures long-term success.
+
+Product Manager,Product Thinking,Advanced,technical,What is user retention?,Keeping users engaged,Acquiring users,Designing UI,Writing code,Keeping users engaged,Retention measures loyalty.
+
+Product Manager,Product Thinking,Intermediate,technical,What is churn rate?,Users leaving product,Users joining product,Code errors,UI issues,Users leaving product,Churn indicates loss of users.
+
+Product Manager,Product Thinking,Advanced,technical,What is product experimentation?,Testing product ideas,Writing code,Designing UI,Managing servers,Testing product ideas,Experiments validate assumptions.
+
+Product Manager,Product Strategy,Intermediate,technical,What is cost-benefit analysis?,Comparing cost and value,Writing code,Designing UI,Testing system,Comparing cost and value,Helps in decision-making.
+
+Product Manager,Product Strategy,Advanced,technical,What is strategic pivot?,Changing direction based on insights,Adding features,Fixing bugs,Testing system,Changing direction based on insights,Pivot adjusts strategy.
+
+Product Manager,Product Strategy,Intermediate,technical,What is user segmentation?,Grouping users,Sorting data,Deleting data,Writing code,Grouping users,Segmentation helps targeting.
+
+Product Manager,Product Strategy,Advanced,technical,What is lifetime value?,Total value from a user,Single purchase value,Code metric,UI metric,Total value from a user,LTV measures user worth.
+
+Product Manager,Product Strategy,Advanced,technical,What is acquisition strategy?,Plan to gain users,Writing code,Designing UI,Managing servers,Plan to gain users,Acquisition drives growth.
+
+Product Manager,Roadmapping,Intermediate,technical,What is feature dependency?,Feature relying on another,Code block,UI component,Server log,Feature relying on another,Dependencies impact planning.
+
+Product Manager,Roadmapping,Advanced,technical,What is roadmap iteration?,Updating roadmap regularly,Fixed planning,Code changes,UI design,Updating roadmap regularly,Iteration keeps roadmap relevant.
+
+Product Manager,Roadmapping,Advanced,technical,What is risk in roadmap?,Potential issues affecting delivery,Code bug,UI design,Server config,Potential issues affecting delivery,Risks impact execution.
+
+Product Manager,Roadmapping,Intermediate,technical,What is delivery timeline?,Planned release schedule,Code execution time,UI layout,Server logs,Planned release schedule,Timeline ensures tracking.
+
+Product Manager,Roadmapping,Advanced,technical,What is roadmap dependency management?,Handling task dependencies,Writing code,Designing UI,Testing system,Handling task dependencies,Ensures smooth execution.
+
+Product Manager,Product Thinking,Beginner,situational,Users drop off during onboarding. What should you do?,Analyze onboarding flow,Ignore issue,Add features,Delay fix,Analyze onboarding flow,Improving onboarding increases retention.
+
+Product Manager,Product Strategy,Intermediate,situational,Product has high acquisition but low retention. What should you do?,Improve user experience,Increase marketing,Ignore issue,Add features randomly,Improve user experience,Retention depends on experience.
+
+Product Manager,Product Strategy,Advanced,situational,New market opportunity emerges. What should you do?,Evaluate strategic fit,Enter immediately,Ignore opportunity,Delay decision,Evaluate strategic fit,Fit ensures success.
+
+Product Manager,Roadmapping,Intermediate,situational,Team misses deadlines frequently. What should you do?,Review planning process,Ignore delays,Blame team,Add more work,Review planning process,Better planning improves delivery.
+
+Product Manager,Roadmapping,Advanced,situational,Critical feature is delayed. What should you do?,Reprioritize and communicate,Ignore delay,Remove feature,Blame team,Reprioritize and communicate,Communication ensures alignment.
+
+Product Manager,Product Thinking,Advanced,technical,What is product intuition?,Ability to sense user needs,Writing code,Designing UI,Managing servers,Ability to sense user needs,Intuition comes from experience and insight.
+
+Product Manager,Product Thinking,Intermediate,technical,What is user empathy?,Understanding user perspective,Writing code,Testing UI,Managing logs,Understanding user perspective,Empathy improves product decisions.
+
+Product Manager,Product Thinking,Advanced,technical,What is product-led growth?,Growth driven by product usage,Marketing campaigns only,Sales strategy only,Server scaling,Growth driven by product usage,Product itself drives acquisition.
+
+Product Manager,Product Thinking,Intermediate,technical,What is activation metric?,User initial engagement,Total revenue,Server speed,UI clicks only,User initial engagement,Activation measures first success.
+
+Product Manager,Product Thinking,Advanced,technical,What is product insight?,Understanding patterns in usage,Writing reports,Testing UI,Managing logs,Understanding patterns in usage,Insights guide decisions.
+
+Product Manager,Product Strategy,Advanced,technical,What is competitive moat?,Defensible advantage,Short-term gain,UI improvement,Server upgrade,Defensible advantage,Moat sustains growth.
+
+Product Manager,Product Strategy,Intermediate,technical,What is growth funnel?,Stages of user journey,Code pipeline,Server process,UI flow,Stages of user journey,Funnel tracks user movement.
+
+Product Manager,Product Strategy,Advanced,technical,What is retention strategy?,Plan to keep users,Plan to acquire users,UI design plan,Server scaling plan,Plan to keep users,Retention drives long-term value.
+
+Product Manager,Product Strategy,Intermediate,technical,What is conversion rate?,Users completing action,Total users,Server speed,UI clicks,Users completing action,Conversion measures effectiveness.
+
+Product Manager,Product Strategy,Advanced,technical,What is expansion strategy?,Growing product scope,Reducing features,Fixing bugs,Testing system,Growing product scope,Expansion increases reach.
+
+Product Manager,Roadmapping,Intermediate,technical,What is sprint goal?,Objective of sprint,Code target,UI design,Server config,Objective of sprint,Sprint goal guides work.
+
+Product Manager,Roadmapping,Advanced,technical,What is roadmap trade-off?,Choosing priorities wisely,Adding all features,Ignoring constraints,Delaying release,Choosing priorities wisely,Trade-offs balance resources.
+
+Product Manager,Roadmapping,Intermediate,technical,What is release milestone?,Key delivery stage,Code block,UI design,Server log,Key delivery stage,Milestones track progress.
+
+Product Manager,Roadmapping,Advanced,technical,Whrole,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is a KPI?,Key performance indicator,Code parameter,UI element,Server metric,Key performance indicator,KPIs measure success.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What does a metric represent?,Measured value,Code output,UI layout,Server log,Measured value,Metrics track performance.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is a success metric?,Indicator of goal achievement,Code result,UI design,Server config,Indicator of goal achievement,Measures product success.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is DAU?,Daily active users,Monthly revenue,Server speed,UI clicks,Daily active users,DAU tracks daily engagement.
+
+Product Manager,Metrics & KPIs,Beginner,technical,What is MAU?,Monthly active users,Daily revenue,Code metric,UI interaction,Monthly active users,MAU tracks monthly engagement.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is retention rate?,Users returning over time,New users acquired,Total revenue,Server uptime,Users returning over time,Retention shows loyalty.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is churn rate?,Users leaving product,Users joining product,Total sessions,Server load,Users leaving product,Churn indicates loss.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is conversion rate?,Users completing action,Total visits,Code efficiency,UI clicks only,Users completing action,Conversion measures effectiveness.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is funnel analysis?,Tracking user journey stages,Writing code,Designing UI,Managing servers,Tracking user journey stages,Funnel shows drop-offs.
+
+Product Manager,Metrics & KPIs,Intermediate,technical,What is engagement metric?,User interaction level,Server performance,Code output,UI design,User interaction level,Engagement reflects usage.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is cohort analysis?,Analyzing user groups over time,Sorting data,Deleting records,Grouping code,Analyzing user groups over time,Cohorts track behavior patterns.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is North Star metric?,Primary success indicator,Secondary metric,Code metric,UI metric,Primary success indicator,It aligns teams on goal.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is metric alignment?,Matching metrics with goals,Writing code,Testing UI,Managing logs,Matching metrics with goals,Alignment ensures relevance.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is vanity metric?,Misleading metric,Key metric,Growth metric,Revenue metric,Misleading metric,Vanity metrics lack real value.
+
+Product Manager,Metrics & KPIs,Advanced,technical,What is actionable metric?,Metric that drives decisions,Static metric,Code metric,UI metric,Metric that drives decisions,Actionable metrics guide actions.
+
+Product Manager,Metrics & KPIs,Beginner,situational,User engagement is dropping. What should you do?,Analyze usage data,Ignore trend,Add random features,Delay action,Analyze usage data,Data helps identify issues.
+
+Product Manager,Metrics & KPIs,Intermediate,situational,Conversion rate is low. What should you do?,Optimize user journey,Ignore metric,Increase pricing,Add features randomly,Optimize user journey,Improvement increases conversions.
+
+Product Manager,Metrics & KPIs,Intermediate,situational,High churn observed. What should you do?,Investigate causes,Ignore churn,Increase ads,Change UI colors,Investigate causes,Root cause analysis is key.
+
+Product Manager,Metrics & KPIs,Advanced,situational,Metrics conflict with business goals. What should you do?,Realign metrics with goals,Ignore mismatch,Delay analysis,Add more metrics,Realign metrics with goals,Alignment ensures accuracy.
+
+Product Manager,Metrics & KPIs,Advanced,situational,Stakeholder focuses on vanity metrics. What should you do?,Shift focus to actionable metrics,Agree blindly,Ignore stakeholder,Delay discussion,Shift focus to actionable metrics,Actionable metrics matter.at is roadmap ownership?,Responsibility for roadmap,Writing code,Testing UI,Managing servers,Responsibility for roadmap,Ownership ensures accountability.
+
+Product Manager,Roadmapping,Advanced,technical,What is roadmap risk mitigation?,Reducing delivery risks,Adding features,Ignoring issues,Delaying release,Reducing delivery risks,Mitigation ensures stability.
+
+Product Manager,Product Thinking,Intermediate,situational,Users are confused about feature usage. What should you do?,Improve usability and guidance,Ignore feedback,Add more features,Delay fix,Improve usability and guidance,Better UX improves clarity.
+
+Product Manager,Product Strategy,Advanced,situational,Product growth stagnates. What should you do?,Revisit growth strategy,Ignore trend,Blame team,Reduce features,Revisit growth strategy,Strategy needs adjustment.
+
+Product Manager,Product Strategy,Intermediate,situational,High churn observed. What should you do?,Analyze retention drivers,Ignore churn,Increase pricing,Add random features,Analyze retention drivers,Understanding churn improves retention.
+
+Product Manager,Roadmapping,Intermediate,situational,Multiple teams depend on one feature. What should you do?,Manage dependencies actively,Ignore dependencies,Delay work,Remove feature,Manage dependencies actively,Dependency handling is key.
+
+Product Manager,Roadmapping,Advanced,situational,Roadmap conflicts with business goals. What should you do?,Realign roadmap with goals,Ignore mismatch,Delay project,Add features,Realign roadmap with goals,Alignment ensures success.
+
+
+
 
