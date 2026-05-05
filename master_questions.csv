@@ -39,3 +39,125 @@ Business Analyst,Business Analysis,Intermediate,situational,Requirements keep ch
 Business Analyst,Business Analysis,Advanced,situational,A project is failing due to unclear scope. What should you do?,Re-define scope clearly,Continue execution,Blame team,Stop communication,Re-define scope clearly,Clear scope is critical for success.
 
 Business Analyst,Business Analysis,Advanced,situational,A senior stakeholder pushes unrealistic deadlines. What should you do?,Negotiate with data,Accept blindly,Ignore timeline,Delay silently,Negotiate with data,Data-backed negotiation is effective.
+
+Business Analyst,Requirement Gathering,Beginner,technical,What is the main goal of requirement gathering?,Understand user needs,Write code modules,Design UI screens,Manage servers,Understand user needs,Requirement gathering focuses on capturing user needs.
+
+Business Analyst,Requirement Gathering,Beginner,technical,Which technique is commonly used to gather requirements?,Interviews,Code review,Server setup,UI testing,Interviews,Interviews help gather detailed insights.
+
+Business Analyst,Requirement Gathering,Beginner,technical,What type of requirement describes system behavior?,Functional requirement,UI theme,Server logs,Database index,Functional requirement,Functional requirements define system behavior.
+
+Business Analyst,Requirement Gathering,Beginner,technical,What type defines performance constraints?,Non-functional requirement,Code script,UI design,Test case,Non-functional requirement,Non-functional requirements define performance and limits.
+
+Business Analyst,Requirement Gathering,Beginner,technical,Which document captures requirements formally?,BRD,Source code,API log,Test run,BRD,BRD documents requirements clearly.
+
+Business Analyst,Requirement Gathering,Intermediate,technical,What is requirement elicitation?,Collecting requirements,Testing code,Deploying apps,Managing payroll,Collecting requirements,Elicitation involves gathering requirements from stakeholders.
+
+Business Analyst,Requirement Gathering,Intermediate,technical,Which method helps group user needs visually?,Affinity diagram,Code compilation,Server mapping,UI wireframe,Affinity diagram,It clusters similar ideas together.
+
+Business Analyst,Requirement Gathering,Intermediate,technical,What is a user story?,Short description of feature,Database table,Server config,Test report,Short description of feature,User stories capture requirements simply.
+
+Business Analyst,Requirement Gathering,Intermediate,technical,What is MoSCoW prioritization?,Must Should Could Won’t framework,Database sorting,Code logic method,UI alignment rule,Must Should Could Won’t framework,It categorizes priorities effectively.
+
+Business Analyst,Requirement Gathering,Intermediate,technical,Which tool is used for documenting requirements?,Jira,Photoshop,VS Code,Docker,Jira,Jira is widely used for tracking requirements.
+
+Business Analyst,Requirement Gathering,Advanced,technical,What is requirement traceability?,Tracking requirement lifecycle,Writing reports,Testing UI,Managing logs,Tracking requirement lifecycle,Traceability links requirements to outcomes.
+
+Business Analyst,Requirement Gathering,Advanced,technical,What ensures requirements completeness?,Validation process,Code execution,Server restart,UI testing,Validation process,Validation ensures requirements are correct.
+
+Business Analyst,Requirement Gathering,Advanced,technical,What is stakeholder analysis?,Identifying stakeholder influence,Writing code,Testing system,Deploying app,Identifying stakeholder influence,It evaluates stakeholder impact.
+
+Business Analyst,Requirement Gathering,Advanced,technical,What is backlog refinement?,Updating requirement backlog,Deleting code,Testing UI,Restarting server,Updating requirement backlog,Refinement improves backlog clarity.
+
+Business Analyst,Requirement Gathering,Advanced,technical,What is acceptance criteria?,Conditions for feature success,Code comments,Server logs,UI design,Conditions for feature success,Defines when a feature is complete.
+
+Business Analyst,Requirement Gathering,Beginner,situational,A user is unable to explain requirements clearly. What should you do?,Ask probing questions,Ignore user input,Delay project,Ask developer to decide,Ask probing questions,Probing helps uncover real needs.
+
+Business Analyst,Requirement Gathering,Intermediate,situational,Multiple stakeholders request different features. What should you do?,Prioritize based on value,Implement all immediately,Ignore conflicts,Delay indefinitely,Prioritize based on value,Prioritization ensures focus.
+
+Business Analyst,Requirement Gathering,Intermediate,situational,A requirement is incomplete. What should you do?,Seek clarification,Proceed anyway,Ignore requirement,Remove it entirely,Seek clarification,Clarification avoids future issues.
+
+Business Analyst,Requirement Gathering,Advanced,situational,A critical requirement is missing late in project. What should you do?,Assess impact and update scope,Ignore it,Blame team,Delay delivery silently,Assess impact and update scope,Impact analysis helps decision-making.
+
+Business Analyst,Requirement Gathering,Advanced,situational,Stakeholders disagree on priority. What should you do?,Facilitate discussion with data,Choose randomly,Escalate without context,Ignore both,Facilitate discussion with data,Data-driven discussion resolves conflict.
+
+Business Analyst,Stakeholder Management,Beginner,technical,Who is a stakeholder?,Anyone impacted by project,Only developers,Only managers,Only testers,Anyone impacted by project,Stakeholders include anyone affected by outcomes.
+
+Business Analyst,Stakeholder Management,Beginner,technical,What is stakeholder mapping?,Identifying stakeholder influence,Writing code,Designing UI,Testing software,Identifying stakeholder influence,Mapping helps understand power and interest.
+
+Business Analyst,Stakeholder Management,Beginner,technical,Which group has high power and high interest?,Key stakeholders,Observers,End users only,Vendors only,Key stakeholders,They require close management.
+
+Business Analyst,Stakeholder Management,Beginner,technical,What is communication plan?,Strategy to inform stakeholders,Code structure,UI layout,Test plan,Strategy to inform stakeholders,Ensures consistent communication.
+
+Business Analyst,Stakeholder Management,Beginner,technical,Which skill is critical for stakeholder management?,Communication,Debugging,UI design,Server setup,Communication,Clear communication builds alignment.
+
+Business Analyst,Stakeholder Management,Intermediate,technical,What is stakeholder engagement?,Involving stakeholders actively,Ignoring stakeholders,Only sending emails,Only reporting status,Involving stakeholders actively,Engagement builds trust.
+
+Business Analyst,Stakeholder Management,Intermediate,technical,What is RACI matrix?,Responsibility assignment tool,Database schema,UI layout,Testing method,Responsibility assignment tool,RACI defines roles clearly.
+
+Business Analyst,Stakeholder Management,Intermediate,technical,What is escalation?,Raising issue to higher authority,Fixing code,Testing UI,Updating database,Raising issue to higher authority,Escalation resolves blockers.
+
+Business Analyst,Stakeholder Management,Intermediate,technical,What is stakeholder expectation management?,Aligning expectations with reality,Ignoring expectations,Overpromising,Delaying communication,Aligning expectations with reality,Prevents dissatisfaction.
+
+Business Analyst,Stakeholder Management,Intermediate,technical,Which approach builds trust?,Transparent communication,Hidden updates,Delayed responses,Minimal interaction,Transparent communication,Transparency builds credibility.
+
+Business Analyst,Stakeholder Management,Advanced,technical,What is stakeholder influence analysis?,Evaluating impact and power,Writing reports,Testing system,Deploying code,Evaluating impact and power,Helps prioritize stakeholders.
+
+Business Analyst,Stakeholder Management,Advanced,technical,What is change resistance?,Opposition to change,Code failure,UI bug,Server crash,Opposition to change,Common in organizational change.
+
+Business Analyst,Stakeholder Management,Advanced,technical,What is negotiation in BA role?,Reaching mutually beneficial agreement,Forcing decisions,Ignoring feedback,Delaying action,Reaching mutually beneficial agreement,Negotiation balances interests.
+
+Business Analyst,Stakeholder Management,Advanced,technical,What is stakeholder alignment?,Ensuring shared understanding,Ignoring differences,Working independently,Reducing communication,Ensuring shared understanding,Alignment ensures smooth execution.
+
+Business Analyst,Stakeholder Management,Advanced,technical,What is influence without authority?,Guiding decisions without power,Managing servers,Writing code,Testing UI,Guiding decisions without power,Important leadership skill.
+
+Business Analyst,Stakeholder Management,Beginner,situational,A stakeholder is unresponsive. What should you do?,Follow up with clarity,Ignore them,Delay project,Escalate immediately,Follow up with clarity,Clear follow-ups improve response.
+
+Business Analyst,Stakeholder Management,Intermediate,situational,A stakeholder keeps changing requirements. What should you do?,Implement change control process,Accept all changes instantly,Ignore updates,Delay delivery,Implement change control process,Controls scope creep.
+
+Business Analyst,Stakeholder Management,Intermediate,situational,Two teams disagree on requirements. What should you do?,Facilitate joint discussion,Choose one team,Ignore both,Escalate blindly,Facilitate joint discussion,Collaboration resolves conflict.
+
+Business Analyst,Stakeholder Management,Advanced,situational,A senior stakeholder dominates decisions. What should you do?,Balance input using data,Agree without question,Ignore them,Delay discussion,Balance input using data,Data ensures fairness.
+
+Business Analyst,Stakeholder Management,Advanced,situational,Stakeholders are misaligned on goals. What should you do?,Re-align objectives clearly,Proceed anyway,Ignore differences,Delay communication,Re-align objectives clearly,Clear goals drive alignment.
+
+Business Analyst,Documentation (BRD/FRD),Beginner,technical,What does BRD stand for?,Business Requirement Document,Basic Report Design,Backend Resource Data,Business Role Definition,Business Requirement Document,BRD captures high-level business needs.
+
+Business Analyst,Documentation (BRD/FRD),Beginner,technical,What does FRD define?,Functional system details,Financial reports,Frontend design,Framework rules,Functional system details,FRD defines system behavior.
+
+Business Analyst,Documentation (BRD/FRD),Beginner,technical,Which document is more technical?,FRD,BRD,Project charter,Test case,FRD,FRD contains technical-level details.
+
+Business Analyst,Documentation (BRD/FRD),Beginner,technical,What is a key section in BRD?,Business objectives,Code snippets,Server logs,UI themes,Business objectives,BRD focuses on business goals.
+
+Business Analyst,Documentation (BRD/FRD),Beginner,technical,Who reviews BRD?,Stakeholders,Only developers,Only testers,Only HR,Stakeholders,Stakeholders validate business needs.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,technical,What ensures clarity in documentation?,Clear language,Complex jargon,Long paragraphs,Minimal details,Clear language,Clarity avoids misunderstandings.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,technical,What is version control in documentation?,Tracking changes,Writing reports,Testing UI,Deploying code,Tracking changes,Version control maintains history.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,technical,What is a use case diagram?,Visual system interaction,Code structure,Server map,UI layout,Visual system interaction,Shows user-system relationships.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,technical,What improves document readability?,Structured format,Random notes,Long text blocks,Unclear terms,Structured format,Structure improves understanding.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,technical,What is a requirement specification?,Detailed requirement description,Code module,UI template,Server config,Detailed requirement description,Defines requirements precisely.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,technical,What is traceability matrix?,Mapping requirements to outputs,Writing reports,Testing UI,Managing logs,Mapping requirements to outputs,Ensures coverage and tracking.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,technical,What is documentation standardization?,Consistent document format,Random writing,Code reuse,Server config,Consistent document format,Standardization improves usability.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,technical,What is ambiguity in requirements?,Unclear meaning,Code error,UI bug,Server issue,Unclear meaning,Ambiguity leads to confusion.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,technical,What is requirement validation?,Ensuring correctness,Writing reports,Testing UI,Deploying code,Ensuring correctness,Validation confirms accuracy.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,technical,What is documentation review?,Checking accuracy and completeness,Writing new code,Testing servers,Updating UI,Checking accuracy and completeness,Review ensures quality.
+
+Business Analyst,Documentation (BRD/FRD),Beginner,situational,A document is unclear to stakeholders. What should you do?,Simplify and clarify,Ignore feedback,Delay project,Rewrite later,Simplify and clarify,Clarity improves understanding.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,situational,Requirements are misunderstood by team. What should you do?,Refine documentation clearly,Blame team,Ignore issue,Delay work,Refine documentation clearly,Clear docs prevent confusion.
+
+Business Analyst,Documentation (BRD/FRD),Intermediate,situational,Documentation is outdated. What should you do?,Update it immediately,Ignore it,Delete it,Delay update,Update it immediately,Up-to-date docs are critical.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,situational,Multiple versions of document exist. What should you do?,Implement version control,Ignore duplicates,Delete all,Delay review,Implement version control,Version control ensures consistency.
+
+Business Analyst,Documentation (BRD/FRD),Advanced,situational,Stakeholder rejects documentation. What should you do?,Review and incorporate feedback,Ignore rejection,Escalate immediately,Delay project,Review and incorporate feedback,Feedback improves quality.
+
+
