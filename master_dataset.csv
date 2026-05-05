@@ -1,0 +1,45 @@
+Role,Skill,Level,Resource Title,Type,Duration,Link
+
+Business Analyst,Business Analysis,Beginner,Get started with business analysis,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/get-started-business-analysis/
+Business Analyst,Business Analysis,Beginner,Business Analysis overview,Atlassian,15 min,https://www.atlassian.com/agile/project-management/business-analysis
+Business Analyst,Business Analysis,Beginner,What is Business Analysis,BA Times,10 min,https://www.batimes.com/articles/what-is-business-analysis/
+Business Analyst,Business Analysis,Intermediate,Analyze business processes,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/paths/analyze-business-processes/
+Business Analyst,Business Analysis,Intermediate,BPMN Guide,Camunda,30 min,https://camunda.com/bpmn/reference/
+Business Analyst,Business Analysis,Advanced,Improve business processes,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/improve-business-processes/
+
+Business Analyst,SQL,Beginner,Query relational data,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/query-relational-data/
+Business Analyst,SQL,Beginner,SQL Tutorial,W3Schools,30 min,https://www.w3schools.com/sql/
+Business Analyst,SQL,Intermediate,SQL Joins Guide,Mode,1 hr,https://mode.com/sql-tutorial/sql-joins/
+Business Analyst,SQL,Advanced,SQL Indexing Guide,Use The Index Luke,20 min,https://use-the-index-luke.com/
+
+Product Manager,Product Thinking,Beginner,User-centered design basics,NNGroup,20 min,https://www.nngroup.com/articles/user-centered-design/
+Product Manager,Product Thinking,Intermediate,Product discovery guide,ProductPlan,20 min,https://www.productplan.com/glossary/product-discovery/
+Product Manager,Product Thinking,Advanced,Scaling product strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights
+
+Product Manager,Product Strategy,Beginner,Product strategy basics,ProductPlan,15 min,https://www.productplan.com/glossary/product-strategy/
+Product Manager,Product Strategy,Intermediate,Create product roadmap,Microsoft Learn,4 hrs,https://learn.microsoft.com/en-us/training/modules/create-product-roadmap/
+Product Manager,Product Strategy,Advanced,Product strategy insights,McKinsey,20 min,https://www.mckinsey.com
+
+BI Developer,Data Modelling,Beginner,Intro to data modeling,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/data-modeling/
+BI Developer,Data Modelling,Intermediate,Star schema guide,Microsoft Docs,20 min,https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
+BI Developer,Data Modelling,Advanced,Data warehouse design,Kimball,20 min,https://www.kimballgroup.com
+
+Data Analyst,Data Analysis,Beginner,Intro to data analysis,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-data-analysis/
+Data Analyst,Data Analysis,Intermediate,Data cleaning,Kaggle,1 hr,https://www.kaggle.com/learn/data-cleaning
+Data Analyst,Data Analysis,Advanced,Analytics strategy,McKinsey,20 min,https://www.mckinsey.com/capabilities/quantumblack/our-insights
+
+Scrum Master / Product Owner,Scrum Framework,Beginner,What is Scrum,Scrum.org,20 min,https://www.scrum.org/resources/what-is-scrum
+Scrum Master / Product Owner,Scrum Framework,Intermediate,Scrum ceremonies,Atlassian,20 min,https://www.atlassian.com/agile/scrum/ceremonies
+Scrum Master / Product Owner,Scrum Framework,Advanced,Scaling Scrum,Scrum.org,20 min,https://www.scrum.org/resources/scaling-scrum
+
+Program Manager,Process Improvement,Beginner,Process improvement basics,ASQ,15 min,https://asq.org/quality-resources/process-improvement
+Program Manager,Process Improvement,Intermediate,Lean vs Six Sigma,GoLeanSixSigma,20 min,https://goleansixsigma.com/lean-six-sigma/
+Program Manager,Process Improvement,Advanced,Process transformation,McKinsey,20 min,https://www.mckinsey.com/capabilities/operations/our-insights
+
+Cross-Role (Emerging Skills),Generative AI,Beginner,Intro to generative AI,Microsoft Learn,2 hrs,https://learn.microsoft.com/en-us/training/modules/introduction-to-generative-ai/
+Cross-Role (Emerging Skills),Generative AI,Intermediate,GenAI use cases,McKinsey,20 min,https://www.mckinsey.com
+Cross-Role (Emerging Skills),Generative AI,Advanced,AI models overview,Microsoft Learn,6 hrs,https://learn.microsoft.com/en-us/training/modules/ai-models/
+
+Advanced / Consulting,Consulting Mindset,Beginner,Consulting basics,BCG,15 min,https://www.bcg.com/about/what-we-do
+Advanced / Consulting,Consulting Mindset,Intermediate,Case interview prep,McKinsey,20 min,https://www.mckinsey.com/careers/how-we-hire/how-to-prepare-for-case-interviews
+Advanced / Consulting,Consulting Mindset,Advanced,Problem solving strategy,HBR,20 min,https://hbr.org/2016/01/how-to-solve-problems
