@@ -453,4 +453,123 @@ Product Manager,User Stories,Advanced,situational,Stories do not align with busi
 Product Manager,Agile,Intermediate,situational,Sprint scope keeps increasing. What should you do?,Control scope strictly,Accept all changes,Ignore issue,Delay sprint,Control scope strictly,Scope control ensures focus.
 Product Manager,Agile,Advanced,situational,Team struggles with delivery predictability. What should you do?,Improve estimation and tracking,Ignore issue,Blame team,Delay releases,Improve estimation and tracking,Better planning improves predictability.
 Product Manager,Metrics & KPIs,Advanced,situational,Metrics improve but user satisfaction drops. What should you do?,Investigate user feedback,Ignore mismatch,Add features,Delay action,Investigate user feedback,User feedback reveals issues.
- 
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+BI Developer,SQL,Beginner,technical,What does SQL do?,Manages relational data,Designs UI,Runs servers,Writes APIs,Manages relational data,SQL is used for database operations.
+
+BI Developer,SQL,Beginner,technical,Which command retrieves data?,SELECT,INSERT,UPDATE,DELETE,SELECT,SELECT fetches records.
+
+BI Developer,SQL,Beginner,technical,Which clause filters rows?,WHERE,GROUP BY,ORDER BY,JOIN,WHERE,WHERE applies conditions.
+
+BI Developer,SQL,Beginner,technical,Which command adds new data?,INSERT,SELECT,DELETE,JOIN,INSERT,INSERT adds records.
+
+BI Developer,SQL,Beginner,technical,Which keyword sorts results?,ORDER BY,WHERE,GROUP BY,HAVING,ORDER BY,ORDER BY sorts data.
+
+BI Developer,SQL,Intermediate,technical,What does GROUP BY do?,Aggregates data,Filters rows,Deletes records,Sorts data,Aggregates data,GROUP BY groups rows.
+
+BI Developer,SQL,Intermediate,technical,What does COUNT function do?,Counts rows,Calculates sum,Finds average,Finds maximum,Counts rows,COUNT returns row count.
+
+BI Developer,SQL,Intermediate,technical,What is INNER JOIN?,Returns matching rows,Returns all rows,Deletes duplicates,Sorts data,Returns matching rows,INNER JOIN combines matches.
+
+BI Developer,SQL,Intermediate,technical,What is HAVING clause?,Filters aggregated data,Sorts data,Deletes rows,Adds data,Filters aggregated data,HAVING works after grouping.
+
+BI Developer,SQL,Intermediate,technical,What is primary key?,Unique identifier,Duplicate field,Optional column,Foreign reference,Unique identifier,Primary key identifies records.
+
+BI Developer,SQL,Advanced,technical,What is indexing?,Improves query speed,Deletes data,Sorts data,Groups rows,Improves query speed,Indexes optimize performance.
+
+BI Developer,SQL,Advanced,technical,What is normalization?,Reduces redundancy,Adds duplication,Sorts data,Deletes tables,Reduces redundancy,Normalization organizes schema.
+
+BI Developer,SQL,Advanced,technical,What is subquery?,Query inside query,Primary key,Table join,Database schema,Query inside query,Subqueries are nested.
+
+BI Developer,SQL,Advanced,technical,What is view?,Virtual table,Physical table,Stored procedure,Index,Virtual table,View stores query result.
+
+BI Developer,SQL,Advanced,technical,What is transaction?,Unit of work,Data type,Join type,Query plan,Unit of work,Transaction ensures consistency.
+
+BI Developer,SQL,Beginner,situational,A query returns too many rows. What should you do?,Add filter condition,Delete data,Restart database,Ignore results,Add filter condition,Filtering refines output.
+
+BI Developer,SQL,Intermediate,situational,Join output is incorrect. What should you do?,Check join logic,Delete table,Ignore issue,Restart query,Check join logic,Correct join ensures accuracy.
+
+BI Developer,SQL,Intermediate,situational,Query runs slowly. What should you do?,Optimize query or index,Delete data,Ignore issue,Restart system,Optimize query or index,Optimization improves speed.
+
+BI Developer,SQL,Advanced,situational,Data redundancy observed. What should you do?,Apply normalization,Ignore issue,Delete data,Restart database,Apply normalization,Normalization removes redundancy.
+
+BI Developer,SQL,Advanced,situational,Transaction fails partially. What should you do?,Rollback transaction,Ignore error,Restart database,Delete table,Rollback transaction,Rollback maintains integrity.
+BI Developer,SQL,Advanced,technical,What is LEFT JOIN?,Returns all left rows with matches,Returns only matching rows,Deletes unmatched rows,Sorts data,Returns all left rows with matches,LEFT JOIN preserves left table.
+
+BI Developer,SQL,Advanced,technical,What is RIGHT JOIN?,Returns all right rows with matches,Returns only matching rows,Deletes unmatched rows,Groups data,Returns all right rows with matches,RIGHT JOIN preserves right table.
+
+BI Developer,SQL,Advanced,technical,What is FULL OUTER JOIN?,Returns all rows from both tables,Returns only matching rows,Deletes duplicates,Sorts data,Returns all rows from both tables,Includes matched and unmatched.
+
+BI Developer,SQL,Advanced,technical,What is window function?,Operates across row sets,Deletes rows,Creates tables,Sorts columns,Operates across row sets,Used for analytics queries.
+
+BI Developer,SQL,Advanced,technical,What is CTE?,Temporary query result,Primary key,Table index,Join condition,Temporary query result,CTE improves readability.
+
+BI Developer,Data Modeling,Beginner,technical,What is data model?,Structure of data relationships,Code structure,UI design,Server config,Structure of data relationships,Defines how data is organized.
+
+BI Developer,Data Modeling,Beginner,technical,What is entity?,Object in data model,Code block,UI element,Server log,Object in data model,Entity represents real-world object.
+
+BI Developer,Data Modeling,Beginner,technical,What is attribute?,Property of entity,Database table,Code module,UI layout,Property of entity,Attributes describe entities.
+
+BI Developer,Data Modeling,Beginner,technical,What is relationship?,Connection between entities,Code structure,UI design,Server config,Connection between entities,Defines how entities interact.
+
+BI Developer,Data Modeling,Beginner,technical,What is ER diagram?,Visual representation of model,Code diagram,UI layout,Server design,Visual representation of model,Shows entities and relationships.
+
+BI Developer,Data Modeling,Intermediate,technical,What is normalization level?,Stages of data organization,Code levels,UI layers,Server levels,Stages of data organization,Normal forms improve structure.
+
+BI Developer,Data Modeling,Intermediate,technical,What is star schema?,Fact table with dimensions,Single table,UI layout,Server config,Fact table with dimensions,Common in BI systems.
+
+BI Developer,Data Modeling,Intermediate,technical,What is snowflake schema?,Normalized star schema,Single table,Code structure,UI design,Normalized star schema,Adds complexity but reduces redundancy.
+
+BI Developer,Data Modeling,Intermediate,technical,What is fact table?,Stores measurable data,Stores metadata,UI layout,Server logs,Stores measurable data,Fact tables store metrics.
+
+BI Developer,Data Modeling,Intermediate,technical,What is dimension table?,Stores descriptive data,Stores metrics,Code block,Server config,Stores descriptive data,Dimensions provide context.
+
+BI Developer,Data Modeling,Advanced,technical,What is data warehouse?,Central data repository,Code repository,UI dashboard,Server log,Central data repository,Warehouse stores integrated data.
+
+BI Developer,Data Modeling,Advanced,technical,What is ETL?,Extract transform load process,Code testing,UI design,Server config,Extract transform load process,ETL moves data.
+
+BI Developer,Data Modeling,Advanced,technical,What is OLAP?,Analytical processing system,Transactional system,Code tool,UI framework,Analytical processing system,Used for analysis.
+
+BI Developer,Data Modeling,Advanced,technical,What is denormalization?,Adding redundancy for performance,Removing duplicates,Sorting data,Deleting tables,Adding redundancy for performance,Used for faster queries.
+
+BI Developer,Data Modeling,Advanced,technical,What is surrogate key?,Artificial unique key,Natural key,Foreign key,Primary attribute,Artificial unique key,Used in data warehouses.
+
+BI Developer,Data Modeling,Beginner,situational,A dataset has redundant fields. What should you do?,Apply normalization,Ignore redundancy,Delete dataset,Proceed as is,Apply normalization,Normalization removes redundancy.
+
+BI Developer,Data Modeling,Intermediate,situational,Fact table is too large. What should you do?,Optimize schema design,Ignore issue,Delete data,Split randomly,Optimize schema design,Design improves performance.
+
+BI Developer,Data Modeling,Intermediate,situational,Relationships are unclear in model. What should you do?,Redefine relationships,Ignore issue,Delete entities,Proceed anyway,Redefine relationships,Clear relationships improve structure.
+
+BI Developer,Data Modeling,Advanced,situational,Query performance is slow in warehouse. What should you do?,Use denormalization strategically,Ignore issue,Delete data,Restart system,Use denormalization strategically,Denormalization improves performance.
+
+BI Developer,Data Modeling,Advanced,situational,Data pipeline fails frequently. What should you do?,Improve ETL process,Ignore issue,Delete pipeline,Delay processing,Improve ETL process,Stable pipelines ensure reliability.
+
+BI Developer,Data Visualization,Beginner,technical,What is dashboard?,Collection of visual insights,Code editor,Database table,Server panel,Collection of visual insights,Dashboards display metrics.
+
+BI Developer,Data Visualization,Beginner,technical,What is bar chart?,Compares categories,Shows trends,Displays proportions,Maps locations,Compares categories,Bar charts compare values.
+
+BI Developer,Data Visualization,Beginner,technical,What is line chart?,Shows trends over time,Compares categories,Displays proportions,Maps data,Shows trends over time,Line charts show time trends.
+
+BI Developer,Data Visualization,Beginner,technical,What is pie chart?,Shows proportions,Compares trends,Sorts data,Filters data,Shows proportions,Pie charts show distribution.
+
+BI Developer,Data Visualization,Beginner,technical,What is axis?,Reference for values,Data point,Legend label,Color scheme,Reference for values,Axes define scale.
+
+BI Developer,Data Visualization,Intermediate,technical,What is data storytelling?,Communicating insights visually,Writing code,Testing UI,Managing servers,Communicating insights visually,Storytelling explains data.
+
+BI Developer,Data Visualization,Intermediate,technical,What improves dashboard clarity?,Simple layout,Complex visuals,Too many colors,Random charts,Simple layout,Clarity improves usability.
+
+BI Developer,Data Visualization,Intermediate,technical,What is legend?,Explains chart symbols,Axis label,Data table,Code block,Explains chart symbols,Legend clarifies charts.
+
+BI Developer,Data Visualization,Intermediate,technical,What is heatmap?,Color-based data view,Bar chart,Line chart,Pie chart,Color-based data view,Heatmaps show intensity.
+
+BI Developer,Data Visualization,Intermediate,technical,What is scatter plot?,Shows variable relationship,Displays proportions,Shows trends,Sorts data,Shows variable relationship,Scatter plots show correlation.
+
+BI Developer,Data Visualization,Advanced,technical,What is drill down?,Explore detailed data,Summarize data,Delete records,Sort data,Explore detailed data,Drill down reveals detail.
+
+BI Developer,Data Visualization,Advanced,technical,What is visualization bias?,Misleading visual representation,Accurate data display,Sorting method,Cleaning technique,Misleading visual representation,Bias distorts insights.
+
+BI Developer,Data Visualization,Advanced,technical,What is KPI dashboard?,Displays key metrics,Code panel,Database schema,Server log,Displays key metrics,KPI dashboards track performance.
+
+BI Developer,Data Visualization,Advanced,technical,What is real-time dashboard?,Live data display,Static report,Code output,Server log,Live data display,Real-time dashboards update continuously.
+
+BI Developer,Data Visualization,Advanced,technical,What is visualization best practice?,Keep charts clear and simple,Add more data,Use many colors,Ignore labels,Keep charts clear and simple,Clarity ensures understanding.
