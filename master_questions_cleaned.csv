@@ -856,3 +856,44 @@ Data Analyst,Data Storytelling,Intermediate,situational,Stakeholder wants quick 
 
 Data Analyst,Data Storytelling,Advanced,situational,Decision makers doubt your findings. What should you do?,Support with clear evidence,Ignore doubts,Change results,Blame data,Support with clear evidence,Evidence builds trust.
 
+role,skill,level,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation
+
+Product Owner,Agile Fundamentals,Beginner,technical,What is Scrum?,Agile framework,Programming language,UI tool,Database system,Agile framework,Scrum is an Agile framework.
+
+Product Owner,Agile Fundamentals,Beginner,technical,What is a sprint?,Time-boxed iteration,Code module,UI layout,Server setup,Time-boxed iteration,Sprints define work cycles.
+
+Product Owner,Agile Fundamentals,Beginner,technical,What is product backlog?,List of work items,Code repository,UI layout,Server logs,List of work items,Backlog stores requirements.
+
+Product Owner,Agile Fundamentals,Beginner,technical,Who is Product Owner?,Defines product priorities,Writes code,Tests system,Designs UI,Defines product priorities,PO manages backlog.
+
+Product Owner,Agile Fundamentals,Beginner,technical,Who is Scrum Master?,Facilitates Scrum process,Writes code,Designs UI,Tests system,Facilitates Scrum process,Scrum Master supports team.
+
+Product Owner,Agile Fundamentals,Intermediate,technical,What is sprint planning?,Planning sprint tasks,Code review,UI design,Server setup,Planning sprint tasks,Defines sprint scope.
+
+Product Owner,Agile Fundamentals,Intermediate,technical,What is daily standup?,Short team sync meeting,Code review,UI testing,Server check,Short team sync meeting,Ensures alignment.
+
+Product Owner,Agile Fundamentals,Intermediate,technical,What is sprint review?,Review completed work,Code testing,UI design,Server check,Review completed work,Shows output.
+
+Product Owner,Agile Fundamentals,Intermediate,technical,What is retrospective?,Process improvement meeting,Code review,UI testing,Server setup,Process improvement meeting,Improves team workflow.
+
+Product Owner,Agile Fundamentals,Intermediate,technical,What is sprint backlog?,Work selected for sprint,All tasks,Code file,Server log,Work selected for sprint,Sprint backlog defines execution.
+
+Product Owner,Agile Fundamentals,Advanced,technical,What is Agile principle?,Focus on customer value,Code optimization,UI design,Server setup,Focus on customer value,Agile prioritizes users.
+
+Product Owner,Agile Fundamentals,Advanced,technical,What is incremental delivery?,Delivering in parts,Delivering once,Code deployment,UI design,Delivering in parts,Supports fast feedback.
+
+Product Owner,Agile Fundamentals,Advanced,technical,What is cross functional team?,Team with multiple skills,Only developers,Only testers,Only managers,Team with multiple skills,Ensures efficiency.
+
+Product Owner,Agile Fundamentals,Advanced,technical,What is Agile scaling?,Applying Agile at scale,Small team Agile,Code scaling,UI scaling,Applying Agile at scale,Used in enterprises.
+
+Product Owner,Agile Fundamentals,Advanced,technical,What is continuous improvement?,Ongoing process enhancement,Code updates,UI design,Server config,Ongoing process enhancement,Core Agile concept.
+
+Product Owner,Agile Fundamentals,Beginner,situational,Team skips daily standups. What should you do?,Reinforce importance,Ignore issue,Cancel meetings,Delay sprint,Reinforce importance,Standups ensure alignment.
+
+Product Owner,Agile Fundamentals,Intermediate,situational,Sprint goals are unclear. What should you do?,Clarify objectives,Ignore issue,Delay sprint,Add more tasks,Clarify objectives,Clear goals guide team.
+
+Product Owner,Agile Fundamentals,Intermediate,situational,Team velocity drops. What should you do?,Analyze root cause,Ignore issue,Blame team,Increase workload,Analyze root cause,Understanding improves performance.
+
+Product Owner,Agile Fundamentals,Advanced,situational,Scope changes disrupt sprint. What should you do?,Control scope and manage changes,Accept all changes,Ignore issue,Delay sprint,Control scope and manage changes,Stability ensures delivery.
+
+Product Owner,Agile Fundamentals,Advanced,situational,Team struggles with Agile adoption. What should you do?,Provide guidance and support,Ignore issue,Force process,Delay project,Provide guidance and support,Support improves adoption.
